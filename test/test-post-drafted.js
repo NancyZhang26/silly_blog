@@ -33,20 +33,20 @@ describe("Draft posts", function () {
       expect(!draftfileexists).to.be(true);
     });
   });
-  // describe("draft post from future", () => {
-  //   const DRAFT_POST_FUTURE = "_site/posts/sixthpostdraft/index.html";
+  describe("draft post from future", () => {
+    const DRAFT_POST_FUTURE = "_site/posts/sixthpostdraft/index.html";
 
-  //   it("should NOT be rendered", () => {
-  //     var draftpostfutureexists = false;
-  //     try {
-  //       if (existsSync(DRAFT_POST_FUTURE)) {
-  //         draftpostfutureexists = true;
-  //       }
-  //     } catch (err) {
-  //       throw err;
-  //     }
+    it("should NOT be rendered", () => {
+      var draftpostfutureexists = false;
+      try {
+        if (existsSync(DRAFT_POST_FUTURE)) {
+          draftpostfutureexists = true;
+        }
+      } catch (err) {
+        throw err;
+      }
 
-  //     expect(!draftpostfutureexists).to.be(true);
-  //   });
-  // });
+      expect(!draftpostfutureexists).to.be(true);
+    });
+  });
 });
