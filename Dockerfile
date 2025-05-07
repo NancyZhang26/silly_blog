@@ -14,7 +14,8 @@ RUN npm install
 COPY . .
 
 # Run a production build (filters out drafts/future posts)
-RUN NODE_ENV=production npm run build
+# RUN NODE_ENV=production npm run build
+RUN npm run build
 
 # Expose the default Eleventy output directory (_site) via a static server
 # You can use a simple HTTP server like `serve`
