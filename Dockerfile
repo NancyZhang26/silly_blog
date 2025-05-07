@@ -19,11 +19,10 @@ RUN npm run build
 
 # Expose the default Eleventy output directory (_site) via a static server
 # You can use a simple HTTP server like `serve`
-# RUN npm install -g serve
+RUN npm install -g serve
 
 # Expose the port for the container
 EXPOSE 8080
 
 # Start the production server
-# CMD ["serve", "-s", "_site", "-l", "8080"]
-CMD ["-s", "_site", "-l", "8080"]
+CMD ["serve", "-s", "_site", "-l", "8080"]
