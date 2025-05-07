@@ -274,3 +274,28 @@ for (let img of document.querySelectorAll("img")) {
     removeBlurredImage(img);
   }
 }
+
+// Server navigation fix for all internal links
+(function() {
+  // Force direct navigation for all internal links
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a');
+    if (!link) return;
+    
+    // Only handle internal links
+    if (link.hostname === window.location.hostname) {
+      console.log('Navigating to:', link.href);
+      
+      // Skip hash links on same page
+      if (link.hash && link.pathname === window.location.pathname) {
+        return;
+      }
+      
+      // Force direct navigation for all internal links
+      e.preventDefault();
+      window.location.href = link.href;
+    }
+  });
+  
+  console.log('Server navigation fix loaded for all links');
+})();
