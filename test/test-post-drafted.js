@@ -18,7 +18,7 @@ describe("Draft posts", function () {
     return;
   }
   describe("draft post", () => {
-    const DRAFT_POST = "_site/posts/spring2025finalweekpt1/index.html";
+    const DRAFT_POST = "_site/posts/firstpost/index.html";
 
     it("w. draft: true should NOT be rendered", () => {
       var draftfileexists = false;
