@@ -1,12 +1,13 @@
 ---
 layout: layouts/base.njk
-title: About
+title: Nancy Zhang [nan-c jæng]
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Full-time slacker. Part-time tennis student-athlete & CS Student & Music Student. 🎾💻🎵
+Part-part-time DJ & pianist & guitarist. 🎧🎹🎸
+Part-part-part-time blogger & joker. 🖋️🃏
+Part-part-part-part-time just a chill girl iykyk. 😮‍💨
