@@ -5,7 +5,6 @@ date: 2025-05-04
 scheduled: 2025-05-04
 tags: posts
 layout: layouts/post.njk
-draft: false
 ---
 <h3>Pre-BOS Saturday</h3> 
 It was like a fucking movie. Losing both my singles and doubles with a bad sunburn and skin peeling off my shoulders. Feeling like Michael Jackson, I watched my dear seniors clinching against CWRU, cheering, and screaming. It was a celebration in its raw form. Such a bittersweet moment. Can’t do anything other than ordering a drink from the bar in Hilton Honors and spilling it in the car park, and picking up another booze from Rebecca. God, Lord forbid Pauri from knowing this. I have no words for this man. Sometimes he gives me some genuine kindness, and other times I just want to shovel some meat into his mouth. Coaches. I respect all of them. 
