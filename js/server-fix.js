@@ -1,4 +1,5 @@
 /**
+ * Delete if needed.
  * Ultra-simple fix for server navigation issues
  * Add this to your HTML right before </body>
  */

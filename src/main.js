@@ -275,7 +275,7 @@ for (let img of document.querySelectorAll("img")) {
   }
 }
 
-// Server navigation fix for all internal links
+// Server navigation fix for all internal links - Delete if needed
 (function() {
   // Force direct navigation for all internal links
   document.addEventListener('click', function(e) {
