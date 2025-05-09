@@ -1,5 +1,5 @@
 ---
-title: Spring 2025 Final Week pt.1
+title: Final Week pt.1
 description: Draft
 date: 2025-05-04
 scheduled: 2025-05-04
