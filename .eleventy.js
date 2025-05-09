@@ -174,11 +174,11 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByTag("posts")
       .filter(item => {
         // Filter out drafts
-        return !item.data.draft;
+        return process.env.ELEVENTY_ENV !== "production" || !item.data.draft;
       })
       .filter(item => {
         // Filter out posts with future dates
-        return new Date(item.date) <= new Date();
+        return process.env.ELEVENTY_ENV !== "production" || new Date(item.date) <= new Date();
       });
   });
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
