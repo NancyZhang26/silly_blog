@@ -1,19 +1,30 @@
 ---
-title: Final Week pt.1
+title: Final Week Pt.1. On the Edge.
 description: Draft
 date: 2025-05-04
 scheduled: 2025-05-04
 tags: posts
 layout: layouts/post.njk
 ---
+
+<h3>Check My Other Posts!</h3>
+<a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
+
 <h3>Pre-BOS Saturday</h3> 
 It was like a fucking movie. Losing both my singles and doubles with a bad sunburn and skin peeling off my shoulders. Feeling like Michael Jackson, I watched my dear seniors clinching against CWRU, cheering, and screaming. It was a celebration in its raw form. Such a bittersweet moment. Can’t do anything other than ordering a drink from the bar in Hilton Honors and spilling it in the car park, and picking up another booze from Rebecca. God, Lord forbid Pauri from knowing this. I have no words for this man. Sometimes he gives me some genuine kindness, and other times I just want to shovel some meat into his mouth. Coaches. I respect all of them. 
 
+![RIP My 18 Dollars](/img/blog/spilled-drink.jpg)
+<small>Me: "Why is this drink so good?" Bartender: "Because I made it."</small>
+
 <h3>Pre-game Sunday</h3> 
+
+![RIP My 18 Dollars](/img/blog/springfest.jpg)
+<small>Who are those people?</small>
+
 Flying back and then Spring Fest. Doing work here and there. Showing up in PJs, surrendering to imaginary peer pressure by borrowing a skort from Bhakti. This is not a typo. A skort is a skort. Mad drinking and mad eating. Triple crossed. Losing my mind. My head is spinning. Saw some girls flashing. Saw some guys flexing. Ending up in a food + alc + 🍃+ 🌫️ coma. Woke up, took a shower in Gosman and went straight for a chamber music rehearsal. Hitting all the wrong notes in the dark recital at 9:30 pm. The red exit lights were so fking scary. 
 
 <h3>Messy Monday</h3> 
-Went to my 8:30 am class and fell asleep with my feet dangling in the front seat when only ~12/~50 people showed up in the lecture. Did an interview, wearing my long-ass coat in 77°F because I don’t have a business casual. When the 40-year-old+ Ukrainian interviewer asked about JavaScript Typescript and Node.js, all I did was ramble. I have only one word: ChatGPT. I did not mention it even once. His eyebrows kept rising and dropping. Stop judging me bro. I thought Ukraine and China are good bros. Please be kind to a 21-year-old girl who still has a hangover. Too much hangover that I forgot to mute myself practicing a music presentation during the following zoom class. When I emotionally said “xxx music…flamboyant fashion….” the guest speaker talking about some hard-as-f machine learning said: “Yes, this xxx graph does have a flamboyant fashion.” See, consensus from a pro.
+Went to my 8:30 am class and fell asleep with my feet dangling in the front seat when only ~12/~50 people showed up in the lecture. Did an interview, wearing my long-ass coat in 77°F because I don’t have a business casual. When the 40-year-old+ Ukrainian interviewer asked about JavaScript Typescript and Node.js, all I did was ramble. I have only one word: ChatGPT. I did not mention it even once. His eyebrows kept rising and dropping. Stop judging me bro. I thought Ukraine and China are good bros. Please be kind to a 21-year-old girl who still has a hangover. Too much hangover that I forgot to mute myself practicing a music presentation during the following zoom class. When I emotionally said “xxx music…flamboyant fashion….” the guest speaker talking about some hard-as-f machine learning said: “Yes, this xxx graph does have a flamboyant fashion.” Consensus from a pro!
 
 Went to a presentation, only to realize that we neither have a thesis nor 4 scholarly citations. 0 interests in jazz history, 1000% in securing an A. Refined the slides in 20 minutes with some AI assistance. The class was clapping for 10+ seconds. Thanks Ace for making the music video. I did not know what the hell was going on. You should flex. I’m just tallking shit. Yeah, talking shit and skipping the last OS class. Sorry professor. It’s not personal.
 
