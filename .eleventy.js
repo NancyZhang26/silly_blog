@@ -171,7 +171,15 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
-    return collectionApi.getFilteredByTag("posts");
+    return collectionApi.getFilteredByTag("posts")
+      .filter(item => {
+        // Filter out drafts
+        return !item.data.draft;
+      })
+      .filter(item => {
+        // Filter out posts with future dates
+        return new Date(item.date) <= new Date();
+      });
   });
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
   eleventyConfig.addPassthroughCopy("img");
