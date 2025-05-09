@@ -171,14 +171,17 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
+    // Enable draft mode locally, disable in production
+    const isDevelopmentMode = process.env.ELEVENTY_ENV !== "production";
+    
     return collectionApi.getFilteredByTag("posts")
       .filter(item => {
-        // Filter out drafts
-        return process.env.ELEVENTY_ENV !== "production" || !item.data.draft;
+        // In development, show drafts. In production, hide them.
+        return isDevelopmentMode || !item.data.draft;
       })
       .filter(item => {
-        // Filter out posts with future dates
-        return process.env.ELEVENTY_ENV !== "production" || new Date(item.date) <= new Date();
+        // In development, show future posts. In production, hide them.
+        return isDevelopmentMode || new Date(item.date) <= new Date();
       });
   });
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
