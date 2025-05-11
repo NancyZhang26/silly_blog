@@ -1,6 +1,6 @@
 ---
 title: Final Week Pt.2. Give Me A Moment.
-description: This is a post on My Blog about leveraging agile frameworks.
+description: Junior count down -- a week and a bit more.
 date: 2025-05-09
 scheduled: 2025-05-09
 tags:
