@@ -11,6 +11,7 @@
       "Bhakti Parwani", 
       "Chase",
       "Ella Chase",
+      "Ella",
       "Jiayi",
       "Jiayi Zhang",
       "Chahana",
@@ -33,7 +34,14 @@
       "Cecilia Denis",
       "CD",
       "Summer",
-      "Summer Quinn"
+      "Summer Quinn",
+      "Anastasia",
+      "Anastasia Sia",
+      "Stassi",
+      "Sabrina",
+      "Sabrina Loui",
+      "Sabs",
+      "Sabby"
     ];
     
     // Messages for different people - using name mapping to handle variations
@@ -49,7 +57,9 @@
       "Jiayi": "我的姐啊，救救你的妹。",
       "Phoebe": "Bunny bean, here is a rom com in action. Everything that I need to tell you & forgot to tell you. I miss you!!",
       "Cecilia": "Thx again for the shoes CD. Here is the tea... between us...",
-      "Summmer": "Appreciate the shoes Summer. I hope this post gives you a little laugh.",
+      "Summer": "Appreciate the shoes Summer. I hope this post gives you a little laugh.",
+      "Anastasia": "Miss you Stassi. Enjoy the sescret tea... and keep it a secret...",
+      "Sabrina": "Wassup Hawaiiam hottie. Here is a little secret entertainment for you... Secret...",
       "default": "Welcome to this sh*t show (no)!"
     };
     
@@ -57,10 +67,12 @@
     const nameToMessageMap = {
       "nancy": "Nancy",
       "nancy zhang": "Nancy",
+      "me": "Nancy",
       "bhakti": "Bhakti",
       "bhakti parwani": "Bhakti",
       "chase": "Chase",
       "ella chase": "Chase",
+      "ella": "Chase",
       "jiayi": "Jiayi",
       "jiayi zhang": "Jiayi",
       "chahana": "Chahana",
@@ -81,8 +93,16 @@
       "mandy reyes": "Mandy",
       "cecilia": "Cecilia",
       "cecilia denis": "Cecilia",
+      "cd": "Cecilia",
       "summer": "Summer",
-      "summer quinn": "Summer"
+      "summer quinn": "Summer",
+      "anastasia": "Anastasia",
+      "anastasia sia": "Anastasia",
+      "stassi": "Anastasia",
+      "sabrina": "Sabrina",
+      "sabs": "Sabrina",
+      "sabrina loui": "Sabrina",
+      "sabby": "Sabrina"
     };
     
     // The ID of the blog post that requires authentication
