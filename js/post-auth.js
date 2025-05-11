@@ -29,6 +29,11 @@
       "Mandy Reyes",
       "Phoebe",
       "Phoebe Tamaoki",
+      "Cecilia",
+      "Cecilia Denis",
+      "CD",
+      "Summer",
+      "Summer Quinn"
     ];
     
     // Messages for different people - using name mapping to handle variations
@@ -43,6 +48,8 @@
       "Sanju": "Sanjana Kumar. Love to see you here. I still remember you telling me Watty was such a better guy compared to Ken. That was really wise. I am glad I listened. But...still friends. Friends last forever.",
       "Jiayi": "我的姐啊，救救你的妹。",
       "Phoebe": "Bunny bean, here is a rom com in action. Everything that I need to tell you & forgot to tell you. I miss you!!",
+      "Cecilia": "Thx again for the shoes CD. Here is the tea... between us...",
+      "Summmer": "Appreciate the shoes Summer. I hope this post gives you a little laugh.",
       "default": "Welcome to this sh*t show (no)!"
     };
     
@@ -71,7 +78,11 @@
       "sanjana": "Sanju",
       "sanjana kumar": "Sanju",
       "mandy": "Mandy",
-      "mandy reyes": "Mandy"
+      "mandy reyes": "Mandy",
+      "cecilia": "Cecilia",
+      "cecilia denis": "Cecilia",
+      "summer": "Summer",
+      "summer quinn": "Summer"
     };
     
     // The ID of the blog post that requires authentication
