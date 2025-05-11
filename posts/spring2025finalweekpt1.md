@@ -3,7 +3,7 @@ title: Final Week Pt.1. On the Edge.
 description: Junior count down -- almost there.
 date: 2025-05-04
 scheduled: 2025-05-04
-tags: posts
+tags: deis life
 layout: layouts/post.njk
 ---
 
@@ -53,7 +53,7 @@ Hitting all the wrong notes again. Thank you and sorry to the ones coming. No mo
 
 <h3>WTF Wednesday</h3> 
 
-Did I say 2 finals? No I didn’t. Well after the first one my hand hurt from writing. When I submitted my exam paper, prof said “Thanks Nancy.” Awww! He remembers my name! Not surprised based on the ~500-word email I spammed him and the ~500-word reply he gave me. I love this blue-eyed dude. Please take Delfino’s class my homies. What a guy. Studied for more OS, skipped more classes. Did more studies and practiced more guitar and headed to Slosberg again for my guitar jury. Who’s there? Three white-hair professors, ***<u>and Pierce.***</u> Nervous? Hell yeah. Choked? Duh. Fingers were trembling. Voices were shaking. Tunes are deviating. Only hoping that nobody noticed I sang the same sentence twice because they are in Chinese. Either way, done. One of the professors gave out a light laugh when I was playing “Don’t Get Around Much Anymore.” He has GOT to be impressed by my skills man. It’s gotta be because of that. 
+Did I say 2 finals? No I didn’t. Well after the first one my hand hurt from writing. When I submitted my exam paper, prof said “Thanks Nancy.” Awww! He remembers my name! Not surprised based on the ~500-word email I spammed him and the ~500-word reply he gave me. I love this blue-eyed dude. Please take Delfino’s class my homies. What a guy. Studied for more OS, skipped more classes. Did more studies and practiced more guitar and headed to Slosberg again for my guitar jury. Who’s there? Three white-hair professors, ***<u>and Pierce.***</u> Nervous? Hell yeah. Choked? Duh. Fingers were trembling. Voices were shaking. Tunes are deviating. Only hoping that nobody could notice me singing the same sentences twice because they are in Chinese. Either way, done. One of the professors gave out a light laugh when I was playing “Don’t Get Around Much Anymore.” He has GOT to be impressed by my skills man. It’s gotta be because of that. 
 
 ![Guitar Jury](/img/blog1.0/guitar-jury.jpeg)
 <small>Thanks Pierce!</small>
@@ -70,7 +70,7 @@ Grabbed a quick meal with Pierce and his guys, and I started zoning out on Chape
 ![Chilling on Chapels](/img/blog1.0/chilling-on-chapels.jpeg)
 <small>Just chilling.</small>
 
-Went to watch the second chamber performance. There was Nick who played cello ***<u>without wearing his shoes***</u> and his bow peeling because he was playing so hard (in a good way. My jaw dropped.) There was a girl who played piano so fast I couldn’t see her fingers. Wow, why did I come? I don’t know!
+Went to watch the second chamber performance. There was Nick who played cello ***<u>without wearing his shoes***</u> and his bow peeling because he was playing so hard (in a good way. My jaw dropped.). There was a girl who played piano so fast I couldn’t see her fingers. Wow, why did I come? I don’t know!
 
 ![Cello w dawgs](/img/blog1.0/cello-w-dawgs.jpeg)
 <small>He is talented af!</small>
@@ -94,12 +94,12 @@ Yapped with Johnny for a bit. Practiced and fixed my DJ set for 2+ hours. Eyes w
 ![SA Formal](/img/blog1.0/sa-formal.jpg)
 <small>Like a movie.</small>
 
-The next thing I know, ***<u>7 people shoveled themselves into a 4-seat car.***</u> Watty, we gotta pay your gas money. Aidan’s shoulders are on my legs, and I am feeling every single piece of Mandy’s hair. Thank god I wore perfume. I kept zoning out in Margaritas. 
+The next thing I know, ***<u>7 people shoveled themselves into a 4-seat car.***</u> Watty, we gotta pay your gas money. Aidan’s shoulders are on my legs, and I am feeling every single piece of Mandy’s hair. Thank god I wore perfume. 
 
 ![Watty's stuffed car](/img/blog1.0/you-cant-tell.jpg)
 <small>You can't tell how many people are in this Mazda.</small>
 
-Thanks Chase for the 2 drinks. You got my back every single time. 
+I kept zoning out in Margaritas. Thanks Chase for the 2 drinks. You got my back every single time. 
 
 ![Pink Drink](/img/blog1.0/pink-drink.jpg)
 <small>It's so pink! (pause)</small>

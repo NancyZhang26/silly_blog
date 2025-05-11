@@ -3,8 +3,7 @@ title: Final Week Pt.2. Give Me A Moment.
 description: Junior count down -- a week and a bit more.
 date: 2025-05-09
 scheduled: 2025-05-09
-tags:
-  - number-2
+tags: deis life
 layout: layouts/post.njk
 ---
 
@@ -62,7 +61,7 @@ Emailed this lady; emailed that gentleman… After registering for CPT and confi
 ![OS Final Array Question](/img/blog1.0/os-array-q.jpg)
 <small>That question I was laughing about.</small>
 
-When the shuttle drove past Gosman, I realized that I hadn’t been working out or doing anything athletic for 2 solid weeks. I saw Gosman, and I became mentally nauseous. I don’t want to play any tennis. I don’t want to see it. I don’t want to hear it. I don’t want to touch it. ***<u>I don’t want to think about anything related to it***</u> -- the latest updates, my victory rate this season, or my summer training. No. Just stop. I don’t want anything to do with it.
+When the shuttle drove past Gosman, I realized that I hadn’t been working out or doing anything athletic for 2 solid weeks. I saw Gosman, and I instantly became mentally nauseous. I don’t want to play any tennis. I don’t want to see it. I don’t want to hear it. I don’t want to touch it. ***<u>I don’t want to think about anything related to it***</u> -- the latest updates, my victory rate this season, or my summer training. No. Just stop. I don’t want anything to do with it.
 
 But why did I still pack up the rackets and gears in my dorm? Why did I still wrap up my tennis shoes in my suitcase? I was scared again. I was scared that without tennis, I would be absolutely nothing. I know it is a naive sentiment, but my worst fear is going back to those 4 months when I was sick and could only watch my friends playing tennis and cursing on their double faults. It is such a privilege to be tortured on court, such a privilege to have those sweet worries about getting ready for the next match. Am I born a competitor? I don’t know. ***<u>I have been playing tennis for so many years, and never have I ever hated it this much.***</u> I need a fking break. Give me a break. Every loss reminds me of what a failure I was. I cannot dominate any valuable competitions, even after the effort I put in during summer and winter. I am playing 3/4 singles and 2 doubles, but I want to go to the NCAA too. I want to let my parents know I made them proud and let all the US colleges know that a Chinese girl has slayed at some point. But I don’t think I have the mental capacity to do that, maybe not the actual level either. I am tired of getting frustrated, tired of talking big shit and not leveling up to them. If you want something, go get it. Maybe I don’t want it as much. All I want now is to make this simple website jump to the right blog posts through the hyperlink when I deploy it on Azure, but Azure doesn’t fking want it. Microsoft, I have given you enough subscription money. Why can’t you just let me be?
 
