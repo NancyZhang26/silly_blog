@@ -19,7 +19,7 @@ That’s it?? I guess I am done yesterday when the output is printing exactly li
 <h3>Meloncholy Mondy</h3>
 Called Jiayi for a long time, booking a ticket for a MIDDLE seat for a 6-hour flight, with an upgrade requiring 90 dollars. Capitalists or robbers? My legs will survive. 
 
-Spammed OS’s OH for 2 hours. That Korean lady was scary bro. She kept smiling and laughing. When I asked for points back from my 3 quizzes, I couldn’t tell if she was judging. Seeing me shamelessly asking points back for a quiz taken 2 months ago for the most absurd reasons. Ryan started doing the same, and so did Cam.
+Spammed OS’s OH for 2 hours. That Korean lady was scary bro. She kept smiling and laughing. When I asked for points back from my 3 quizzes, I couldn’t tell if she was judging. Seeing me shamelessly asking points back for a quiz taken 2 months ago for the most absurd reasons, Ryan started doing the same, and so did Cam.
 
 “You two…” The Korean woman laughed again, and I did too. Ryan asked if he could get points back for the “Dining Philosopher” diagram. We all took a look at his paper and burst into uncontrollable laughter. Tears are coming out crazy. I can’t go to OH with Ryan anymore. Whenever I see him, I would be thinking about the random-ass ways we finish our assignments and start laughing like a maniac.
 
