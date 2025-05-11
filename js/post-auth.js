@@ -105,7 +105,7 @@
       title.textContent = "Before you read...";
       
       const description = document.createElement('p');
-      description.textContent = "This post contains details from a private night out. Please enter your name to continue:";
+      description.textContent = "This post contains juicy details from a private night out for GIRLS ONLY. Please enter your name to continue:";
       
       const input = document.createElement('input');
       input.type = 'text';
