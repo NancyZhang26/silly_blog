@@ -11,7 +11,7 @@
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
     "debug": "DEBUG=* eleventy && npm run test",
-    "test": "mocha test/test*.js",
+    "test": "ELEVENTY_ENV=production mocha test/test*.js",
     "test-watch": "mocha test/test*.js --watch --watch-files=test/*",
     "clean": "rm -Rf ./_site/posts/*"
   },
