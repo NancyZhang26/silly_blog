@@ -7,6 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
+![Me](/img/nz-bio.jpeg)
+<small>A ziv 128 production. (to-be-updated)</small>
+
 Full-time slacker. Part-time tennis student-athlete & CS Student & Music Student. 🎾💻🎵
 Part-part-time DJ & pianist & guitarist. 🎧🎹🎸
 Part-part-part-time blogger & joker. 🖋️🃏
