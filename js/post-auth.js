@@ -11,7 +11,6 @@
       "Bhakti Parwani", 
       "Chase",
       "Ella Chase",
-      "Ella",
       "Jiayi",
       "Jiayi Zhang",
       "Chahana",
@@ -41,7 +40,23 @@
       "Sabrina",
       "Sabrina Loui",
       "Sabs",
-      "Sabby"
+      "Sabby",
+      "Ella",
+      "Ella Subramanian",
+      "Nikki",
+      "Nikita Sulkar",
+      "Nikita",
+      "Ally",
+      "Ally Bernstein",
+      "Sarita",
+      "Sarita Biswas",
+      "Sophie",
+      "Sophie Xu",
+      "Sooofy",
+      "Kelsey",
+      "Jenny",
+      "Angela",
+      "Christine"
     ];
     
     // Messages for different people - using name mapping to handle variations
@@ -60,6 +75,15 @@
       "Summer": "Appreciate the shoes Summer. I hope this post gives you a little laugh.",
       "Anastasia": "Miss you Stassi. Enjoy the sescret tea... and keep it a secret...",
       "Sabrina": "Wassup Hawaiiam hottie. Here is a little secret entertainment for you... Secret...",
+      "Ella": "Miss you Ellu! Visit Deis soon! But before that... here is the tea...",
+      "Nikki": "Thanks for the unforgettable Boston experience Nikki! Hope this post can untertain you for a bit!",
+      "Ally": "Welcome Ally! Hope all is well! Hope the archillies is stronger than ever!",
+      "Sarita": "Heyyy Sarita! Miss you a lot. Hope to see you at Deis soon. :)",
+      "Sophie": "Sophie!! Princess!! 好想你! Our tea sessions are the best. :)",
+      "Kelsey": "Kels! Hope you enjoy the tea, and have fun in Michigan. :D",
+      "Jenny": "珍妮姐好久没见啦! 希望一切都好嗷。",
+      "Angela": "Hope you enjoy the tea Angela. I say hi to niuniu. :D ",
+      "Christine": "Heyyyy Korean princess! Hope all is well in NY. Stay in touch!",
       "default": "Welcome to this sh*t show (no)!"
     };
     
@@ -72,7 +96,6 @@
       "bhakti parwani": "Bhakti",
       "chase": "Chase",
       "ella chase": "Chase",
-      "ella": "Chase",
       "jiayi": "Jiayi",
       "jiayi zhang": "Jiayi",
       "chahana": "Chahana",
@@ -102,7 +125,24 @@
       "sabrina": "Sabrina",
       "sabs": "Sabrina",
       "sabrina loui": "Sabrina",
-      "sabby": "Sabrina"
+      "sabby": "Sabrina",
+      "ella": "Ella",
+      "ella subramanian": "Ella",
+      "nikki": "Nikki",
+      "nikita sulkar": "Nikki",
+      "nikita": "Nikki",
+      "ally": "Ally",
+      "ally bernstein": "Ally",
+      "sarita": "Sarita",
+      "sarita biswas": "Sarita",
+      "sophie": "Sophie",
+      "sophie xu": "Sophie",
+      "sooofy": "Sophie",
+      "kelsey": "Kelsey",
+      "kels": "Kelsey",
+      "jenny": "Jenny",
+      "angela": "Angela",
+      "christine": "Christine"
     };
     
     // The ID of the blog post that requires authentication
