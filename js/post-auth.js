@@ -82,7 +82,7 @@
       "Sophie": "Sophie!! Princess!! 好想你! Our tea sessions are the best. :)",
       "Kelsey": "Kels! Hope you enjoy the tea, and have fun in Michigan. :D",
       "Jenny": "珍妮姐好久没见啦! 希望一切都好嗷。",
-      "Angela": "Hope you enjoy the tea Angela. I say hi to niuniu. :D ",
+      "Angela": "Hope you enjoy the tea Angela. Please say hi to niuniu for me! :D ",
       "Christine": "Heyyyy Korean princess! Hope all is well in NY. Stay in touch!",
       "default": "Welcome to this sh*t show (no)!"
     };
@@ -334,7 +334,7 @@
             if (message.parentNode === document.body) {
               document.body.removeChild(message);
             }
-          }, 5500);
+          }, 6500);
           
         } else {
           // Show error message
