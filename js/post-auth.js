@@ -1,8 +1,6 @@
-// Create a new file: js/post-auth.js
-// This handles the authentication popup for restricted blog posts
-
+// Updated post-auth.js with fixes for deployment issues
 (function() {
-    // Configuration - Add the approved names here
+    // Configuration - Add the approved names here (UPDATED LIST)
     const approvedNames = [
       "Nancy", 
       "Me",
@@ -54,6 +52,7 @@
       "Sophie Xu",
       "Sooofy",
       "Kelsey",
+      "Kels",
       "Jenny",
       "Angela",
       "Christine"
@@ -87,7 +86,7 @@
       "default": "Welcome to this sh*t show (no)!"
     };
     
-    // Map to determine which message to show for each name
+    // Map to determine which message to show for each name - UPDATED
     const nameToMessageMap = {
       "nancy": "Nancy",
       "nancy zhang": "Nancy",
@@ -150,7 +149,11 @@
     
     // Check if we're on the restricted post
     function isRestrictedPost() {
-      return window.location.pathname.toLowerCase().includes(restrictedPostId);
+      // Use a more robust check that handles URL variations
+      const currentPath = window.location.pathname.toLowerCase();
+      return currentPath.includes(restrictedPostId) || 
+             currentPath.includes("/posts/" + restrictedPostId) ||
+             currentPath.includes("/posts/" + restrictedPostId + "/");
     }
     
     // Check if user has already been authenticated
@@ -158,13 +161,20 @@
       return sessionStorage.getItem('clubbing_auth') === 'true';
     }
     
-    // Set the authentication status
+    // Set the authentication status with version number to handle updates
     function setAuthenticated(status) {
       sessionStorage.setItem('clubbing_auth', status);
+      sessionStorage.setItem('auth_version', '2'); // Increment when you update names
     }
     
     // Create and show the modal
     function showAuthModal() {
+      // Clear any existing modal first (in case of duplicates)
+      const existingModal = document.querySelector('.auth-overlay');
+      if (existingModal) {
+        document.body.removeChild(existingModal);
+      }
+      
       // Create modal elements
       const overlay = document.createElement('div');
       overlay.className = 'auth-overlay';
@@ -292,6 +302,26 @@
       
       // Focus the input
       input.focus();
+
+      // Try to retrieve names from localStorage as a fallback if there are issues
+      function getLocalApprovedNames() {
+        try {
+          let localNames = localStorage.getItem('approved_names');
+          if (localNames) {
+            return JSON.parse(localNames);
+          }
+        } catch (e) {
+          console.error("Error reading from localStorage:", e);
+        }
+        return null;
+      }
+
+      // Store approved names for fallback
+      try {
+        localStorage.setItem('approved_names', JSON.stringify(approvedNames));
+      } catch (e) {
+        console.error("Error writing to localStorage:", e);
+      }
       
       // Check authentication on button click
       button.addEventListener('click', function() {
@@ -310,8 +340,13 @@
         // Simple case-insensitive check
         const normalizedName = name.trim();
         
+        // Try different approval mechanisms to be more resilient
+        let fallbackNames = getLocalApprovedNames() || [];
+        
         // Check if name is in approved list (case-insensitive)
         const approved = approvedNames.some(
+          approved => approved.toLowerCase() === normalizedName.toLowerCase()
+        ) || fallbackNames.some(
           approved => approved.toLowerCase() === normalizedName.toLowerCase()
         );
         
@@ -363,6 +398,11 @@
     
     // Main function that runs on page load
     function init() {
+      // Clear authentication if version doesn't match
+      if (sessionStorage.getItem('auth_version') !== '2') {
+        sessionStorage.removeItem('clubbing_auth');
+      }
+      
       // Only proceed if we're on the restricted post
       if (!isRestrictedPost()) {
         return;
@@ -395,4 +435,11 @@
     } else {
       init();
     }
-  })();
+    
+    // Expose a reset function for debugging
+    window.resetClubAuth = function() {
+      sessionStorage.removeItem('clubbing_auth');
+      sessionStorage.removeItem('auth_version');
+      console.log("Authentication reset. Reload the page to see the auth modal.");
+    };
+})();
