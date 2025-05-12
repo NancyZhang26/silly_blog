@@ -1,6 +1,6 @@
-// Updated post-auth.js with fixes for deployment issues
+// Updated post-auth.js with session-based authentication
 (function() {
-    // Configuration - Add the approved names here (UPDATED LIST)
+    // Configuration - Add the approved names here
     const approvedNames = [
       "Nancy", 
       "Me",
@@ -86,7 +86,7 @@
       "default": "Welcome to this sh*t show (no)!"
     };
     
-    // Map to determine which message to show for each name - UPDATED
+    // Map to determine which message to show for each name
     const nameToMessageMap = {
       "nancy": "Nancy",
       "nancy zhang": "Nancy",
@@ -161,15 +161,14 @@
       return sessionStorage.getItem('clubbing_auth') === 'true';
     }
     
-    // Set the authentication status with version number to handle updates
+    // Set the authentication status
     function setAuthenticated(status) {
       sessionStorage.setItem('clubbing_auth', status);
-      sessionStorage.setItem('auth_version', '2'); // Increment when you update names
     }
     
     // Create and show the modal
     function showAuthModal() {
-      // Clear any existing modal first (in case of duplicates)
+      // Clear any existing modal first
       const existingModal = document.querySelector('.auth-overlay');
       if (existingModal) {
         document.body.removeChild(existingModal);
@@ -302,26 +301,6 @@
       
       // Focus the input
       input.focus();
-
-      // Try to retrieve names from localStorage as a fallback if there are issues
-      function getLocalApprovedNames() {
-        try {
-          let localNames = localStorage.getItem('approved_names');
-          if (localNames) {
-            return JSON.parse(localNames);
-          }
-        } catch (e) {
-          console.error("Error reading from localStorage:", e);
-        }
-        return null;
-      }
-
-      // Store approved names for fallback
-      try {
-        localStorage.setItem('approved_names', JSON.stringify(approvedNames));
-      } catch (e) {
-        console.error("Error writing to localStorage:", e);
-      }
       
       // Check authentication on button click
       button.addEventListener('click', function() {
@@ -340,13 +319,8 @@
         // Simple case-insensitive check
         const normalizedName = name.trim();
         
-        // Try different approval mechanisms to be more resilient
-        let fallbackNames = getLocalApprovedNames() || [];
-        
         // Check if name is in approved list (case-insensitive)
         const approved = approvedNames.some(
-          approved => approved.toLowerCase() === normalizedName.toLowerCase()
-        ) || fallbackNames.some(
           approved => approved.toLowerCase() === normalizedName.toLowerCase()
         );
         
@@ -396,13 +370,11 @@
       document.head.appendChild(shakeStyle);
     }
     
+    // Console log for debugging
+    console.log("Auth script loaded v2 - Session-based");
+    
     // Main function that runs on page load
     function init() {
-      // Clear authentication if version doesn't match
-      if (sessionStorage.getItem('auth_version') !== '2') {
-        sessionStorage.removeItem('clubbing_auth');
-      }
-      
       // Only proceed if we're on the restricted post
       if (!isRestrictedPost()) {
         return;
@@ -439,7 +411,6 @@
     // Expose a reset function for debugging
     window.resetClubAuth = function() {
       sessionStorage.removeItem('clubbing_auth');
-      sessionStorage.removeItem('auth_version');
       console.log("Authentication reset. Reload the page to see the auth modal.");
     };
 })();

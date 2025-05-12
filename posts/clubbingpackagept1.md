@@ -39,7 +39,7 @@ After 20 minutes on the ***<u>Buosdon***</u> highway, driving past that New Bala
 
 I guess ***<u>if they were giving us a hard time paying, then we shouldn’t pay at all.***</u> But we paid. Because Mr. President, I like the US air. I wanna stay here for a little longer.
 
-Then we saw one of the most familiar faces from Deis. Watty was shocked as if the meter started talking — It was Daniel. ***<u>Daniel Shemesh from the men’s team.***</u> Is the city too small, or were we related in another life? Anyways, great to see a Deis face. Daniel looked at us up and down and went, “You two are all dressed up! Where are you going?” Before I could process the plot twist, Watty answered, “Clubbing!”
+Then we saw one of the most familiar faces from Deis. Watty was shocked as if the meter started talking — It was Daniel. ***<u>Daniel Shemesh from the men’s team.***</u> Is the city too small, or were we related in another life? Anyways, great to see a Deis face. Danny looked at us up and down and smirked, “You two are all dressed up! Where are you going?” Before I could process the plot twist, Watty answered, “Clubbing!”
 
 Now I am nervous that I will have to provide the most unforgettable clubbing experience to my homie. But it is a Thursday evening, and I am sober and even ***<u>more sober than I was before my OS exam.***</u> We will see.
 
@@ -64,7 +64,7 @@ I couldn’t help but comment, “I would never tolerate my significant other ca
 
 “Leave them! Duh.” 
 
-But Watty said he would just accept it. Lowkey, I think we should watch Notebook.
+But Watty said he would ***<u>just accept it.***</u> Lowkey, I think we should watch Notebook.
 
  ***<u>…Bella was gonna hand over her v-card to Edward!***</u>
 
@@ -77,7 +77,7 @@ Watty, asking the most innocent question in the Wattiest way: ***<u>“What is s
 
 I, with my poor #__ bodies, suddenly felt a sense of seniority. So I said, ***<u>“Getting ready for sex.”***</u> Word by word. Syllable by syllable. 
 
-Watty gave out a silent laugh. Maybe he was genuinely entertained… Until Bella started digging in her suitcase searching for matching lace underwear. Watty asked,  ***<u>“Do you do that too?”***</u> And that just pulled me back to the reality of my horrendous sex life, including no pre-college marriage or a trip to Bali, only a plan B. So I said, “Sometimes,” trying to add some suspense.
+Watty gave out a silent laugh. Maybe he was genuinely entertained… Until Bella started digging in her suitcase searching for matching lace underwear. Watty asked (flirted???),  ***<u>“Do you do that too?”***</u> And that just pulled me back to the reality of ***<u>my horrendous sex life, including no pre-college marriage or a trip to Bali, only a plan B.***</u> So I said, ***<u>“Sometimes,”***</u> trying to add some suspense.
 
 ![Bella picking out underwear](/img/blog2.0/bella-lace.png)
 <small>Girl...</small>
@@ -91,5 +91,24 @@ We did not finish the movie because we were heading out to this random a*s club 
 
 And please stay tuned for episode 2 —> The REAL Watty in a club.
 
-
-
+<script>
+// Reset button for testing
+document.addEventListener('DOMContentLoaded', function() {
+  if (window.location.hash === '#debug') {
+    const resetBtn = document.createElement('button');
+    resetBtn.textContent = "Reset Auth";
+    resetBtn.style.position = "fixed";
+    resetBtn.style.bottom = "10px";
+    resetBtn.style.right = "10px";
+    resetBtn.style.zIndex = "999";
+    resetBtn.style.padding = "10px";
+    resetBtn.onclick = function() {
+      if (window.resetClubAuth) {
+        window.resetClubAuth();
+        location.reload();
+      }
+    };
+    document.body.appendChild(resetBtn);
+  }
+});
+</script>
