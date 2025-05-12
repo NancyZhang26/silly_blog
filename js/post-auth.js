@@ -280,7 +280,7 @@
           z-index: 100;
           font-weight: bold;
           max-width: 300px;
-          animation: fadeOut 0.5s 5s forwards;
+          animation: fadeOut 0.5s 6.5s forwards;
         }
         
         @keyframes fadeOut {
