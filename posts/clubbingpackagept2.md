@@ -1,8 +1,8 @@
 ---
 title: Clubbing Package Pt.2. (The REAL) Watty in a Club
 description: Rom com tryout.
-date: 2025-05-13
-scheduled: 2025-05-13
+date: 2025-05-14
+scheduled: 2025-05-14
 tags:
   - Rom com.
 layout: layouts/post.njk
