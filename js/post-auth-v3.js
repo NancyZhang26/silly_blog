@@ -1,4 +1,4 @@
-// Updated post-auth.js with session-based authentication
+// Updated post-auth.js with multiple post support
 (function() {
     // Configuration - Add the approved names here
     const approvedNames = [
@@ -144,16 +144,24 @@
       "christine": "Christine"
     };
     
-    // The ID of the blog post that requires authentication
-    const restrictedPostId = "clubbingpackagept1";
+    // The IDs of blog posts that require authentication
+    const restrictedPostIds = ["clubbingpackagept1", "clubbingpackagept2"];
     
-    // Check if we're on the restricted post
+    // Check if we're on a restricted post
     function isRestrictedPost() {
-      // Use a more robust check that handles URL variations
       const currentPath = window.location.pathname.toLowerCase();
-      return currentPath.includes(restrictedPostId) || 
-             currentPath.includes("/posts/" + restrictedPostId) ||
-             currentPath.includes("/posts/" + restrictedPostId + "/");
+      
+      // Check each restricted post ID
+      for (let i = 0; i < restrictedPostIds.length; i++) {
+        const postId = restrictedPostIds[i];
+        if (currentPath.includes(postId) || 
+            currentPath.includes("/posts/" + postId) || 
+            currentPath.includes("/posts/" + postId + "/")) {
+          return true;
+        }
+      }
+      
+      return false;
     }
     
     // Check if user has already been authenticated
@@ -371,7 +379,7 @@
     }
     
     // Console log for debugging
-    console.log("Auth script loaded v2 - Session-based");
+    console.log("Auth script loaded v3 - Multi-post support");
     
     // Main function that runs on page load
     function init() {
@@ -407,10 +415,4 @@
     } else {
       init();
     }
-    
-    // Expose a reset function for debugging
-    window.resetClubAuth = function() {
-      sessionStorage.removeItem('clubbing_auth');
-      console.log("Authentication reset. Reload the page to see the auth modal.");
-    };
 })();

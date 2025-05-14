@@ -13,6 +13,8 @@ layout: layouts/post.njk
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 
+<h4>If you wanna skip to episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">(The REAL) Watty in a Club</a>
+
 <h3>Main Plot Goes Here:</h3>
 
 🚨 ***<u>ALARM: THIS IS A GIRLY POST IN ACTION.***</u> 🚨
@@ -89,26 +91,4 @@ And there were ***<u>Bella and Edward smudging each other in the ocean and rocki
 
 We did not finish the movie because we were heading out to this random a*s club by then. Watty was the one who turned this awkward experience into a comedy, and I so appreciate that. 
 
-And please stay tuned for episode 2 —> The REAL Watty in a club.
-
-<script>
-// Reset button for testing
-document.addEventListener('DOMContentLoaded', function() {
-  if (window.location.hash === '#debug') {
-    const resetBtn = document.createElement('button');
-    resetBtn.textContent = "Reset Auth";
-    resetBtn.style.position = "fixed";
-    resetBtn.style.bottom = "10px";
-    resetBtn.style.right = "10px";
-    resetBtn.style.zIndex = "999";
-    resetBtn.style.padding = "10px";
-    resetBtn.onclick = function() {
-      if (window.resetClubAuth) {
-        window.resetClubAuth();
-        location.reload();
-      }
-    };
-    document.body.appendChild(resetBtn);
-  }
-});
-</script>
+<h4>And here is episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">(The REAL) Watty in a Club</a>
