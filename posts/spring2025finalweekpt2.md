@@ -8,7 +8,11 @@ layout: layouts/post.njk
 ---
 
 <h3>Check My Other Posts!</h3>
+
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
+
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+
 <!-- <a href="{{ '/posts/thirdpost/' | url }}">Third post</a> -->
 
 <h3>Main Plots Starts Here:</h3>
@@ -31,6 +35,7 @@ For those interested in the problem, please visit: [A Wiki Wiki explanation](htt
 But Ryan drew sth like this:
 
 ![Ryan's philosophers](/img/blog1.0/ryans-dining-philosophers.png)
+<small>CS student or hidden artist?</small>
 
 I can see a lot of creativity and struggles going on. When I asked for the inspiration of that masterpiece, Ryan said it is because my friend “with the big watter bottle” drew like this, and he thought he was bad af. After all these shenanigans in ***<u>COSI 10A, 12B, 29B, 102A, 103A, and 131A,***</u> I guess we redefined the term comrade.
 
@@ -68,7 +73,12 @@ But why did I still pack up the rackets and gears in my dorm? Why did I still wr
 That is enough ranting, I guess. This is a relatively bs post, and I appreciate anyone who has read this far. I cannot afford a therapist, so I figured I would e-cure myself. Didn't mean to spread any negativity. ***<u>Warning: only more to come.***</u>
 
 <h3>Recap from Last Week --> </h3>
+
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
+
+<h3>1 Week Later --> </h3>
+
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
 
 <!-- # Test SVG

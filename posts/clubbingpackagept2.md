@@ -58,6 +58,9 @@ Before leaving the bowling venue, I asked the cashier for a pen and paper and wr
 
 We returned to the arcade level and noticed that there were only 15 minutes left on our game card. We just played several rounds of simulated race cars. ***<u>Watty hit some good records, and I hit some other cars.***</u>
 
+![Watty driving the race car](/img/blog2.0/watty.jpg)
+<small>Watty driving the race car. (Java 12b?)</small>
+
 <h3>Nothing Happened</h3>
 
 It was just us hanging out in Lucky Strike tbh. It was funny, but nothing romantic happened. I mean I wasn’t expecting anything either.
@@ -78,10 +81,15 @@ I think I will miss him, but not so much that I started ordering sugary cocktail
 
 I will miss him in the same way that I miss all my other friends. That’s all.
 
+![Drunk Selfie](/img/blog2.0/back-drunk.jpg)
+<small>01:44AM. Just me drunk talking. I guess.</small>
+
 <h3>Check My Final Week Struggle:</h3>
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
+
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
 <h3>Recap of Last Time:</h3>
 <a href="{{ '/posts/clubbingpackagept1/' | url }}">Clubbing Package Pt.1. Watty in a Club (???)</a>

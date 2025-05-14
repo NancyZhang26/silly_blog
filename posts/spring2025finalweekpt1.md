@@ -10,6 +10,8 @@ layout: layouts/post.njk
 <h3>Check My Other Posts!</h3>
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+
 <h3>Pre-BOS Saturday</h3> 
 
 ***<u>It was like a fucking movie</u>***. Losing both my singles and doubles with a bad sunburn and skin peeling off my shoulders. Feeling like Michael Jackson, I watched my dear seniors clinching against CWRU, cheering, and screaming. It was a celebration in its raw form. Such a bittersweet moment. Can’t do anything other than ordering a drink from the bar in Hilton Honors and ***<u>spilling it in the car park***</u>, and picking up another booze from Rebecca. God, Lord forbid Pauri from knowing this. I have no words for this man. Sometimes he gives me some genuine kindness, and other times I just want to shovel some meat into his mouth. Coaches. I respect all of them. 
@@ -82,7 +84,15 @@ Had a good 30-minute talk with Pauri about picking the right photos for Brandeis
 
 <h3>Thrashing Thursday</h3> 
 
-Went to Bhakti’s thesis defense. Contemplated my plan to visit Vegas casinos. ***<u>Conclusion: no more walking more than 10 meters in heels + Bhakti was such a goat.***</u> Then there was the student-athlete banquet. Why are the soccer bros moving to the front? Idc. We love to see awards given to other teams in close distances. Why is that man also sitting so close to our table? Why is he wearing a purple shirt? I don’t know. I don’t care. But somehow I became mad. The food is not bad. Sarbina, Gabe, and Sabrina’s friend group slayed again. Idk man, some people are just born different. I would just admire and pray.
+Went to Bhakti’s thesis defense. Contemplated my plan to visit Vegas casinos. ***<u>Conclusion: no more walking more than 10 meters in heels + Bhakti was such a goat.***</u> 
+
+![Bhakti's Thesis](/img/blog1.0/bhaks.jpg)
+<small>Bhakti talking about gambling.</small>
+
+Then there was the ***<u>Student-Athlete banquet.***</u> Why are the soccer bros moving to the front? Idc. We love to see awards given to other teams in close distances. Why is that man also sitting so close to our table? Why is he wearing a purple shirt? I don’t know. I don’t care. But somehow I became mad. The food is not bad. Sarbina, Gabe, and Sabrina’s friend group slayed again. Idk man, some people are just born different. I would just admire and pray.
+
+![Student-Athlete Banquet](/img/blog1.0/banquet.jpeg)
+<small>Me and the girls! @ Student-Athlete Banquet</small>
 
 Yapped with Johnny for a bit. Practiced and fixed my DJ set for 2+ hours. Eyes were closing. Sound check in Sherman Functional Hall? Fk, why isn’t the sound playing. Why is my software bugging. Wtf, RekordBox, give me back my 20 dollar subscription fee you mtrfker. Oh, false alarm. Nvm, take my money.
 
@@ -137,6 +147,9 @@ Group b, I love you simply too much. 3 am. 3 am went into 4 am, and 4 am went in
 Woke up at 11 am. Studied C for a couple of hours on and off, and here we are. Seeking comfort from OpenAI again. And this is to be continued. 
 
 <h3>Continuing The Final Week --> </h3>
+
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
+
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
 

@@ -1,5 +1,5 @@
 ---
-title: Final Week Pt.3. Before I Leave
+title: Final Week Pt.3. Before I Leave.
 description: Junior count down -- done.
 date: 2025-05-14
 scheduled: 2025-05-14
@@ -9,7 +9,9 @@ draft: true
 ---
 
 <h3>Check My Other Posts!</h3>
+
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
+
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 <!-- <a href="{{ '/posts/thirdpost/' | url }}">Third post</a> -->
 
@@ -21,11 +23,12 @@ It was too quiet without hearing Becca and Mandy laughing in the aisle, Isabelle
 
 <h3>Packing ver.1: List ‘em</h3>
 
-***<u>When I realized that I would have to step over something to get to my bed, I immediately knew that something was inherently wrong.***</u>
+***<u>When I realized that I would have to step over something to reach my bed, I immediately knew that something was inherently wrong.***</u>
 
 It was after giving some old jewelry to Kelsey — I dumped all my sh*ts on the floor, ***<u>and suddenly, there was no floor.***</u>
 
-(Picture of a messy room)
+![Messy floor.](/img/blog3.0/messy-floor.jpg)
+<small>Floor??</small>
 
 Time to say farewell to the stuff that I:
 1. like but have never used
@@ -42,11 +45,15 @@ But I started packing anyway, because ***<u>Chinese women never give up.***</u>
 
 一生不服输的中国女人。
 
+![Messy room.](/img/blog3.0/messy-room-2.0.jpg)
+<small>Where is my dinosaur?</small>
+
 <h3>Packing ver.2: Blood in Gosman</h3>
 
 I went to Gosman to grab my sh*ts, only to see some slimy red liquid on the top of my locker. Apparently one of my shampoo bottles spilled out of nowhere. I couldn’t do anything other than wash the sticky bottles and ***<u>clog 2 Gosman sinks.***</u> Got tired of saying sorry, so I dipped right away.
 
-(Picture -- feeling like Lady Macbeth for a moment)
+![Spilled shampoo](/img/blog3.0/spilled-shampoo.jpg)
+<small>Feeling like Lady Macbeth for a second.</small>
 
 I don’t wanna spend one more second here.
 
@@ -56,22 +63,25 @@ I don’t wanna spend one more second here.
 
 After a few days of packing and staring at my tributes from year 3, I shamelessly asked if Phoebe could help drive me to Buffalo Exchange in Somerville. Bunny agreed without even blinking.
 
+![Me & Phoebs](/img/blog3.0/phoebes.jpeg)
+<small>Who doesn't love a bunny?</small>
+
 It was pouring as if God was unleashing some wrath — not at me please. I am just a girl. After some traffic and some parking adventures, we entered the store. When going through my stuff, ***<u>I couldn’t tell if the cashier was judging my collection or my personality.***</u>
 
 A whole suitcase of clothes and jewelry. Sold in ***<u>20 bucks.***</u> Didn't know if I should laugh or cry.
 
 I bought a T-shirt that says “show me some trash”, with a raccoon (sorry Anastasia) sitting on Aladdin’s carpet. That was my silent protest to this thrift store. I dumped the unsold stuff in Goodwill next door. That was my karma of the day.
 
-(picture of that shirt)
+#(picture of that shirt)
 
 …
 
-(picture of me wearing sorority t-shirt)
+![Rushing in Goodwill](/img/blog3.0/rush-goodwill.jpg)
+<small>Rushing in Goodwill. Call me a sister!</small>
 
 ***<u>The commuter rail was leaving in 5 minutes!***</u> Phoebe and I were rushing in the rain. ***<u>Phoebe was cooking fast-and-furious, and I was playing a crappy cheerleader.***</u> Arriving at Porter Station, I sprinted in the rain with my Lulu shoulder bag running off my left shoulder and the empty suitcase carried weirdly with my right elbow. ***<u>I stepped onto the escalator when the train was choo-chooing, and secured a seat by the window 20 seconds later.***</u>
 
 Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet too. It was ironic that I neither had a cigarette nor sex (in a while). I breathed heavily, leaving a small mist on the window. Thanks Phoebe bunny bean.
-
 
 <h3>Packing ver.4: Nathan Rd, and Back at It</h3>
 
@@ -79,17 +89,24 @@ Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet 
 
 Yes, I ride that thing like a wild bi*ch (bye).
 
-But ***<u>done.***</u> After dumping my summer necessities at Qiyuan’s house (Xinpeng’s old house) with some struggles of not barging into the Baseball bro’s room because I thought it was the basement, I managed to line up my suitcases and guitar in Qiyuan’s garage with a little help from the Uber driver.
+But ***<u>done.***</u> My junior year boxed.
 
-(Picture of that garage)
+![6 Mega Boxes](/img/blog3.0/ss-boxes.jpg)
+<small>Are they MEGA?</small>
+
+Shifting gears to Nathan Road (Qiyuan's house & Xinpeng's old house). After almost barging into the Baseball bro’s room because I thought it was the basement, I managed to line up some of my summer necessities in Qiyuan’s garage with a little help from the Uber driver. Of course, ***<u>I generously offered a one-dollar tip.***</u>
+
+![QY's garage.](/img/blog3.0/qy-garage.jpg)
+<small>Idk which door leads to the garage. I got lucky.</small>
 
 Back at it. Other than 6 MEGA-but-not-so-mega boxes stacking in my room and a sheet-less bed with a pillow and blankets, stolen from the living room, which god knows how many people have used, everything else was gone — my Chinese flag was gone; Alo jacket was gone; mic was gone; sound card was gone; cables were gone; Kate Spade was gone; Channel was gone; Nike was gone; Timb boots were gone; empty alc bottles were gone; notebooks were gone; beddings were gone…
 
 ***<u>My junior year was gone.***</u>
 
-(2 pictures of good dorm --> empty dorm)
-
 It was 1:40 am, 5/14. The last day of finals, and 4 hours before I depart. 
+
+![QY's garage.](/img/blog3.0/emptier.jpg)
+<small>Snapshot of earlier evening. No tears.</small>
 
 <h3>Packing ver.4: A Ziv 128 Production</h3>
 
@@ -115,12 +132,23 @@ I still have a year, but ***<u>I can already feel it slipping from my fingertips
 
 The sun rose. I looked through my window for one last time, seeing the cold wooden furniture in rooms in other buildings beneath my floor. 
 
+![Last view](/img/blog3.0/last-view-at-ziv.jpg)
+<small>I insist that it is the best dorm view in the ziv quad.</small>
+
 Now my room is just full of cold wooden furniture too.
 
 ***<u>As if nobody was ever here.***</u>
 
+![Ziv in winter](/img/blog3.0/dorm-in-winter.jpg)
+<small>December, 2024.</small>
+
+![Ziv now](/img/blog3.0/empty-dorm.jpg)
+<small>May, 2025.</small>
+
 <h3>Recap from Last Week --> </h3>
+
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
+
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 
 
