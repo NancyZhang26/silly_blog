@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Check My Final Week Struggle:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Spring 2025 Final Week Pt.1. On the Edge.</a>
+<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 
@@ -79,7 +79,7 @@ I think I will miss him, but not so much that I started ordering sugary cocktail
 I will miss him in the same way that I miss all my other friends. That’s all.
 
 <h3>Check My Final Week Struggle:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Spring 2025 Final Week Pt.1. On the Edge.</a>
+<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 

@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Check My Final Week Struggle:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Spring 2025 Final Week Pt.1. On the Edge.</a>
+<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 

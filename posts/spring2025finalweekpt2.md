@@ -8,7 +8,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Check My Other Posts!</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Spring 2025 Final Week Pt.1. On the Edge.</a>
+<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 <!-- <a href="{{ '/posts/thirdpost/' | url }}">Third post</a> -->
 
 <h3>Main Plots Starts Here:</h3>
@@ -67,8 +67,8 @@ But why did I still pack up the rackets and gears in my dorm? Why did I still wr
 
 That is enough ranting, I guess. This is a relatively bs post, and I appreciate anyone who has read this far. I cannot afford a therapist, so I figured I would e-cure myself. Didn't mean to spread any negativity. ***<u>Warning: only more to come.***</u>
 
-<h3>Recaping Last Week --> </h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Spring 2025 Final Week Pt.1. On the Edge.</a>
+<h3>Recap from Last Week --> </h3>
+<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 
 <!-- # Test SVG
