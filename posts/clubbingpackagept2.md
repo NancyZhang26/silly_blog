@@ -36,7 +36,7 @@ Again, I couldn’t tell if Watty was unhappy or just chilling. Either way, he p
 
 Lucky Strike was highkey kind of bougie. The whole thing has 2+ floors, with the first floor being an arcade, and the second one being a bowling venue. The red lights were somehow sketchy. 
 
-I was way too sober for this, being 1-on-1 with Watty, who cherishes his words more than his bank account. ***<u>I immediately ordered an Espresso Martini and chugged it.***</u> Ew it just tastes like sugary water. Gives me the ick, but luckily some dizziness too.
+I was way too sober for this, being 1-on-1 with Watty, who cherishes his words more than his bank account. ***<u>I immediately ordered an Espresso Martini and chugged it.***</u> Ew it just tastes like sugary water. Gave me the ick, but luckily some dizziness too.
 
 Watty and I were hanging out on the arcade level for a bit, and ***<u>a random janitor gave us a free game card that allows an hour of free playing (?!).***</u> “Just use it.” He said with a smile, raising his white eyebrows.
 
