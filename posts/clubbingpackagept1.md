@@ -41,7 +41,7 @@ After 20 minutes on the ***<u>Buosdon***</u> highway, driving past that New Bala
 
 I guess ***<u>if they were giving us a hard time paying, then we shouldn’t pay at all.***</u> But we paid. Because Mr. President, I like the US air. I wanna stay here for a little longer.
 
-Then we saw one of the most familiar faces from Deis. Watty was shocked as if the meter started talking — It was Daniel. ***<u>Daniel Shemesh from the men’s team.***</u> Is the city too small, or were we related in another life? Anyways, great to see a Deis face. Danny looked at us up and down and smirked, “You two are all dressed up! Where are you going?” Before I could process the plot twist, Watty answered, “Clubbing!”
+Then we saw one of the most familiar faces from Deis. Watty was shocked as if the meter started talking — It was Daniel. ***<u>Daniel Shemesh from the men’s team.***</u> Is the city too small, or were we related in another life? Anyways, great to see a Deis face. Danny looked at us up and down and smirked, “You two are all dressed up! Where are you going?” Before I could process the plot twist, Watty answered with an innocent excitedness, “Clubbing!”
 
 Now I am nervous that I will have to provide the most unforgettable clubbing experience to my homie. But it is a Thursday evening, and I am sober and even ***<u>more sober than I was before my OS exam.***</u> We will see.
 

@@ -46,13 +46,15 @@ We went up to the second floor after 15 minutes and bought a 30-minute bowling s
 
 “Yo check it…” Walking in a non-straight line, ***<u>I swung my arm and threw the bowling ball in the exact way of hitting a forehand,***</u> with a little bit of follow-through and a little bit of sassiness. Watty pointed his phone camera at me, and I was flexing at how fast the ball detached from my hand and sprinted to the pins just like how I sprint to Gosman at 7 am. 
 
-***<u>And it sprinted right into the gutter.***</u> I was laughing like a maniac, and Watty was laughing like a gentleman. It was his turn. He raised his arm and released it. The ball steadily rolled down the lane and ***<u>knocked down every pin.***</u>
+***<u>The ball sprinted right into the gutter.***</u> 
 
-“Ok?? You are on camera!” I yelled a little bit too enthusiastically. I pointed my phone at Watty, documenting how he then confidently and smoothly pitched the ball into the ***<u>gutter.***</u> 
+I was laughing like a maniac, and Watty was laughing like a gentleman. It was his turn. He raised his arm and released it. The ball steadily rolled down the lane and ***<u>knocked down every pin.***</u>
+
+“Ok?? You are on camera!” I yelled a little bit too enthusiastically. I pointed my phone at Watty, documenting how he then confidently and smoothly pitched the ball into the ***<u>gutter,***</u> joining the L team with me.
 
 Strike after gutter, gutter after spare… Not surprised since my aces and double faults always alternate gracefully. I really had a good time. The Espresso Martini might have helped me. 
 
-Before leaving the bowling venue, I asked the cashier for a pen and paper and wrote him my DJ info. He said he will “give it to his manager.” God knows what I scribbled. Hopefully not my WeChat.
+Before leaving the bowling venue, I asked the cashier for a pen and paper and wrote him my DJ info. He said he will “give it to his manager.” God knows what I scribbled. ***<u>Hopefully not my WeChat.***</u>
 
 We returned to the arcade level and noticed that there were only 15 minutes left on our game card. We just played several rounds of simulated race cars. ***<u>Watty hit some good records, and I hit some other cars.***</u>
 
@@ -64,7 +66,7 @@ I really don’t know where or when I got the butterflies from. Maybe it was whe
 
 I know I am not going to ask or make anything happen either. We barely talked this semester anyway. It was just comfortable spending time with this dude with the finals behind our heads. It felt safe. It was different from hanging out with the girls.
 
-Watty is always a good friend to me. Honestly, he is nice to everybody. He always does people favors and does not ask anything back in return. 
+Watty is always a good friend to me. Honestly he is nice to everybody. He always does people favors and does not ask anything back in return. 
 
 He told me to Uber back to his place, and he will drive me home.
 
