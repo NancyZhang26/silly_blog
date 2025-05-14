@@ -5,6 +5,7 @@ date: 2025-05-14
 scheduled: 2025-05-14
 tags: deis life
 layout: layouts/post.njk
+draft: true
 ---
 
 <h3>Check My Other Posts!</h3>
@@ -100,9 +101,9 @@ The late-night conversations with Jiayi & ChatGPT, the hallucinations right befo
 
 The tears I shed, curse words I misused, illegal jokes I spitted…
 
-So many nights, coming back drunk from the frat or the city, or exhausted after a Monday TAMID meeting; early mornings, getting ready for the lift, or my 8 am Software Engineering class, tucking my stuffed dinosaur before leaving my room.
+So many nights, coming back drunk from the frat or the city, or exhausted after a Monday TAMID meeting at 10pm; early mornings, getting ready for the lift, or my 8 am Software Engineering class, tucking up my stuffed dinosaur (Rolex) before leaving my room.
 
-It is a sleepless night again, but ***<u>I genuinely don’t know why I couldn’t start dreaming.***</u>
+It was a sleepless night again, but ***<u>I genuinely don’t know why I couldn’t start dreaming.***</u>
 
 I guess I know. I told everybody that I have stopped missing Brandeis during holidays and breaks because most of my dear ones have either transferred, graduated, or simply left campus. But who am I fooling? ***<u>I will forever miss this slum.***</u> I (think) I grew a lot ever since 08/25/2022, and regardless of where I live or how I lived, Deis was always here, looking poor or holding back on US News ranking, but staying with me in every second.
 
