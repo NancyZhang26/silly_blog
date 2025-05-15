@@ -5,7 +5,6 @@ date: 2025-05-14
 scheduled: 2025-05-14
 tags: deis life
 layout: layouts/post.njk
-draft: true
 ---
 
 <h3>Check My Other Posts!</h3>
@@ -13,6 +12,7 @@ draft: true
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
+
 <!-- <a href="{{ '/posts/thirdpost/' | url }}">Third post</a> -->
 
 <h3>Main Plots Starts Here:</h3>
@@ -21,7 +21,7 @@ draft: true
 
 It was too quiet without hearing Becca and Mandy laughing in the aisle, Isabelle randomly ranting in Chinese, Johnny locking his door, and the drunk kids coming back from the frat.
 
-<h3>Packing ver.1: List ‘em</h3>
+<h3>Packing ver.1: List 'em</h3>
 
 ***<u>When I realized that I would have to step over something to reach my bed, I immediately knew that something was inherently wrong.***</u>
 
@@ -46,16 +46,27 @@ But I started packing anyway, because ***<u>Chinese women never give up.***</u>
 一生不服输的中国女人。
 
 ![Messy room.](/img/blog3.0/messy-room-2.0.jpg)
-<small>Where is my dinosaur?</small>
+<small>Can you find my dinosaur?</small>
 
 <h3>Packing ver.2: Blood in Gosman</h3>
 
-I went to Gosman to grab my sh*ts, only to see some slimy red liquid on the top of my locker. Apparently one of my shampoo bottles spilled out of nowhere. I couldn’t do anything other than wash the sticky bottles and ***<u>clog 2 Gosman sinks.***</u> Got tired of saying sorry, so I dipped right away.
+I went to Gosman to grab my sh*ts, only to see some slimy red liquid on the top of my locker. Apparently one of my shampoo bottles spilled out of nowhere. 
 
-![Spilled shampoo](/img/blog3.0/spilled-shampoo.jpg)
-<small>Feeling like Lady Macbeth for a second.</small>
+![Spilled shampoo in bag](/img/blog3.0/shampoo-in-bag.jpeg)
+<small>Looks like jam!</small>
+
+I couldn’t do anything other than wash the sticky bottles and ***<u>clog 2 Gosman sinks.***</u> Got tired of saying sorry, so I dipped right away.
+
+![Clogged 1st sink](/img/blog3.0/clog-second.jpg)
+<small>First sink, clogged</small>
+
+![Clogged 2nd sink](/img/blog3.0/clog-first.jpg)
+<small>Second sink, clogged</small>
 
 I don’t wanna spend one more second here.
+
+![Spilled shampoo](/img/blog3.0/spilled-shampoo.jpg)
+<small>Felt like Lady Macbeth for a second.</small>
 
 (Fun fact: the ***<u>BRANDEIS POLICE***</u> called me because I left my wallet in the parking lot in front of the health center after donating some medical stuff there. I guess karma was on my side?)
 
@@ -70,9 +81,10 @@ It was pouring as if God was unleashing some wrath — not at me please. I am ju
 
 A whole suitcase of clothes and jewelry. Sold in ***<u>20 bucks.***</u> Didn't know if I should laugh or cry.
 
-I bought a T-shirt that says “show me some trash”, with a raccoon (sorry Anastasia) sitting on Aladdin’s carpet. That was my silent protest to this thrift store. I dumped the unsold stuff in Goodwill next door. That was my karma of the day.
+I bought a T-shirt that says ***<u>“show me some trash”,***</u> with a raccoon (sorry Anastasia) sitting on Aladdin’s carpet. That was my silent protest to this thrift store. I dumped the unsold stuff in Goodwill next door. That was my karma of the day.
 
-#(picture of that shirt)
+![I can show you some trash](/img/blog3.0/show-you-some-trash.jpg)
+<small>I have to show you some trash!</small>
 
 …
 
@@ -85,11 +97,11 @@ Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet 
 
 <h3>Packing ver.4: Nathan Rd, and Back at It</h3>
 
-***<u>I used every ounce of Physics knowledge and willpower to cram my entire year into 6 fragile Storage Squad boxes.***</u> How can SS call these “Mega Boxes”?? ***<u>The only thing “Mega” is their imagination, and my desperation.***</u> Every time I sit on (ride) a box and tape it, the tape makes a scratching sound. I think it was its way of complaining about my violent manners.
+***<u>I used every ounce of Physics knowledge and willpower to cram my entire year into 6 fragile Storage Squad boxes.***</u> How can SS call these “Mega Boxes”?? ***<u>The only thing “Mega” is their imagination, and my desperation.***</u> Every time I sit on (ride) a box and tape it, the tape makes a scratching noise. I think it was its way of complaining about my violent manners.
 
 Yes, I ride that thing like a wild bi*ch (bye).
 
-But ***<u>done.***</u> My junior year boxed.
+But ***<u>done.***</u> My 3rd year, boxed.
 
 ![6 Mega Boxes](/img/blog3.0/ss-boxes.jpg)
 <small>Are they MEGA?</small>
@@ -99,7 +111,7 @@ Shifting gears to Nathan Road (Qiyuan's house & Xinpeng's old house). After almo
 ![QY's garage.](/img/blog3.0/qy-garage.jpg)
 <small>Idk which door leads to the garage. I got lucky.</small>
 
-Back at it. Other than 6 MEGA-but-not-so-mega boxes stacking in my room and a sheet-less bed with a pillow and blankets, stolen from the living room, which god knows how many people have used, everything else was gone — my Chinese flag was gone; Alo jacket was gone; mic was gone; sound card was gone; cables were gone; Kate Spade was gone; Channel was gone; Nike was gone; Timb boots were gone; empty alc bottles were gone; notebooks were gone; beddings were gone…
+Back at it. Other than 6 MEGA-but-not-so-mega boxes stacking in my room and a sheet-less bed with a pillow and blankets, stolen from the living room, which god knows how many people have used, ***<u>everything else was gone***</u> — my Chinese flag was gone; Alo jacket was gone; mic was gone; sound card was gone; cables were gone; Kate Spade was gone; Channel was gone; Nike was gone; Timb boots were gone; empty alc bottles were gone; notebooks were gone; beddings were gone…
 
 ***<u>My junior year was gone.***</u>
 
@@ -142,7 +154,7 @@ Now my room is just full of cold wooden furniture too.
 ![Ziv in winter](/img/blog3.0/dorm-in-winter.jpg)
 <small>December, 2024.</small>
 
-![Ziv now](/img/blog3.0/empty-dorm.jpg)
+![Ziv now](/img/blog3.0/empty-dorm-v2.jpg)
 <small>May, 2025.</small>
 
 <h3>Recap from Last Week --> </h3>
