@@ -31,7 +31,7 @@ It was after giving some old jewelry to Kelsey — I dumped all my sh*ts on the 
 <small>Floor??</small>
 
 Time to say farewell to the stuff that I:
-1. like but have never used
+1. Like but have never used
 2. Never used
 3. Used but occupies space
 4. Used but looks ugly
