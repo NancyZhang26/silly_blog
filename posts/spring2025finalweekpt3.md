@@ -93,7 +93,9 @@ I bought a T-shirt that says ***<u>“show me some trash”,***</u> with a racco
 
 ***<u>The commuter rail was leaving in 5 minutes!***</u> Phoebe and I were rushing in the rain. ***<u>Phoebe was cooking fast-and-furious, and I was playing a crappy cheerleader.***</u> Arriving at Porter Station, I sprinted in the rain with my Lulu shoulder bag running off my left shoulder and the empty suitcase carried weirdly with my right elbow. ***<u>I stepped onto the escalator when the train was choo-chooing, and secured a seat by the window 20 seconds later.***</u>
 
-Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet too. It was ironic that I neither had a cigarette nor sex (in a while). I breathed heavily, leaving a small mist on the window. Thanks Phoebe bunny bean.
+Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet too. It was ironic that I neither had a cigarette nor sex (in a while). I breathed heavily, leaving a small mist on the window. 
+
+Thanks Phoebe bunny bean.
 
 <h3>Packing ver.4: Nathan Rd, and Back at It</h3>
 
@@ -142,7 +144,7 @@ I still have a year, but ***<u>I can already feel it slipping from my fingertips
 
 …Did I even sleep.
 
-The sun rose. I looked through my window for one last time, seeing the cold wooden furniture in rooms in other buildings beneath my floor. 
+The sun rose. I looked through my window for one last time, seeing the cold wooden furniture in rooms of other buildings below my floor. 
 
 ![Last view](/img/blog3.0/last-view-at-ziv.jpg)
 <small>I insist that it is the best dorm view in the ziv quad.</small>
