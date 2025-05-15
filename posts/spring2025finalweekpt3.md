@@ -138,7 +138,7 @@ It was a sleepless night again, but ***<u>I genuinely donâ€™t know why I couldnâ
 
 I guess I know. I told everybody that I have stopped missing Brandeis during holidays and breaks because most of my dear ones have either transferred, graduated, or simply left campus. But who am I fooling? ***<u>I will forever miss this slum.***</u> I (think) I grew a lot ever since 08/25/2022, and regardless of where I live or how I lived, Deis was always here, looking poor or holding back on US News ranking, but staying with me in every second.
 
-I still have a year, but ***<u>I can already feel it slipping from my fingertips.***</u>
+I still have a year, but ***<u>I can already feel it slipping through my fingertips.***</u>
 
 <h3>Packing ver.5: See You Next Fall</h3>
 
