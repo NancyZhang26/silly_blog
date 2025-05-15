@@ -82,7 +82,7 @@ I think I will miss him, but not so much that I started ordering sugary cocktail
 I will miss him in the same way that I miss all my other friends. That’s all.
 
 ![Drunk Selfie](/img/blog2.0/back-drunk.jpg)
-<small>01:44AM. Just me drunk talking. I guess.</small>
+<small>01:44 AM. Just me drunk talking. I guess.</small>
 
 <h3>Check My Final Week Struggle:</h3>
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
