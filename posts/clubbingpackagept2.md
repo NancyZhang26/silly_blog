@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<h3>Check My Final Week Struggle:</h3>
+<h3>Check My Final Week Struggles:</h3>
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
@@ -34,7 +34,7 @@ Again, I couldn’t tell if Watty was unhappy or just chilling. Either way, he p
 
 <h3>Lucky Strike</h3>
 
-Lucky Strike was highkey kind of bougie. The whole thing has 2+ floors, with the first floor being an arcade, and the second one being a bowling venue. The red lights were somehow sketchy. 
+Lucky Strike was highkey kind of bougie. The whole thing has 2+ floors, with the first floor being an arcade, and the second one being a bowling venue. The red neon lights were somehow sketchy. 
 
 I was way too sober for this, being 1-on-1 with Watty, who cherishes his words more than his bank account. ***<u>I immediately ordered an Espresso Martini and chugged it.***</u> Ew it just tastes like sugary water. Gave me the ick, but luckily some dizziness too.
 
@@ -84,7 +84,7 @@ I will miss him in the same way that I miss all my other friends. That’s all.
 ![Drunk Selfie](/img/blog2.0/back-drunk.jpg)
 <small>01:44 AM. Just me drunk talking. I guess.</small>
 
-<h3>Check My Final Week Struggle:</h3>
+<h3>Check My Final Week Struggles:</h3>
 <a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
