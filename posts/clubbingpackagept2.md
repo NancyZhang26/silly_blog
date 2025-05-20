@@ -13,6 +13,8 @@ layout: layouts/post.njk
 
 <a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
 
+<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+
 <h3>Main Plot Goes Here:</h3>
 
 🚨 ***<u>ALARM: THIS IS A GIRLY POST IN ACTION.***</u> 🚨
