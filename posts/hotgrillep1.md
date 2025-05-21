@@ -36,7 +36,9 @@ I tried to convince him to quit smoking, for me, maybe? He said sure, just give 
 
 We broke up after a month. The last time I saw him two years ago, ***<u>he was still a smoker.***</u> 
 
-I could not locate an exact date for my second short rush to the nic club. I know it was in 11th grade. Was I under a lot of stress? Did not touch a vape. Just another cigarette because ***<u>I started talking to this ex again,***</u> and I wanted to “just try it” again. I lit up a cigarette in the bathroom of my tennis club, a different one. Somebody just happened to leave a pack and a lighter beside the sink. It was also kind of minty. It was a thin cig, and I didn’t finish it because I don’t wanna look like I have constipation by occupying that bathroom for 10 minutes.
+I could not locate an exact date for ***<u>my second short rush to the nic club.***</u> I know it was in 11th grade. Was I under a lot of stress? Did not touch a vape. Just another cigarette because ***<u>I started talking to this ex again,***</u> and I wanted to “just try it” again. I lit up a cigarette in the bathroom of my tennis club, a different one. Somebody just happened to leave a pack and a lighter beside the sink. It was also kind of minty. It was a thin cig, and I didn’t finish it because I don’t wanna look like I have constipation by occupying that bathroom for 10 minutes.
+
+My ex and I gradually drifted apart, and so did me and nic. I finished high school being 100% sober. This was probably ***<u>the last time***</u> I handled school and tennis without any chemicals.
 
 <h3>Put Me To Bed, Brandeis</h3>
 
@@ -56,9 +58,9 @@ Writing about it now makes me really sad, because I am trying to quit, which I w
 
 <h3>Late Nights and Alone, Brandeis</h3>
 
-***<u>I picked up vaping again in Sophomore year***</u> through that Chinese online dispenser I dug through Instagram. It was a brand called “Cool Bear” or something. The production was sus, because it gave me loads of congestion, which never happened before when I used Relx or Elf Bar. 
+***<u>I picked up vaping again in Sophomore year***</u> through a Chinese online dispenser I dug through Instagram. It was a brand called “Cool Bear” or something. The production was sus, because it gave me loads of congestion, which never happened when I used Relx or Elf Bar. 
 
-Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular using patterns —- first, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
+Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular patterns —- first, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
 
 I knew exactly what was going on. ***<u>I was stuck in a toxic situationship with another guy after I stopped talking to MH at the time.***</u> Let’s spare the details: I was scared and insecure that I would rely on him all the time, so scared that I chose to rely on a substance. Even a substance makes me feel safer, because ***<u>I know that a substance can never betray me.***</u>
 
@@ -72,7 +74,7 @@ I asked him, What will you do if I can not quit vaping. ***<u>He said with some 
 
 This manipulating bi*ch.
 
-No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> I hate it. I absolutely hate it. I hate to be threatened by some young man who does not even wanna wear a condom, and I hated myself more for being a pushover.
+No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> I hate it. I absolutely hate it. I hate to be threatened by some young man who said he "loved" me and then ghosted me, and I hated myself more for being a pushover.
 
 I am not a junky.
 

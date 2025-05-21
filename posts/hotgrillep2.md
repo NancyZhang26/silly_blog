@@ -28,7 +28,7 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 <h3>Nic Free Summer</h3>
 
-Sophomore year was a blast, maybe not as busy compared to junior year, but definitely more chaotic. I stopped talking to ***<u>that guy***<u> and started rekindling some conversations with my ex, MH (<a href="{{ '/posts/hotgrillep1/' | url }}">recap of details</a>). 
+Sophomore year was a blast, maybe not as busy compared to junior year, but definitely more chaotic. I stopped talking to ***<u>that guy***</u> and started rekindling some conversations with my ex, MH (<a href="{{ '/posts/hotgrillep1/' | url }}">recap of details</a>). 
 
 I quitted vaping for 80% of the summer. I am tired of losing my focus and self-control, and surrendering to some artificial flavors that make me dizzy. 
 
@@ -66,7 +66,7 @@ He said he should leave, and he did. I went back to my room and ***<u>took a big
 
 That guy came back, but something never changed. In sum, it just did not work out. ***<u>I blame him deeply, and it was very biased and personal.***</u>
 
-***<u>I was no saint either.***</u> I was in a situationship with that guy but still talking to K almost every day. Is it immoral to have a male best friend who happened to be your ex? There is a thin line, and I knew the answer. I could not stand being a bitch so I cut MH off. ***<u>This time for real.***<u> I blocked him on every social media platform. I know that ***<u>this is for the best,***</u> and I am not that innocent, insecure freshman anymore.
+***<u>I was no saint either.***</u> I was in a situationship with that guy but still talking to MH almost every day. Is it immoral to have a male best friend who happened to be your ex? There is a thin line, and I knew the answer. I could not stand being a bitch so I cut MH off. ***<u>This time for real.***</u> I blocked him on every social media platform. I know that ***<u>this is for the best,***</u> and I am not that innocent, insecure freshman anymore.
 
 Later, ***<u>I officially ended everything with that guy too,***</u> because I could not tolerate it any longer — I could not tolerate me being a pus*y and asking for more self-damage. Almost all my friends told me to think twice when I was with him, and I really should stop acting deaf.
 
@@ -84,7 +84,7 @@ I treated them as painkillers.
 
 I don’t know how my body was built. Maybe I have a higher tolerance. I could never get to the high that my friends told me. A girl once told me that ***<u>“the cars are moving in the sky.”***</u> What the fuck does that even mean. My highest high would be just falling to sleep with my consciousness dozing off. There was one time that I thought ***<u>the reflection in my mirror started dancing.***</u> It scared the sh*t out of me, and that was when I knew I should consider adopting some moderation.
 
-But ***<u>everything was off.***</u> Everything. I was functioning like a half-charged robot out of insurance. I don’t know if it was because college was overwhelming or just nicotine and weed. The most reasonable explanation would be a combination of both, and ***<u>this hell of a combo smashed me like how you smash a cockroach with a slipper.***</u>
+But ***<u>everything was off.***</u> Everything. ***<u>I was functioning like a half-charged robot out of insurance.***</u> I don’t know if it was because college was overwhelming or just nicotine and weed. The most reasonable explanation would be a combination of both, and ***<u>this hell of a combo smashed me like how you smash a cockroach with a slipper.***</u>
 
 I was looking forward to every party just so I could get drunk. So drunk that I finally don’t have to plan out and polish every detail in my life, whether if it is losing a match with a couple of match points, or realizing that without AI, I would spend hours debugging my CS homework without any real progress. ***<u>[Harry Mairson](https://www.cs.brandeis.edu/~mairson/) was right.***</u> I intoxicate my learning curve by chatGPT. Dame chatGPT.
 
