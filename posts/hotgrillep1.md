@@ -30,7 +30,7 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 ***<u>I started using nic in my 10th grade,***</u> but that was an instant impulsion that died quickly within a week because I never took a proper hit, so I never felt the nic rush. ***<u>I thought nic just does not work on me.***</u> It was funny as I literally had the vape in my pencil case for 2 years, but NEVER used it, and NOBODY found out, even when my friends or teachers dug through my pencil case for a casual borrow. It was not until 12th grade that I dumped that sinful thing into the trash can outside of my tennis club.
 
-But I still remember ***<u>inhaling a vape for the first time in 2019.***</u> My ex said, ***<u>“Just try it,”***</u> so I ***<u>just tried it.***</u> I didn’t feel anything. Just the minty flavor and a misty breath. Similar with the cigarettes. He lit up one for me, and I couldn’t continue because ***<u>I hated the smell of tobacco,***</u> even if it was diluted with some minty flavors.
+But I still remember ***<u>inhaling a vape for the first time in 2019.***</u> My ex said, ***<u>“Just try it,”***</u> so I ***<u>just tried it.***</u> I didn’t feel anything. Just the minty flavor and a misty breath. Similar with the cigarettes. He lit up one for me, and I couldn’t continue because ***<u>I hated the smell of tobacco,***</u> even if it was diluted with flavor blasts.
 
 I tried to convince him to quit smoking, for me, maybe? He said sure, just give him a few days. 
 
