@@ -74,7 +74,7 @@ I asked him, What will you do if I can not quit vaping. ***<u>He said with some 
 
 This manipulating bi*ch.
 
-No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> I hate it. I absolutely hate it. I hate to be threatened by some young man who said he "loved" me and then ghosted me, and I hated myself more for being a pushover.
+No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> I hate it. I absolutely hate it. I hate being threatened by some young man who said he "loved" me but was scared to hold my hand in the public, and I hated myself more for being a pushover.
 
 I am not a junky.
 
