@@ -30,7 +30,7 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 Sophomore year was a blast, maybe not as busy compared to junior year, but definitely more chaotic. I stopped talking to ***<u>that guy***</u> and started rekindling some conversations with my ex, MH (<a href="{{ '/posts/hotgrillep1/' | url }}">recap of details</a>). 
 
-I quitted vaping for 80% of the summer. I am tired of losing my focus and self-control, and surrendering to some artificial flavors that make me dizzy. 
+I quitted vaping for 80% of the summer. I am tired of losing my focus and self-control and surrendering to some artificial flavors that make me dizzy. 
 
 I thought I won. ***<u>I forgot about that 20%.***</u>
 
@@ -88,7 +88,7 @@ But ***<u>everything was off.***</u> Everything. ***<u>I was functioning like a 
 
 I was looking forward to every party just so I could get drunk. So drunk that I finally don’t have to plan out and polish every detail in my life, whether if it is losing a match with a couple of match points, or realizing that without AI, I would spend hours debugging my CS homework without any real progress. ***<u>[Harry Mairson](https://www.cs.brandeis.edu/~mairson/) was right.***</u> I intoxicate my learning curve by chatGPT. Dame chatGPT.
 
-Fortunately, ***<u>I started [DJing](https://on.soundcloud.com/6ac7MNaLCsDZz9vN8),***</u> and luckily, my last remaining bit of sobriety ensures that I would not drink a single drop when I am DJing. That was a lesson learned at Ethan’s party. DJing is an outlet of mine that I could not dare mess up. But ***<u>every time I came back home after an event, I ended up drowning in the hollowness of the afterparty,***</u> and I would vape crazily, trying to escape the dopamine pitfall, but only to embrace my old pal, insomnia, haunting me at 4 am.
+Fortunately, ***<u>I started [DJing](https://on.soundcloud.com/6ac7MNaLCsDZz9vN8),***</u> and luckily, my last remaining bit of sobriety ensures that I would not drink a single drop when I am in front of a deck. That was a lesson learned at Ethan’s party. DJing is an outlet of mine that I could not dare mess up. But ***<u>every time I came back home after an event, I ended up drowning in the hollowness of the afterparty,***</u> and I would vape crazily, trying to escape the dopamine pitfall, but only to embrace my old pal, insomnia, haunting me at 4 am.
 
 Don’t save me, I don’t wanna be saved. You got it [J.Cole](https://en.wikipedia.org/wiki/J._Cole)!
 

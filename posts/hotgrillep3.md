@@ -34,7 +34,7 @@ Then I ***<u>broke up with that guy <a href="{{ '/posts/hotgrillep2/' | url }}">
 
 Mandy welcomed me with a dazzling smile and a warm invitation to Mulan, the Taiwanese restaurant near campus, which I had to decline. I tried putting on my most decent face. The minute we said goodbye, I silently burst into tears.
 
-Got too tired of crying, I went into ***<u>Schwartz 112,***</u> the classroom of COSI 10A, where we officially started talking like two decent students, although we literally ***<u>just played rage cage, and I drank the bitch cup right beside him last weekend.***</u> 
+Got too tired of crying, I went into ***<u>Schwartz 112,***</u> the classroom of COSI 10A, where we officially started talking like two decent students, although we literally ***<u>just played rage cage last weekend, and I chugged the bitch cup right beside him.***</u> 
 
 I leaned back, put on my headphones, and started banging Chappell’s [“Good Luck, Babe!”](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu?si=3bac715eff374280) so many times because I could really use some good luck. Another song I put on repeat was [“APT.”](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY?si=d34c2583a26d4a25) by Mars and Rosé. No reason. I just love the melodies.
 
@@ -92,15 +92,15 @@ Do you know that you are a thief? Lifeless but stealing the real life from me. I
 
 “Eyes are constantly red.” I lied. It was because of drugs, and I knew it.
 
-I am tired. ***<u>I am so tired.***</u> So tired of relying on substance to type, to code, to journal, to become a so-called normal person. So tired of losing interest in everything, feeling like I could not laugh from heart anymore. So tired of being a kid, faking some pain that I induced to myself. So tired of playing damsel in distress and dreaming of saviors. ***<u>The highs are lower, and the lows are lower into the crust.***</u> My face was like the surface of Mars. My head was constantly aching. Insomnia. 4 am and the cold wind sneaked in through the window crevice. I was lying in my bed sucking in the demon that froze me second by second. I was so stupid. I am so mad right now, thinking about how stupid I was to imagine that a substance would free me from people. It did though, by distancing me from everything else, ***<u>freeing me from an obsession by introducing me to another.***</u> Fuck you, nicotine. Honestly, fuck you.
+I am tired. ***<u>I am so tired.***</u> So tired of relying on substance to type, to code, to journal, to become a so-called normal person. So tired of losing interest in everything, feeling like I could not laugh from heart anymore. So tired of being a kid, faking some pain that I induced to myself. So tired of playing damsel in distress and dreaming of saviors. ***<u>The highs are lower, and the lows are lower into the crust.***</u> My skin was like the surface of Mars. My head was constantly aching. Insomnia. 4 am and the cold wind sneaked in through the window crevice. I was lying in my bed sucking in the demon that froze me second by second. I was so stupid. I am so mad right now, thinking about how stupid I was to imagine that a substance would free me from people. It did though, by distancing me from everything else, ***<u>freeing me from an obsession by introducing me to another.***</u> Fuck you, nicotine. Honestly, fuck you.
 
 For so many times, I made up my mind to quit “after this one,” yet I always have an emergency vape lying in my drawer. 
 
 ***<u>Ironical and hypocritical.***</u> Why would a man in jail have a gun. Why would I need a vape if I wanna quit.
 
-I wanna be free. For real this time. ***<u>I wanna be truly free.***</u> I wanna feel everything again, ***<u>without C₁₀H₁₄N₂.***</u>
+I wanna be free. For real this time. ***<u>I wanna be truly free.***</u> I wanna feel everything again, ***<u>without nicotine.***</u>
 
-I remember that a long time ago, when I laugh I laugh like a crazy bitch; when I eat I don’t get disgusted by the minty flavor left on my lips. Every moment dived deep -- even the worst was not disguised. They ripped me open, but ***<u>they were real.***</u>
+I remember that a long time ago, when I laugh I laugh like a crazy bitch; when I eat I don’t get disgusted by the minty flavor left on my lips. Every moment dived deep - even the worst was not disguised. They ripped me open, but ***<u>they were real.***</u>
 
 I know they can come back to me. 
 
