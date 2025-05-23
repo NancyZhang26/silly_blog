@@ -60,21 +60,21 @@ Writing about it now makes me really sad, because I am trying to quit, which I w
 
 ***<u>I picked up vaping again in Sophomore year***</u> through a Chinese online dispenser I dug through Instagram. It was a brand called “Cool Bear” or something. The production was sus, because it gave me loads of congestion, which never happened when I used Relx or Elf Bar. 
 
-Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular patterns - first, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
+Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular patterns. First, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
 
-I knew exactly what was going on. ***<u>I was stuck in a toxic situationship with another guy after I stopped talking to MH at the time.***</u> Let’s spare the details: I was scared and insecure that I would rely on him all the time, so scared that I chose to rely on a substance. Even a substance made me feel safer, because ***<u>I know that a substance can never betray me.***</u>
+I knew exactly what was going on. ***<u>I was stuck in a toxic situationship with another guy after I stopped talking to MH that fall.***</u> Let’s spare the details: I was scared and insecure that I would rely on him all the time - so scared that I chose to rely on a substance. Even a substance made me feel safer, because ***<u>I know that a substance can never betray me.***</u>
 
 ***<u>I know my vapes will never betray me.***</u> My most loyal companion.
 
 It was a lot of back and forth having painful moments with this guy, and back and forth switching to patches and gums and switching back. I guess I will have to provide some context now. This guy insisted that ***<u>he would only go into a serious relationship with me after I quit vaping.***</u> He said I was “perfect” — ***<u>all “perfect” except the vaping.***</u>
 
-I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, before this, I thought I was chilling with vapes, having the freedom to dispose them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u> 
+I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, I thought I was chilling with vapes, having the freedom to dispose them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u> 
 
-I asked him, What will you do if I can not quit vaping. ***<u>He said with some nonchalance that he will not leave me right away, but he will just like me “less and less,”***</u> because he cannot stand someone who is tied up to something. He has seen his friends turning the house upside down looking for a vape. He does not want me to be the same.
+I asked him, What will you do if I can't quit vaping. ***<u>He said with some nonchalance that he will not leave me right away, but he will like me “less and less,”***</u> because he cannot stand someone who is tied up to something. He has seen his friends turning the house upside down looking for a vape. He does not want me to be the same.
 
 This manipulating bi*ch.
 
-No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> I hate it. I absolutely hate it. I hate being threatened by some young man who said he "loved" me but was scared to hold my hand in the public, and I hated myself more for being a pushover.
+No excuses for justifying addictions, but ***<u>he just dropped a condition on my worth, as if I were not worthy of commitment before being “fixed.”***</u> Fine, I was not good enough for a relationship - but then why keep having sex with me? What was I to you, a hook-up? A sex toy? I hate it. I absolutely hate it. I hate being threatened by some young man who said he "loved" me but was scared to hold my hand in public, and I hated myself even more for being a pushover.
 
 I am not a junky.
 
