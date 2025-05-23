@@ -62,7 +62,7 @@ Writing about it now makes me really sad, because I am trying to quit, which I w
 
 Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular patterns —- first, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
 
-I knew exactly what was going on. ***<u>I was stuck in a toxic situationship with another guy after I stopped talking to MH at the time.***</u> Let’s spare the details: I was scared and insecure that I would rely on him all the time, so scared that I chose to rely on a substance. Even a substance makes me feel safer, because ***<u>I know that a substance can never betray me.***</u>
+I knew exactly what was going on. ***<u>I was stuck in a toxic situationship with another guy after I stopped talking to MH at the time.***</u> Let’s spare the details: I was scared and insecure that I would rely on him all the time, so scared that I chose to rely on a substance. Even a substance made me feel safer, because ***<u>I know that a substance can never betray me.***</u>
 
 ***<u>I know my vapes will never betray me.***</u> My most loyal companion.
 
