@@ -18,7 +18,7 @@
     };
     
     // The IDs of blog posts that require authentication
-    const restrictedPostIds = ["hotgrillep1", "hotgrillep2"];
+    const restrictedPostIds = ["hotgrillep1", "hotgrillep2", "hotgrillep3"];
     
     // Check if we're on a restricted post
     function isRestrictedPost() {

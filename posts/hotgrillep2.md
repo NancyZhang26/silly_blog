@@ -40,7 +40,7 @@ I went to MH’s city for an 18+ J5 ITF tournament. Lost the qualifying round in
 
 It was a vibe. Hanging out with someone I trusted and relied on.
 
-No joke ***<u>I was being a bitch,***</u> because I needed someone to fall back on after stopped talking to that guy. My reason was, “I was being the bigger person, saving our friendship.” His reason was “we were just chilling and providing each other with emotional support.” I think ***<u>we both believed in this bullshit.***</u>
+No joke ***<u>I was being a bitch,***</u> because I needed someone to fall back on after stopped talking to that guy. My reason was, “I was being the bigger person, saving our friendship.” MH's reason was “we were just chilling and providing each other with emotional support.” I think ***<u>we both believed in this bullshit.***</u>
 
 I started breathing in and out heavily on this small electric tube again. It was like getting in touch with an old friend.
 
@@ -94,3 +94,5 @@ Don’t save me, I don’t wanna be saved. You got it [J.Cole](https://en.wikipe
 
 <h3>Check How I Grill Myself:</h3>
 <a href="{{ '/posts/hotgrillep1/' | url }}">Hot Grill ep1. C₁₀H₁₄N₂ -- 1.0.</a>
+
+<a href="{{ '/posts/hotgrillep3/' | url }}">Hot Grill ep3. C₁₀H₁₄N₂ -- 3.0.</a>

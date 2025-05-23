@@ -30,7 +30,7 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 ***<u>I started using nic in my 10th grade,***</u> but that was an instant impulsion that died quickly within a week because I never took a proper hit, so I never felt the nic rush. ***<u>I thought nic just does not work on me.***</u> It was funny as I literally had the vape in my pencil case for 2 years, but NEVER used it, and NOBODY found out, even when my friends or teachers dug through my pencil case for a casual borrow. It was not until 12th grade that I dumped that sinful thing into the trash can outside of my tennis club.
 
-But I still remember ***<u>inhaling a vape for the first time in 2019.***</u> My ex said, ***<u>“Just try it,”***</u> so I ***<u>just tried it.***</u> I didn’t feel anything. Just the minty flavor, like any other lifeless airy mist disppearing in front of me when I breathe. Similar with the cigarettes. He lit up one for me, and I couldn’t continue because ***<u>I hated the smell of tobacco,***</u> even if it was diluted with some minty flavors.
+But I still remember ***<u>inhaling a vape for the first time in 2019.***</u> My ex said, ***<u>“Just try it,”***</u> so I ***<u>just tried it.***</u> I didn’t feel anything. Just the minty flavor and a misty breath. Similar with the cigarettes. He lit up one for me, and I couldn’t continue because ***<u>I hated the smell of tobacco,***</u> even if it was diluted with some minty flavors.
 
 I tried to convince him to quit smoking, for me, maybe? He said sure, just give him a few days. 
 
@@ -68,9 +68,9 @@ I knew exactly what was going on. ***<u>I was stuck in a toxic situationship wit
 
 It was a lot of back and forth having painful moments with this guy, and back and forth switching to patches and gums and switching back. I guess I will have to provide some context now. This guy insisted that ***<u>he would only go into a serious relationship with me after I quit vaping.***</u> He said I was “perfect” — ***<u>all “perfect” except the vaping.***</u>
 
-I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, before this, I thought I was chilling with vapes, having the freedom to dispose of them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u> 
+I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, before this, I thought I was chilling with vapes, having the freedom to dispose them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u> 
 
-I asked him, What will you do if I can not quit vaping. ***<u>He said with some nonchalance that he will not leave me right away, but he will just like me “less and less,”***</u> because he cannot stand someone who is tied up to something. He has seen his friends turning the house upside down for a vape. He does not want me to be the same.
+I asked him, What will you do if I can not quit vaping. ***<u>He said with some nonchalance that he will not leave me right away, but he will just like me “less and less,”***</u> because he cannot stand someone who is tied up to something. He has seen his friends turning the house upside down looking for a vape. He does not want me to be the same.
 
 This manipulating bi*ch.
 
@@ -86,3 +86,5 @@ I realize that I must (and have already) mention more context to polish my nic s
 
 <h3>Check How I Grill Myself:</h3>
 <a href="{{ '/posts/hotgrillep2/' | url }}">Hot Grill ep2. C₁₀H₁₄N₂ -- 2.0.</a>
+
+<a href="{{ '/posts/hotgrillep3/' | url }}">Hot Grill ep3. C₁₀H₁₄N₂ -- 3.0.</a>
