@@ -82,7 +82,7 @@ I guess the toxic substance I was addicted to not only includes nicotine but als
 
 I wanna be free of reliance and betrayal, but he just locked me down once more. It was distorted, but ***<u>vaping felt like one of the only things I could control in my life, and he was taking it away from me.***</u>
 
-I realize that I must (and have already) mention more context to polish my nic story now. I will. Soon.
+I realize that I must (and have already) mention more context to polish my nic story now. I will. <a href="{{ '/posts/hotgrillep2/' | url }}">Soon.</a>
 
 <h3>Check How I Grill Myself:</h3>
 <a href="{{ '/posts/hotgrillep2/' | url }}">Hot Grill ep2. C₁₀H₁₄N₂ -- 2.0.</a>

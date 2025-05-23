@@ -82,13 +82,13 @@ Now, not only vapes but also have I started using ***<u>pen and edibles.***</u> 
 
 I treated them as painkillers.
 
-I don’t know how my body was built. Maybe I have a higher tolerance. I could never get to the high that my friends told me. A girl once told me that ***<u>“the cars are moving in the sky.”***</u> What the fuck does that even mean. My highest high would be just falling to sleep with my consciousness dozing off. There was one time that I thought ***<u>the reflection in my mirror started dancing.***</u> It scared the sh*t out of me, and that was when I knew I should consider adopting some moderation.
+I don’t know how my body was built. Maybe I have a higher tolerance. I could never get to the high that my friends told me. A girl once told me that ***<u>“the cars are moving in the sky.”***</u> What the fuck does that even mean. My highest high would be just falling asleep with my consciousness dozing off. There was one time that I thought ***<u>the reflection in my mirror started dancing.***</u> It scared the sh*t out of me, and that was when I knew I should consider adopting some moderation.
 
 But ***<u>everything was off.***</u> Everything. ***<u>I was functioning like a half-charged robot out of insurance.***</u> I don’t know if it was because college was overwhelming or just nicotine and weed. The most reasonable explanation would be a combination of both, and ***<u>this hell of a combo smashed me like how you smash a cockroach with a slipper.***</u>
 
 I was looking forward to every party just so I could get drunk. So drunk that I finally don’t have to plan out and polish every detail in my life, whether if it is losing a match with a couple of match points, or realizing that without AI, I would spend hours debugging my CS homework without any real progress. ***<u>[Harry Mairson](https://www.cs.brandeis.edu/~mairson/) was right.***</u> I intoxicate my learning curve by chatGPT. Dame chatGPT.
 
-Fortunately, ***<u>I started DJing,***</u> and luckily, my last remaining bit of sobriety ensures that I would not drink a single drop when I am DJing. That was a lesson learned at Ethan’s party. DJing is an outlet of mine that I could not dare mess up. But ***<u>every time I came back home after an event, I ended up drowning in the hollowness of the afterparty,***</u> and I would vape crazily, trying to escape the dopamine pitfall, but only to embrace my old pal, insomnia, haunting me at 4 am.
+Fortunately, ***<u>I started [DJing](https://on.soundcloud.com/6ac7MNaLCsDZz9vN8),***</u> and luckily, my last remaining bit of sobriety ensures that I would not drink a single drop when I am DJing. That was a lesson learned at Ethan’s party. DJing is an outlet of mine that I could not dare mess up. But ***<u>every time I came back home after an event, I ended up drowning in the hollowness of the afterparty,***</u> and I would vape crazily, trying to escape the dopamine pitfall, but only to embrace my old pal, insomnia, haunting me at 4 am.
 
 Don’t save me, I don’t wanna be saved. You got it [J.Cole](https://en.wikipedia.org/wiki/J._Cole)!
 
@@ -96,3 +96,4 @@ Don’t save me, I don’t wanna be saved. You got it [J.Cole](https://en.wikipe
 <a href="{{ '/posts/hotgrillep1/' | url }}">Hot Grill ep1. C₁₀H₁₄N₂ -- 1.0.</a>
 
 <a href="{{ '/posts/hotgrillep3/' | url }}">Hot Grill ep3. C₁₀H₁₄N₂ -- 3.0.</a>
+<small>Next Episode^^^</small>

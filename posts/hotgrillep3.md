@@ -30,11 +30,11 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 The first 2 months of junior year were desperate but still manageable. Pauri said I “finished my season strong.” I was so motivated. I kept thinking that I only have 2 years left. Better make them count.
 
-Then I ***<u>broke up with <a href="{{ '/posts/hotgrillep1/' | url }}">that guy</a> after some ridiculous arguments***</u> (Let’s just call it a breakup, although we were never really together). It was ***<u>the same day as my COSI 21A Data Structure midterm.***</u> I was lying face down on my bed, sobbing. I knew this was coming. ***<u>Never felt this helpless before.***</u> The world was spinning again until the end of my midterm. I walked out in disgrace. 
+Then I ***<u>broke up with that guy <a href="{{ '/posts/hotgrillep2/' | url }}">(recap)</a> after some ridiculous arguments***</u> (Let’s just call it a breakup, although we were never really together). It was ***<u>the same day as my COSI 21A Data Structure midterm.***</u> I was lying face down on my bed, sobbing. I knew this was coming. ***<u>Never felt this helpless before.***</u> The world was spinning again until the end of my midterm. I walked out in disgrace. 
 
 Mandy welcomed me with a dazzling smile and a warm invitation to Mulan, the Taiwanese restaurant near campus, which I had to decline. I tried putting on my most decent face. The minute we said goodbye, I silently burst into tears.
 
-Got too tired of crying, I went into ***<u>Schwartz 112,***</u> the classroom of COSI 10A, where we officially started talking like two decent students, although we literally ***<u>just played rage cage. and I drank the bitch cup right besides him last weekend.***</u> 
+Got too tired of crying, I went into ***<u>Schwartz 112,***</u> the classroom of COSI 10A, where we officially started talking like two decent students, although we literally ***<u>just played rage cage, and I drank the bitch cup right beside him last weekend.***</u> 
 
 I leaned back, put on my headphones, and started banging Chappell’s [“Good Luck, Babe!”](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu?si=3bac715eff374280) so many times because I could really use some good luck. Another song I put on repeat was [“APT.”](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY?si=d34c2583a26d4a25) by Mars and Rosé. No reason. I just love the melodies.
 
@@ -70,7 +70,7 @@ Fast forward to the Spring semester. ***<u>Nobody told me Junior Spring would sl
 
 I was holding off on vaping when I was in China for winter break, but now I was like an unleashed horse. 
 
-It was a mixed 5 months. I was studying a lot, training a lot, DJing a lot… But it was not enough. ***<u>Nothing was enough when I had this adult pacifier.***</u> When I was upset, take a puff. When I was thrilled, take a puff. When I was drunk, take a puff. When I was high, take a puff…
+It was a mixed 4 months. I was studying a lot, training a lot, DJing a lot… But it was not enough. ***<u>Nothing was enough when I had this adult pacifier.***</u> When I was upset, take a puff. When I was thrilled, take a puff. When I was drunk, take a puff. When I was high, take a puff…
 
 Whenever… just take a puff.
 
@@ -100,7 +100,7 @@ For so many times, I made up my mind to quit “after this one,” yet I always 
 
 I wanna be free. For real this time. ***<u>I wanna be truly free.***</u> I wanna feel everything again, ***<u>without C₁₀H₁₄N₂.***</u>
 
-I remember that a long time ago, when I laugh I laugh like a crazy bitch; when I eat I don’t get disgusted by the minty flavor left on my lips. Every moment dived deep -- even the worst were not disguised. They ripped me open, but ***<u>they were real.***</u>
+I remember that a long time ago, when I laugh I laugh like a crazy bitch; when I eat I don’t get disgusted by the minty flavor left on my lips. Every moment dived deep -- even the worst was not disguised. They ripped me open, but ***<u>they were real.***</u>
 
 I know they can come back to me. 
 
