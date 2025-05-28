@@ -54,7 +54,7 @@ Joker🤡!
 
 Dunno how it turned into an ex story but whatevs! I need to write it down. My blog my rules. (:P)
 
-I went back from Schwartz to Ziv 128. The first thing I did — without a doubt — breathe in and out, ***<u>on repeat.***</u> Again, and again, and again. ***<u>I was so dizzy.***</u> So dizzy. Because I inhaled too much nicotine at once. This Geek Bar brand even has a display screen that displays animations of zodiac signs… Crazy. I was face down on my bed again, ***<u>immobilized by the sudden nic rush.***</u>
+I went back from Schwartz to Ziv 128. The first thing I did — without a doubt — breathe in and out, ***<u>on repeat.***</u> Again, and again, and again. ***<u>I was so dizzy.***</u> So dizzy. Because I inhaled too much nicotine at once. This Geek Bar brand even has a screen that displays animations of zodiac signs… Crazy. I was face down on my bed again, ***<u>immobilized by the sudden nic rush.***</u>
 
 I hope it could ease the pain. It did temporarily because ***<u>it wiped out everything at once.***</u> 
 
@@ -92,7 +92,7 @@ Do you know that you are a thief? Lifeless but stealing the real life from me. I
 
 “Eyes are constantly red.” I lied. It was because of drugs, and I knew it.
 
-I am tired. ***<u>I am so tired.***</u> So tired of relying on substance to type, to code, to journal, to become a so-called normal person. So tired of losing interest in everything, feeling like I could not laugh from heart anymore. So tired of being a kid, faking some pain that I induced to myself. So tired of playing damsel in distress and dreaming of saviors. ***<u>The highs are lower, and the lows are lower into the crust.***</u> My skin was like the surface of Mars. My head was constantly aching. Insomnia. 4 am and the cold wind sneaked in through the window crevice. I was lying in my bed sucking in the demon that froze me second by second. I was so stupid. I am so mad right now, thinking about how stupid I was to imagine that a substance would free me from people. It did though, by distancing me from everything else, ***<u>freeing me from an obsession by introducing me to another.***</u> Fuck you, nicotine. Honestly, fuck you.
+I am tired. ***<u>I am so tired.***</u> So tired of relying on substance to type, to code, to journal, to become a so-called normal person. So tired of losing interest in everything, feeling like I could not laugh from heart anymore. So tired of being a kid, faking some pain that I induced to myself. So tired of playing damsel in distress and dreaming of saviors. ***<u>The highs are lower, and the lows are lower into the crust.***</u> My skin was like the surface of Mars. My head was constantly aching. Insomnia. 4 am and the cold wind sneaked in through the window crevice. I was lying in my bed sucking in the fiend that froze me even more. I was so stupid. I am so mad right now, thinking about how stupid I was to imagine that a substance would free me from people. It did though, by distancing me from everything else, ***<u>freeing me from an obsession by introducing me to another.***</u> Fuck you, nicotine. Honestly, fuck you.
 
 For so many times, I made up my mind to quit “after this one,” yet I always have an emergency vape lying in my drawer. 
 

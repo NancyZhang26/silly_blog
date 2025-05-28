@@ -28,7 +28,7 @@ Watty when did you watch “those scenes”?? And ***<u>what other “scenes” 
 
 And we were in ***<u>this club, MiddleSex,***</u> because, according to the Instagram promotion, it was ***<u>the only club hosting an event on a Thursday night.***</u> 
 
-I don’t even wanna talk about it because ***<u>it was so awkward.***</u> Even that DILF bartender could not save the awkwardness of Watty and me staring at the middle-aged crowd dancing to disco-house. The club was kind of mid. There was only one lobby separated into a dance floor, a sitting space, and a car, and the DJ booth.
+I don’t even wanna talk about it because ***<u>it was so awkward.***</u> Even that DILF bartender could not save the awkwardness of Watty and me staring at the middle-aged crowd dancing to disco-house. The club was kind of mid. There was only one lobby separated into a dance floor, a sitting space, a bar, and the DJ booth.
 
 I think ***<u>I wrote my DJ info on a napkin and passed it to the bartender.***</u> That was the sign that the tequila shots started working.
 
