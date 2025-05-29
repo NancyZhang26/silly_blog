@@ -39,7 +39,7 @@ Jonathan tapped my shoulder, and I was back from the trance. He was posting food
 
 <h3>The Next Day</h3>
 
-I was listening to [Fred Again](https://en.wikipedia.org/wiki/Fred_Again), and suddenly I realized the life I truly want: full of chaos and struggles. Never structured and never peaceful. I would always torture myself, but I am absolutely ***<u>in love with it***</u>. All my inspos come from the mess, and all my thoughts thrive upon randomness. I want to learn CS because I have to always step towards something new outside of my comfort zone. I want to be a DJ because I wanna have fun all night long. Even those that I <a href="{{ '/posts/hotgrillep1/' | url }}">quit</a>. Somehow I deliberately forced myself into that situation just to escape out of it and write a memo, altho I suck at English. Huzzah!
+I was listening to [Fred Again](https://en.wikipedia.org/wiki/Fred_Again), and suddenly I realized the life I truly want: full of chaos and struggles. Never structured and never peaceful. I would always torture myself, but I am absolutely ***<u>in love with it***</u>. All my inspos come from the mess, and all my thoughts thrive upon randomness. I want to learn CS because I have to always step towards something new outside of my comfort zone. I want to be a DJ because I wanna have fun all night long, that simple. Even things that I <a href="{{ '/posts/hotgrillep1/' | url }}">quit</a> played a role. Somehow I deliberately forced myself into that situation just to escape out of it and write a memo, altho I suck at English. Huzzah!
 
 <h3>Check My Cali Stories:</h3>
 <a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I’m a NARP.</a>
