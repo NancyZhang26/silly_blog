@@ -4,7 +4,7 @@ description: Chasing the sunset.
 date: 2025-05-31
 scheduled: 2025-05-31
 tags:
-  - Cali!
+  - Cali
 layout: layouts/post.njk
 ---
 

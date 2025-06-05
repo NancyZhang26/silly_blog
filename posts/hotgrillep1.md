@@ -4,7 +4,7 @@ description: Grilling myself with no mercy.
 date: 2025-05-20
 scheduled: 2025-05-20
 tags:
-  - Nic.
+  - Hot-Grill
 layout: layouts/post.njk
 ---
 
@@ -32,9 +32,9 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 But I still remember ***<u>inhaling a vape for the first time in 2019.***</u> My ex said, ***<u>“Just try it,”***</u> so I ***<u>just tried it.***</u> I didn’t feel anything. Just the minty flavor and a misty breath. Similar with the cigarettes. He lit up one for me, and I couldn’t continue because ***<u>I hated the smell of tobacco,***</u> even if it was diluted with flavor blasts.
 
-I tried to convince him to quit smoking, for me, maybe? He said sure, just give him a few days. 
+I tried to convince him to quit smoking, for me, maybe? He said sure, just give him a few days.
 
-We broke up after a month. The last time I saw him two years ago, ***<u>he was still a smoker.***</u> 
+We broke up after a month. The last time I saw him two years ago, ***<u>he was still a smoker.***</u>
 
 I could not locate an exact date for ***<u>my second short rush to the nic club.***</u> I know it was in 11th grade. Was I under a lot of stress? Did not touch a vape. Just another cigarette because ***<u>I started talking to this ex again,***</u> and I wanted to “just try it” again. I lit up a cigarette in the bathroom of my tennis club, a different one. Somebody just happened to leave a pack and a lighter beside the sink. It was also kind of minty. It was a thin cig, and I didn’t finish it because I don’t wanna look like I have constipation by occupying that bathroom for 10 minutes.
 
@@ -58,7 +58,7 @@ Writing about it now makes me really sad, because I am trying to quit, which I w
 
 <h3>Late Nights and Alone, Brandeis</h3>
 
-***<u>I picked up vaping again in Sophomore year***</u> through a Chinese online dispenser I dug through Instagram. It was a brand called “Cool Bear” or something. The production was sus, because it gave me loads of congestion, which never happened when I used Relx or Elf Bar. 
+***<u>I picked up vaping again in Sophomore year***</u> through a Chinese online dispenser I dug through Instagram. It was a brand called “Cool Bear” or something. The production was sus, because it gave me loads of congestion, which never happened when I used Relx or Elf Bar.
 
 Chilling with the shaggy quality, ***<u>I became a real user.***</u> I started having regular patterns. First, it was just a couple of minutes before I go to bed. I code with it, and I watch Ginny & Georgia with it. Then, a couple of minutes turned into a couple of 30 minutes, and ***<u>before I realized,***</u> I would have to take a hit before I go to class in the afternoon, and I would have to carry it with me when I left my room in the morning. What was going on.
 
@@ -68,7 +68,7 @@ I knew exactly what was going on. ***<u>I was stuck in a toxic situationship wit
 
 It was a lot of back and forth having painful moments with this guy, and back and forth switching to patches and gums and switching back. I guess I will have to provide some context now. This guy insisted that ***<u>he would only go into a serious relationship with me after I quit vaping.***</u> He said I was “perfect” — ***<u>all “perfect” except the vaping.***</u>
 
-I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, I thought I was chilling with vapes, having the freedom to dispose them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u> 
+I was so mad, but I did not dare to be mad at him and yell in his face because ***<u>I did not want to lose him.***</u> What is all this bullshit. I was so mad. So mad that as I am typing this at 1:05 am in Cali now, I am still mad af. What is this statement?! What THE FUCK is this statement?! You probably won’t get it because you are not “addicted” to something. But for me, I thought I was chilling with vapes, having the freedom to dispose them at my will. ***<u>Now I feel like I would absolutely continue with my nic addiction to prove that I won’t surrender to some men.***</u>
 
 I asked him, What will you do if I can't quit vaping. ***<u>He said with some nonchalance that he will not leave me right away, but he will like me “less and less,”***</u> because he cannot stand someone who is tied up to something. He has seen his friends turning the house upside down looking for a vape. He does not want me to be the same.
 

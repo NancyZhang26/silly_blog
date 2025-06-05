@@ -3,7 +3,7 @@ title: Final Week Pt.2. Give Me A Moment.
 description: Junior count down -- a week and a bit more.
 date: 2025-05-09
 scheduled: 2025-05-09
-tags: deis life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 
@@ -20,7 +20,7 @@ layout: layouts/post.njk
 That’s it?? ***<u>I guess I am done with my Junior year yesterday***</u> when the output is printing exactly like the requirements in the PDF, and after some false alarms, I celebrated with ChatGPT and Claude 3.7. On my bed. Laptop on leg. __ in hand. No screaming. No tears. Just me breathing in and out, trying to feel the moment. Just a chill girl.
 
 <h3>Meloncholy Mondy</h3>
-Called Jiayi for a long time, booking a ticket for a MIDDLE seat for a 6-hour flight, with an upgrade requiring 90 dollars. Capitalists or robbers? My legs will survive. 
+Called Jiayi for a long time, booking a ticket for a MIDDLE seat for a 6-hour flight, with an upgrade requiring 90 dollars. Capitalists or robbers? My legs will survive.
 
 Spammed OS’s OH for 2 hours. That Korean lady was scary bro. She kept smiling and laughing. When I asked for points back from my 3 quizzes, I couldn’t tell if she was judging. Seeing me shamelessly asking points back for a quiz taken 2 months ago for the most absurd reasons, Ryan started doing the same, and so did Cam.
 
@@ -44,19 +44,19 @@ Recovering from hysterical laughter, Cam showed his masterpiece as well:
 ![Cam's philosophers](/img/blog1.0/cams-dining-philosophers.png)
 <small>He argues that we can still see the “erased line”. (Shown in dots)</small>
 
-Dropped my UCLA jacket into the water bucket for Buddy (the professor’s dog) & secured 9/300 points back from the Korean legend, I returned to Volen lobby like a champ, and awkwardly greeted [Delfino](https://www.linkedin.com/in/joe-delfino-b274135/). 
+Dropped my UCLA jacket into the water bucket for Buddy (the professor’s dog) & secured 9/300 points back from the Korean legend, I returned to Volen lobby like a champ, and awkwardly greeted [Delfino](https://www.linkedin.com/in/joe-delfino-b274135/).
 
-Went to a journalism senior event with Chaser, only to leave my wallet in Skyline afterwards. Some freshman DMed me on Instagram saying I left my wallet. Thanks, Daniel L. 
+Went to a journalism senior event with Chaser, only to leave my wallet in Skyline afterwards. Some freshman DMed me on Instagram saying I left my wallet. Thanks, Daniel L.
 
 My mind is all over the place. I found out that to be eligible for [CPT](https://en.wikipedia.org/wiki/Curricular_Practical_Training), I need to register for a summer INT (intership) course, which is just me submitting paragraphs about how I self-developed during the internship and how I can “demonstrate my learning” once every 2 weeks.
 
-You know what I have really learned? I learned that this kind of superficial mascara doesn’t stop after I graduated from high school. I learned that I have to pay 750 dollars for this baddy. ***<u>I learned that I might be poorer after working.***</u> I learned that I still need to stare at VS Code and wonder about my life choices even after OS, Java 12B, and Antonella 21A. 
+You know what I have really learned? I learned that this kind of superficial mascara doesn’t stop after I graduated from high school. I learned that I have to pay 750 dollars for this baddy. ***<u>I learned that I might be poorer after working.***</u> I learned that I still need to stare at VS Code and wonder about my life choices even after OS, Java 12B, and Antonella 21A.
 
 I might also learn how to kiss sombody’s ass (not literally. ***<u>I am not that freaky***</u>); how to pretend that I am an expert; how to pacakage my poor experiences. Hey, necessary life skills no? You don't see them in textbooks.
 
 <h3>Tearful Tuesday and Beyond</h3>
 
-Emailed this lady; emailed that gentleman… After registering for CPT and confirming with James and Pierce about my OS homework output, I guess ***<u>I am officially done.***</u> Done with my Junior year. This crazy, chaotic, nostalgic, lonely, burnt-out, but very fruitful junior year. Eyes are constantly red. The veins kept crawling across my eyeballs. ***<u>Sometimes the world seems to be filtered through distortion.***</u> Wish it is because of 🍃, but it is actually because of me constantly staring at my screen, mostly a screen of red error messages. So many sleepless nights, sometimes due to childish sentiments about Shanghai and some men, and sometimes due to ... just because. I am so scared of it, and I’d rather immerse myself in reality-escaping. 
+Emailed this lady; emailed that gentleman… After registering for CPT and confirming with James and Pierce about my OS homework output, I guess ***<u>I am officially done.***</u> Done with my Junior year. This crazy, chaotic, nostalgic, lonely, burnt-out, but very fruitful junior year. Eyes are constantly red. The veins kept crawling across my eyeballs. ***<u>Sometimes the world seems to be filtered through distortion.***</u> Wish it is because of 🍃, but it is actually because of me constantly staring at my screen, mostly a screen of red error messages. So many sleepless nights, sometimes due to childish sentiments about Shanghai and some men, and sometimes due to ... just because. I am so scared of it, and I’d rather immerse myself in reality-escaping.
 
 ![Chandler Bing Bing](/img/blog1.0/chandler-bing.webp)
 <small>Look at that smile!</small>

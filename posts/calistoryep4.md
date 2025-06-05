@@ -4,7 +4,7 @@ description: I got tipsy.
 date: 2025-05-28
 scheduled: 2025-05-28
 tags:
-  - Cali!
+  - Cali
 layout: layouts/post.njk
 ---
 

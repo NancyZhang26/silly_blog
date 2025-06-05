@@ -4,7 +4,7 @@ description: Random teenage years memos.
 date: 2025-05-19
 scheduled: 2025-05-19
 tags:
-  - Cali!
+  - Cali
 layout: layouts/post.njk
 ---
 

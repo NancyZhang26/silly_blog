@@ -4,7 +4,7 @@ description: Random deis memos.
 date: 2025-05-17
 scheduled: 2025-05-17
 tags:
-  - Cali!
+  - Cali
 layout: layouts/post.njk
 ---
 

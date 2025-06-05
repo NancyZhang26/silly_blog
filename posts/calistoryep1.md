@@ -4,7 +4,7 @@ description: Cali life in a nutshell.
 date: 2025-05-15
 scheduled: 2025-05-15
 tags:
-  - Cali!
+  - Cali
 layout: layouts/post.njk
 ---
 

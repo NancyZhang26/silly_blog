@@ -4,7 +4,7 @@ description: Rom com tryout.
 date: 2025-05-11
 scheduled: 2025-05-11
 tags:
-  - Rom com.
+  - Clubbing
 layout: layouts/post.njk
 ---
 
@@ -28,18 +28,18 @@ Of all the people among the COSI 29A survivors, Watty and I were the only two st
 
 Watty finished his last exam and called me in the middle of the WTEN team meeting. The plan is we’re going for dinner, and then pregame, and then find a club.
 
-I said, “Dress decent.” And Watty showed up in a  ***<u>buttoned-up white shirt and black jeans in his silver Mazda.***</u> I looked down at  ***<u>my mistress-style dress and my smoky smoky eyeliner.***</u> And my ***<u>coach shoulder bag.***</u> And my ***<u>flamboyant earrings with fake gems.***</u> 
+I said, “Dress decent.” And Watty showed up in a  ***<u>buttoned-up white shirt and black jeans in his silver Mazda.***</u> I looked down at  ***<u>my mistress-style dress and my smoky smoky eyeliner.***</u> And my ***<u>coach shoulder bag.***</u> And my ***<u>flamboyant earrings with fake gems.***</u>
 
 What is it, a date?
 
 ![My outfit](/img/blog2.0/me-outfit.jpg)
 <small>Ew cringe.</small>
 
-I would normally give myself an inner laugh and hit the road. ***<u>I don’t chase. I attract.***</u> Wtf Nancy. You watch too many Instagram reels and have obviously picked up some imaginary cockiness. 
+I would normally give myself an inner laugh and hit the road. ***<u>I don’t chase. I attract.***</u> Wtf Nancy. You watch too many Instagram reels and have obviously picked up some imaginary cockiness.
 
-But it’s Watty. It is literally Watty — Watty with his one hand placed casually on the steering wheel, waiting for me in the Slosberg parking lot; Watty throwing me his phone and saying, “cue some good songs.” And that was just the cherry on top. ***<u>Being the passenger princess that I am,***</u> I don’t even know what place we are going for dinner, because Watty has it all. It feels awesome when the other person has a plan, and all you have to do is nod and nod and nod. 
+But it’s Watty. It is literally Watty — Watty with his one hand placed casually on the steering wheel, waiting for me in the Slosberg parking lot; Watty throwing me his phone and saying, “cue some good songs.” And that was just the cherry on top. ***<u>Being the passenger princess that I am,***</u> I don’t even know what place we are going for dinner, because Watty has it all. It feels awesome when the other person has a plan, and all you have to do is nod and nod and nod.
 
-After 20 minutes on the ***<u>Buosdon***</u> highway, driving past that New Balance shop (hey Summer) for the 10086th time, we arrived in a cutsey ramen place in Brookline. Watty parked on the side road, and we had a moment trying to read the instructions on a meter that was clearly built 10+ years ago or so. 
+After 20 minutes on the ***<u>Buosdon***</u> highway, driving past that New Balance shop (hey Summer) for the 10086th time, we arrived in a cutsey ramen place in Brookline. Watty parked on the side road, and we had a moment trying to read the instructions on a meter that was clearly built 10+ years ago or so.
 
 I guess ***<u>if they were giving us a hard time paying, then we shouldn’t pay at all.***</u> But we paid. Because Mr. President, I like the US air. I wanna stay here for a little longer.
 
@@ -64,22 +64,22 @@ Bella was biting her lips for the 6176784891th time. Bella was looking uncomfort
 ![Bella and Jacob](/img/blog2.0/bella-and-jacob.png)
 <small>Girl?</small>
 
-I couldn’t help but comment, “I would never tolerate my significant other catching feelings for another person.” But Watty said, “So what are you gonna do?” 
+I couldn’t help but comment, “I would never tolerate my significant other catching feelings for another person.” But Watty said, “So what are you gonna do?”
 
-“Leave them! Duh.” 
+“Leave them! Duh.”
 
 But Watty said he would ***<u>just accept it.***</u> Lowkey, I think we should watch Notebook.
 
  ***<u>…Bella was gonna hand over her v-card to Edward!***</u>
 
-On the 14-inch MacBook screen (projector failed), Bella was anxiously brushing her teeth, shaving her legs, and bathing in a bathtub full of foam. 
+On the 14-inch MacBook screen (projector failed), Bella was anxiously brushing her teeth, shaving her legs, and bathing in a bathtub full of foam.
 
 ![Bella shaving](/img/blog2.0/bella-shave.png)
 <small>Girl.</small>
 
 Watty, asking the most innocent question in the Wattiest way: ***<u>“What is she doing?”***</u>
 
-I, with my poor #__ bodies, suddenly felt a sense of seniority. So I said, ***<u>“Getting ready for sex.”***</u> Word by word. Syllable by syllable. 
+I, with my poor #__ bodies, suddenly felt a sense of seniority. So I said, ***<u>“Getting ready for sex.”***</u> Word by word. Syllable by syllable.
 
 Watty gave out a silent laugh. Maybe he was genuinely entertained… Until Bella started digging in her suitcase searching for matching lace underwear. Watty asked (flirted???),  ***<u>“Do you do that too?”***</u> And that just pulled me back to the reality of ***<u>my horrendous sex life, including no pre-college marriage or a trip to Bali, only a plan B.***</u> So I said, ***<u>“Sometimes,”***</u> trying to add some suspense.
 
@@ -91,6 +91,6 @@ And there were ***<u>Bella and Edward smudging each other in the ocean and rocki
 ![Ocean scenes](/img/blog2.0/bella-ocean.png)
 <small>PG cuts only!</small>
 
-We did not finish the movie because we were heading out to this random a*s club by then. Watty was the one who turned this awkward experience into a comedy, and I so appreciate that. 
+We did not finish the movie because we were heading out to this random a*s club by then. Watty was the one who turned this awkward experience into a comedy, and I so appreciate that.
 
 <h4>And here is episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">(The REAL) Watty in a Club</a>

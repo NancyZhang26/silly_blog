@@ -3,7 +3,7 @@ title: Final Week Pt.3. Before I Leave.
 description: Junior count down -- done.
 date: 2025-05-14
 scheduled: 2025-05-14
-tags: deis life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 
@@ -39,7 +39,7 @@ Time to say farewell to the stuff that I:
 6. ……
 7. %^&*/*&^&* Just everything (no!).
 
-The next thing I knew, I was sitting on piles of trash, underwear, slutty dresses, makeup, DJ deck, food debris, and paper boxes. ***<u>Never have I ever felt so helpless with packing.***</u> 
+The next thing I knew, I was sitting on piles of trash, underwear, slutty dresses, makeup, DJ deck, food debris, and paper boxes. ***<u>Never have I ever felt so helpless with packing.***</u>
 
 But I started packing anyway, because ***<u>Chinese women never give up.***</u>
 
@@ -50,7 +50,7 @@ But I started packing anyway, because ***<u>Chinese women never give up.***</u>
 
 <h3>Packing ver.2: Blood in Gosman</h3>
 
-I went to Gosman to grab my sh*ts, only to see some slimy red liquid on the top of my locker. Apparently one of my shampoo bottles spilled out of nowhere. 
+I went to Gosman to grab my sh*ts, only to see some slimy red liquid on the top of my locker. Apparently one of my shampoo bottles spilled out of nowhere.
 
 ![Spilled shampoo in bag](/img/blog3.0/shampoo-in-bag.jpeg)
 <small>Looks like jam!</small>
@@ -93,7 +93,7 @@ I bought a T-shirt that says ***<u>“show me some trash”,***</u> with a racco
 
 ***<u>The commuter rail was leaving in 5 minutes!***</u> Phoebe and I were rushing in the rain. ***<u>Phoebe was cooking fast-and-furious, and I was playing a crappy cheerleader.***</u> Arriving at Porter Station, I sprinted in the rain with my Lulu shoulder bag running off my left shoulder and the empty suitcase carried weirdly with my right elbow. ***<u>I stepped onto the escalator when the train was choo-chooing, and secured a seat by the window 20 seconds later.***</u>
 
-Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet too. It was ironic that I neither had a cigarette nor sex (in a while). I breathed heavily, leaving a small mist on the window. 
+Raindrops were sliding down my bangs. My Cigarette-After-Sex hoodie was all wet too. It was ironic that I neither had a cigarette nor sex (in a while). I breathed heavily, leaving a small mist on the window.
 
 Thanks Phoebe bunny bean.
 
@@ -117,7 +117,7 @@ Back at it. Other than 6 MEGA-but-not-so-mega boxes stacking in my room and a sh
 
 ***<u>My junior year was gone.***</u>
 
-It was 1:40 am, 5/14. The last day of finals, and 4 hours before I depart. 
+It was 1:40 am, 5/14. The last day of finals, and 4 hours before I depart.
 
 ![QY's garage.](/img/blog3.0/emptier.jpg)
 <small>Snapshot of earlier evening. No tears.</small>
@@ -144,7 +144,7 @@ I still have a year, but ***<u>I can already feel it slipping through my fingert
 
 …Did I even sleep.
 
-The sun rose. I looked through my window for one last time, seeing the cold wooden furniture in rooms of other buildings below my floor. 
+The sun rose. I looked through my window for one last time, seeing the cold wooden furniture in rooms of other buildings below my floor.
 
 ![Last view](/img/blog3.0/last-view-at-ziv.jpg)
 <small>I insist that it is the best dorm view in the ziv quad.</small>

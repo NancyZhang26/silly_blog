@@ -4,7 +4,7 @@ description: Grilling myself with no mercy.
 date: 2025-05-21
 scheduled: 2025-05-21
 tags:
-  - Nic.
+  - Hot-Grill
 layout: layouts/post.njk
 ---
 
@@ -28,15 +28,15 @@ Finished this piece a while ago, but took me a moment to post it here.
 
 <h3>Nic Free Summer</h3>
 
-Sophomore year was a blast, maybe not as busy compared to junior year, but definitely more chaotic. I stopped talking to ***<u>that guy***</u> and started rekindling some conversations with my ex, MH (<a href="{{ '/posts/hotgrillep1/' | url }}">recap of details</a>). 
+Sophomore year was a blast, maybe not as busy compared to junior year, but definitely more chaotic. I stopped talking to ***<u>that guy***</u> and started rekindling some conversations with my ex, MH (<a href="{{ '/posts/hotgrillep1/' | url }}">recap of details</a>).
 
-I quitted vaping for 80% of the summer. I am tired of losing my focus and self-control and surrendering to some artificial flavors that make me dizzy. 
+I quitted vaping for 80% of the summer. I am tired of losing my focus and self-control and surrendering to some artificial flavors that make me dizzy.
 
 I thought I won. ***<u>I forgot about that 20%.***</u>
 
 <h3>Not that Free</h3>
 
-I went to MH’s city for an 18+ J5 ITF tournament. Lost the qualifying round in three sets. The next thing I know, ***<u>I was smoking in the hotel room with a glass of Bourbon in my hand, falling asleep watching the Olympics with MH.***</u>  
+I went to MH’s city for an 18+ J5 ITF tournament. Lost the qualifying round in three sets. The next thing I know, ***<u>I was smoking in the hotel room with a glass of Bourbon in my hand, falling asleep watching the Olympics with MH.***</u>
 
 It was a vibe. Hanging out with someone I trusted and relied on.
 
@@ -46,7 +46,7 @@ I started breathing in and out heavily on this small electric tube again. It was
 
 <h3>A Lot of Things Came Back</h3>
 
-And then there was the start of my third year. ***<u>So much was going on***</u> — classes were harder, tennis was tougher, and my only vape died, and I was 6 months away from being 21. 
+And then there was the start of my third year. ***<u>So much was going on***</u> — classes were harder, tennis was tougher, and my only vape died, and I was 6 months away from being 21.
 
 I kept hitting that dead vape, sucking out only some mint-flavored air. The mouthpiece became yellow with nic juice, and ***<u>I just wiped it off and kept hitting it.***</u>
 
