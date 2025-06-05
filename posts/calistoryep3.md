@@ -8,12 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
-<h3>Check My Final Week Struggles:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+<h3>Last Cali Post:</h3>
+<a href="{{ '/posts/calistoryep2/' | url }}">The Zhangs in Cali ep2. 今天讲下中文。</a>
 
 <h3>Main Plot Goes Here:</h3>
 
@@ -47,8 +43,6 @@ S4赛季，是庄周的炼金王吧？我拿到的第一个皮是孙膑的妖精
 
 想念了就听一听周董的歌。叶湘伦和陆小雨就开始在屋檐下你侬我侬。
 
-<h3>Check My Cali Stories:</h3>
-<a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I’m a NARP.</a>
-
-<a href="{{ '/posts/calistoryep2/' | url }}">The Zhangs in Cali ep2. 今天讲下中文。</a>
+<h3>Next Cali Post:</h3>
+<a href="{{ '/posts/calistoryep4/' | url }}">The Zhangs in Cali ep4. One Drink.</a>
 

@@ -9,11 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Check My Final Week Struggles:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+<a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I'm a NARP.</a>
 
 <h3>打点小网球好吗</h3>
 
@@ -69,8 +65,6 @@ LA其实不比波士顿暖和太多，但不知为何我感觉加州的阳光更
 
 ***<u>每一分每一秒！***</u>
 
-<h3>Check My Cali Stories:</h3>
-<a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I’m a NARP.</a>
-
+<h3>Next Cali Post:</h3>
 <a href="{{ '/posts/calistoryep3/' | url }}">The Zhangs in Cali ep3. 碎碎念，还我青春！</a>
 

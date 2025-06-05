@@ -8,12 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
-<h3>Check My Final Week Struggles:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
+<h3>Last Cali Post:</h3>
+<a href="{{ '/posts/calistoryep3/' | url }}">The Zhangs in Cali ep3. 碎碎念，还我青春！</a>
 
 <h3>Main Plot Goes Here:</h3>
 
@@ -24,6 +20,9 @@ Not a lightweight...
 I was just exaggerating, ladies and gents. Only had one drink called transmutation. It was a mixture of:
 
 ***<u>“Compass Box Artist Blend Scotch, Banhez Phinapple Brandy, Bruichladdich Port, Charlotte 10 year Single Malt Scotch, Allspice Dram, Orange bitters, Absinthe.”***</u>
+
+![Transmutation](/img/blog4.0/drink-menu.jpeg)
+<small>I wish there were more artificial candles.</small>
 
 My heart was trembling as everyone was passing and tasting each other’s drinks, because mine was literally about to disappear. It is just a classic mix of shots, just a 20-dollar, 250 mL poison.
 
@@ -41,10 +40,6 @@ Jonathan tapped my shoulder, and I was back from the trance. He was posting food
 
 I was listening to [Fred Again](https://en.wikipedia.org/wiki/Fred_Again), and suddenly I realized the life I truly want: full of chaos and struggles. Never structured and never peaceful. I would always torture myself, but I am absolutely ***<u>in love with it***</u>. All my inspos come from the mess, and all my thoughts thrive upon randomness. I want to learn CS because I have to always step towards something new outside of my comfort zone. I want to be a DJ because I wanna have fun all night long, that simple. Even things that I <a href="{{ '/posts/hotgrillep1/' | url }}">quit</a> played a role. Somehow I deliberately forced myself into that situation just to escape out of it and write a memo, altho I suck at English. Huzzah!
 
-<h3>Check My Cali Stories:</h3>
-<a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I’m a NARP.</a>
-
-<a href="{{ '/posts/calistoryep2/' | url }}">The Zhangs in Cali ep2. 今天讲下中文。</a>
-
-<a href="{{ '/posts/calistoryep3/' | url }}">The Zhangs in Cali ep3. 碎碎念，还我青春！</a>
+<h3>Next Cali Post:</h3>
+<a href="{{ '/posts/calistoryep5/' | url }}">The Zhangs in Cali ep5. 落日飞车。</a>
 

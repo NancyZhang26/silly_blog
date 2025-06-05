@@ -31,7 +31,7 @@ I stuffed my headphones and bed sheets (because I will be sleeping on the floor)
 
 The flight was fine, except that my stomach was growling when I got off. Six whole hours, and I fell asleep without even adjusting the seat to lean backwards.
 
-Saw a Dunkin right after spending quite a fortune buying overpriced coffee and a sandwich in some bougie airport place. It’s whatever. 
+Saw a Dunkin right after spending quite a fortune buying overpriced coffee and a sandwich in some bougie airport place. It’s whatever.
 
 ***<u>…And the Zhangs united!***</u>
 
@@ -64,6 +64,4 @@ Laugh more!
 
 <h3>Check How Cali Goes Later:</h3>
 <a href="{{ '/posts/calistoryep2/' | url }}">The Zhangs in Cali ep2. 今天讲下中文。</a>
-
-<a href="{{ '/posts/calistoryep3/' | url }}">The Zhangs in Cali ep3. 碎碎念，还我青春！</a>
 
