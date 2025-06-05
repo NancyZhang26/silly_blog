@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<h3>Check My Final Week Struggles:</h3>
+<h3>Previous Cali Post:</h3>
 <a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I'm a NARP.</a>
 
 <h3>打点小网球好吗</h3>
