@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Previous Cali Post:</h3>
-<a href="{{ '/posts/calistoryep4/' | url }}"> The Zhangs in Cali ep4. One Drink.</a>
+<a href="{{ '/posts/calistoryep4/' | url }}">The Zhangs in Cali ep4. One Drink.</a>
 
 <h3>Main Plot Goes Here:</h3>
 
@@ -24,12 +24,12 @@ The AE86 was roaring on the LA highway. We heard a honk - ***<u>it was another d
 
 But it’s not about the price. The Toyota was like a long-lost toy. Every crevice on the hood tells a story.
 
-The engine was grunting on every gear change and every pedal. There was the seashore quickly falling behind us. We kept speeding towards the canyon in the front and by passing other drivers. It was hitting 7:30 pm.
+The engine was grunting on every gear change and every pedal. There was the seashore quickly falling behind us. We kept speeding towards the canyon in the front and bypassing other drivers. It was hitting 7:30 pm.
 
 ![Chasing Sunset](/img/blog4.0/chasing-sunset.jpg)
 <small>The sun sets faster than us.</small>
 
-The sun was setting. We were chasing the sunset. We were speeding towards the LA sun that dyes the sky into a rich orangely pink. I guess the wheels must be tired, but ***<u>we could not catch the sun before it fell beneath the horizon.***</u> Strokes of gold blended into the night. Warm breezes turned into sharp blasts in late May. Grasps of lingering spring perhaps? We manually rolled the windows up before the night leaked in.
+The sun was setting. We were chasing the sunset. We were speeding towards the LA sun that dyes the sky into a rich orangely pink. I guess the wheels must be tired, but ***<u>we could not catch the sun before it fell beneath the horizon.***</u> Strokes of gold blended into the night. Warm breezes turned into sharp blasts in late May. Grasps of lingering spring perhaps? We manually rolled up the windows before the night leaked in.
 
 The moon was up, and we were still on the highway.
 
