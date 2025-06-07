@@ -19,7 +19,7 @@ Don't run GIT commands unless you know what you're doing...
 
 I tried to clone my new git repo to my desktop again, and the system said it was confused as the new repo name was the same as that of a project I deleted a few minutes ago. I deleted and recreated with the same repository name because I messed up some initialization config at first.
 
-And ***<u>my desktop icons started deleting in chunks as I rapidly breathed in extreme fear.***</u>
+And ***<u>my desktop icons started disappearing in chunks as I rapidly breathed in extreme fear.***</u>
 
 A few seconds later. ***<u>There was nothing left.***</u>
 
@@ -33,7 +33,7 @@ I was shaking as if I had just inhaled a can of coffee beans. I navigated to my 
 
 The birds were chirping. It was 5 am. The sky turned baby blue, and I was staring at my empty desktop. Yep, I know I should start downloading files from my cloud storage ASAP, but I was just so shocked and astonished by my stupidity. ***<u>I was mortified.***</u>
 
-Sort of did everything while shivering due to the lack of sleep later. I finally started restoring files in a UCLA classroom.
+Sort of did everything while shivering due to the lack of sleep. Later, I finally started restoring files in a UCLA classroom.
 
 Jiayi and I were sitting in the back rows ***<u>watching some people online shopping and others being studious.***</u> It was something like a literature + philosophy class, and the prof mentioned “Harry Potter’ at least 5 times. I like Harry Potter.
 
