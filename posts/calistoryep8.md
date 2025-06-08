@@ -6,6 +6,7 @@ scheduled: 2025-06-07
 tags:
   - Cali
 layout: layouts/post.njk
+draft: true
 ---
 
 <h3>Previous Cali Post:</h3>
