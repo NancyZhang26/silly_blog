@@ -59,7 +59,7 @@ Also, I give out a high-pitched, annoying laugh every hour when I was with Jiayi
 
 Laugh more!
 
-![My stomach is a bottomless pit!](/img/blog4.0/salmon_noodle.jpg)
+![My stomach is a bottomless pit!](/img/blog4.0/salmon-noodle.jpg)
 <small>Junior 15</small>
 
 <h3>Check How Cali Goes Later:</h3>

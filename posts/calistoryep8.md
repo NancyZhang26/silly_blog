@@ -1,8 +1,8 @@
 ---
-title: The Zhangs in Cali ep7. Random Thoughts.
-description: Insomnia again.
-date: 2025-06-06
-scheduled: 2025-06-06
+title: The Zhangs in Cali ep8. Adios Jiayi.
+description: Leaving Cali
+date: 2025-06-07
+scheduled: 2025-06-07
 tags:
   - Cali
 layout: layouts/post.njk
