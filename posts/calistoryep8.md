@@ -10,7 +10,7 @@ draft: true
 ---
 
 <h3>Previous Cali Post:</h3>
-<a href="{{ '/posts/calistoryep5\7/' | url }}">The Zhangs in Cali ep7. Random Thoughts.</a>
+<a href="{{ '/posts/calistoryep7/' | url }}">The Zhangs in Cali ep7. Random Thoughts.</a>
 
 <h3>Main Plot Goes Here:</h3>
 

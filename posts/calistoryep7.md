@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Previous Cali Post:</h3>
-<a href="{{ '/posts/calistoryep5/' | url }}">The Zhangs in Cali ep6. GIT!!!</a>
+<a href="{{ '/posts/calistoryep6/' | url }}">The Zhangs in Cali ep6. GIT!!!</a>
 
 <h3>Main Plot Goes Here:</h3>
 
