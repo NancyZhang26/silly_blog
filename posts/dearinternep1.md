@@ -21,7 +21,7 @@ I woke up at 6 am to sober up from my California dream. I checked the commuter r
 
 So I went out for a run. Being stuffed inside basic economy last week tortured my spine too much. Too much that I felt a stitch under my right chest. This is how weak I’ve become. ***<u>Yesterday I was cruising for 3 hrs in Miami for UAA. Today I can’t even run 3 miles.***</u>
 
-I went back to the apartment only to enter the wrong password on the back door lock. The lock started screaming. My uncle-age roommate was making breaky 3 meters in front of me, separated by the glass door, and somehow he did not hear the siren. I entered through the front door eventually. Right combo, right sequence. ***<u>I grabbed the door knob, and the knob came right off.***</u>
+I went back to the house only to enter the wrong password on the back door lock. The lock started screaming. My uncle-age roommate was making breaky 3 meters in front of me, separated by the glass door, and somehow he did not hear the siren. I entered through the front door eventually. Right combo, right sequence. ***<u>I grabbed the door knob, and the knob came right off.***</u>
 
 It was broken long before I came here. But it’s another story.
 
@@ -55,7 +55,7 @@ A firm handshake.
 
 Oh no no no sir.
 
-I kindly rejected his generous offer. I entered the meeting room: ***<u>a room full of interns, and the lead recruiter simultaneously turned their head at me.***</u> I felt penetrated by all the (side) eyes. I tried to quickly scan the room for an empty seat. I ended up sitting near the center of the table. Stop grilling me!
+I kindly rejected his generous offer. I entered the meeting room: ***<u>a full room of interns and the lead recruiter simultaneously turned their head towards me.***</u> I felt penetrated by all the (side) eyes. I tried to quickly scan the room for an empty seat. I ended up sitting near the center of the table. Stop grilling me!
 
 <h3>Meet Sombody, That, You Can Have a Drink With</h3>
 
@@ -63,7 +63,7 @@ The introduction prompt is: ***<u>Name, Major, Choose: a preferred superpower / 
 
 Suddenly, another intern arrived - 8:20. Yep, suddenly my late ass wasn’t too intolerable. He was a Phd from MIT. Nvm! ***<u>He got the school card, and I was back on the grill.***</u> He said, 2 truths and 1 lie — “I missed an exit on the highway.”
 
-I said, if I had a superpower, ***<u>I would want teleportation, so I won’t be late on my first day. A light chuckle travelled through the room.***</u>
+I said, if I had a superpower, ***<u>I would want teleportation, so I won’t be late on my first day.***</u> A light chuckle travelled through the room.
 
 “The people you are working with now might become lifelong friends.” Said the recruiter who’s worked in the US Army before, “You never know. They might become your good buddy whom you have a ***<u>dr….”***</u>
 
