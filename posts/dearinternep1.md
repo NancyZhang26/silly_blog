@@ -82,6 +82,6 @@ I need to laugh.
 
 I could sum up the safety training with lasers: "Wear protection - don't go blind." So I guess the first day ramps up like this. I didn't meet my boss yet. I am really looking forward. Yep, ended just like that.
 
-<h3>Next Up -- Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. TBC.</a>
+<h3>Next Up Internship Shenanigans:</h3>
+<a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. Vibe Coding.</a>
 
