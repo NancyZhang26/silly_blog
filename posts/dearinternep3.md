@@ -35,6 +35,7 @@ He seemed ***<u>unimpressed: “You don’t have to say that…”***</u> He poi
 A pigeon flew right into my face at the North Station.
 
 On the commuter rail, a guy is throwing pick-up lines at two girls, but ***<u>they are 16!***</u>
+
 “Is that girl your sister? No? Your mother?”
 
 ***<u>“I can’t hit on people below 18. Are you 18?” “16.”***</u> “...(shrug)”
@@ -55,7 +56,7 @@ Reverse timeline here, but I officially met my mentor today, a really sweet guy 
 
 A warm handshake.
 
-***<u>His voice sounds like blunt sandpaper but soothing like warm coffee.***</u> He is skinnier than I thought, has less hair than I thought (sorry!), but just, surprisingly kind.
+***<u>His voice sounds like blunt sandpaper but soothing like warm coffee.***</u> He is skinnier than I thought and has less hair than I thought (sorry!), but just, surprisingly kind.
 
 From the way he speaks to me, I assume he has a daughter, and he does!
 
