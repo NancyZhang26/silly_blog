@@ -30,5 +30,5 @@ Jay Chou was so young. His voice was so fresh. It was just some Jay Chou music. 
 ***<u>Jiayi told me she was afraid of the highways, but she was cruising faster than ever.***</u>
 
 <h3>Next Up -- Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep1/' | url }}">Dear Intern ep1. Being Late on the 1st Day.</a>
+<a href="{{ '/posts/dearinternep1/' | url }}">Dear Intern ep1. LATE!</a>
 

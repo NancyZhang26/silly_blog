@@ -1,5 +1,5 @@
 ---
-title: Dear Intern ep1. Being Late on the 1st Day.
+title: Dear Intern ep1. LATE!
 description: Internship day 1.
 date: 2025-06-09
 scheduled: 2025-06-09
@@ -83,5 +83,5 @@ I need to laugh.
 I could sum up the safety training with lasers: "Wear protection - don't go blind." So I guess the first day ramps up like this. I didn't meet my boss yet. I am really looking forward. Yep, ended just like that.
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. Vibe Coding.</a>
+<a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. And Lads, This Is How I Met My Boss.</a>
 

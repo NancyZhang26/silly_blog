@@ -1,15 +1,16 @@
 ---
-title: Dear Intern ep2. And Lads, This Is How I Met My Boss
-description: Internship day 2.
-date: 2025-06-10
-scheduled: 2025-06-10
+title: Dear Intern ep3. Smell of Pigs
+description: Internship day 3.
+date: 2025-06-11
+scheduled: 2025-06-11
 tags:
   - Intern
 layout: layouts/post.njk
+draft: true
 ---
 
 <h3>Last Internship Post:</h3>
-<a href="{{ '/posts/dearinternep1/' | url }}">Dear Intern ep1. LATE!</a>
+<a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. And Lads, This Is How I Met My Boss</a>
 
 <h3>Main Plot Goes Here:</h3>
 
@@ -61,5 +62,5 @@ From the way he speaks to me, I assume he has a daughter, and he does!
 He reminds me of my tennis coaches, both from college and from high school.
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep3/' | url }}">Dear Intern ep3. Smell of Pigs.</a>
+<a href="{{ '/posts/dearinternep4/' | url }}">Dear Intern ep4. TBC.</a>
 
