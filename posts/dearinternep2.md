@@ -27,7 +27,7 @@ Bumped into the CTO and the speaker during lunch on the stairs. The CTO asked me
 
 Me trying to be humble: “I learned some insights from the great marketing team.”
 
-He seemed ***<u>unimpressed: “You don’t have to say that…”***</u> He pointed at the speaker who just walked out of the building, ***<u>“he is already gone.”***</u>
+He seemed ***<u>unimpressed: “You don’t have to say that…”***</u> He pointed at the speaker who just walked out of the building, ***<u>“He is already gone.”***</u>
 
 <h3>Station 1.0</h3>
 
