@@ -25,7 +25,7 @@ Typing on a computer feels oddly satisfying right now. My wristbands are still o
 
 <h3>City Never Sleeps</h3>
 
-I was counting minutes when getting out of the office. I need to dip bro, and I did. I thought the bus was 6:30 but it was 7:30. Fast-forward to when I got off this 5-hour bus, finishing a [Fisher set](https://youtu.be/mzArzdY24wU?si=Q-ndARfVWJ0D3Hdz), a [Mau P set](https://youtu.be/WEcImcXf6C0?si=AvAUg3eGHEHLV8Kn), and a [John Summit & Dom Dolla set](https://youtu.be/9ZqJPIbTme4?si=PIaPy-aklGp31ylg).
+Friday, 4pm. I was counting minutes before getting out of the office. I need to dip bro, and I did. I thought the bus was 6:30 but it was 7:30. Fast-forward to when I got off this 5-hour bus, finishing a [Fisher set](https://youtu.be/mzArzdY24wU?si=Q-ndARfVWJ0D3Hdz), a [Mau P set](https://youtu.be/WEcImcXf6C0?si=AvAUg3eGHEHLV8Kn), and a [John Summit & Dom Dolla set](https://youtu.be/9ZqJPIbTme4?si=PIaPy-aklGp31ylg).
 
 I was shocked by what I saw. Forgive me for being overdramatic. I have come to NY a couple times before, but never by myself, never at midnight, never carrying butterflies inside me, never panicking about everything up in the air. It is for real the city that never sleeps. ***<u>12:20 am, mid-town Manhattan, neon lights, gigantic display screens built on building walls, food trucks, girls showing skin, boys showing rizz, crackheads, smokers.***</u> As if anything could happen. By anything, I mean everything. As if nobody gives a fuck and you need to drop a little self esteem to truly be free.
 
@@ -42,9 +42,9 @@ Found them under the blanket. Tried to put them on. ***<u>Said “fuck” for ab
 ![Nails](/img/palm_tree/nails.jpg)
 <small>It needs a feature!</small>
 
-I stormed out of the building carrying a paper bag full of shooters and soju. I tried not to make it jingle. But again, nobody cares, but being dramatic is fun.
+I stormed out of the building carrying a paper bag full of shooters and soju. Didn't wanna keep Froggie waiting! I tried not to make it jingle. But again, nobody cares, but being dramatic is fun.
 
-Froggie and I got Onigiris before getting on the shuttle. We ate them while standing on the sidewalk. We got a shuttle of ravers cruising towards Long Island. As I heard the song [People Talk People Sing](https://open.spotify.com/track/1HAflwKirsoDsun2cOIBvx?si=a7fc8c7136e542f9) banging through the speakers, ***<u>I knew I was on the right shuttle.***</u> Froggie said, “They know their audience!”
+Froggie and I got Onigiris before getting on the shuttle. We ate them while standing on the sidewalk and facing each other. We got a shuttle of ravers cruising towards Long Island. As I heard the song [People Talk People Sing](https://open.spotify.com/track/1HAflwKirsoDsun2cOIBvx?si=a7fc8c7136e542f9) banging through the speakers, ***<u>I knew I was on the right shuttle.***</u> Froggie said, “They know their audience!”
 
 There was a girl wearing shawty shorts that said “WAP” on her ___. I couldn’t stop staring.
 
@@ -73,7 +73,7 @@ We are passing bad checks. The board says ***<u>“no outside drinks”,***</u> 
 
 Anyways, while advancing in the line, Froggie and I started chugging the last shooter and splitting a bottle of soju.
 
-***<u>“Yeah girl CHUG CHUG CHUG!”***</u> That was girl behind us when I was finishing the soju. ***<u>LMAFO. Girls hype girls***</u> I guess. I gave a tipsy smile at her. I heard her plus one asked her what happened. She said, ***<u>“She (referring to me) took a shot already…”***</u>
+***<u>“Yeah girl CHUG CHUG CHUG!”***</u> That was girl behind us when I was finishing the soju. ***<u>LMAFO. Girls hype girls***</u> I guess. I gave a tipsy smile at her. I heard her plus-one asked her what happened. She said, ***<u>“She (referring to me) took a shot already…”***</u>
 
 Dead, absolutely dead.
 
@@ -91,7 +91,7 @@ We got to the VIP area. ***<u>Froggie carried. I was just following him***</u> b
 
 Please, 4-5 shots are like nothing.
 
-More drinks, pizza, and ice cream. Just chilling. So wholesome.
+More drinks, pizza, and ice cream. Just chilling.
 
 <h3>Next Up:</h3>
 <a href="{{ '/posts/clubbingpackagept4/' | url }}">Palm Trees, Mau P, Fisher, and A Frog (Final)</a>
