@@ -97,6 +97,8 @@ But ***<u>at least I am not walking on the bare street in rain and calling my te
 ![I Survived My Trip To NYC2.0](/img/palm_tree/survive_ny.jpg)
 <small>Btw, if I see this shirt one more time, I might really need to buy it.</small>
 
+What happened in NY stays in NY.
+
 <h3>Filling in Some Blanks:</h3>
 <a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's.</a>
 
