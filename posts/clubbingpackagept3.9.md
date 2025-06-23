@@ -77,12 +77,15 @@ Anyways, while advancing in the line, Froggie and I started chugging the last sh
 
 Dead, absolutely dead.
 
-And here we are, Froggie and I, and probably thousands of people in this large summer-vibe area. Palm Tree Music Festival. Please explain to me ***<u>why everybody is like 6’6 and wearing an old-money shirt with the top buttons open.***</u> So fratty! The drunk thoughts start kicking in. It was around 2:30 pm, 3-4 hours before Mau P and Fisher start performing. We visited a couple of booths, took some drinks, drank some drinks, and ate some food.
+And here we are, Froggie and I, and probably thousands of people in this large summer-vibe area. Palm Tree Music Festival. Please explain to me ***<u>why everybody is like 6'6" and wearing an old-money shirt with the top buttons open.***</u> So fratty! The drunk thoughts start kicking in. It was around 2:30 pm, 3-4 hours before Mau P and Fisher start performing. We visited a couple of booths, took some drinks, drank some drinks, and ate some food.
 
 We wanted to go to the VIP area to chill for a bit. But ***<u>this***</u> guard we asked pointed at ***<u>that***</u> guard, and ***<u>that***</u> guard pointed at ***<u>another***</u> guard. Froggie was laughing, saying ***<u>it is funny how the system functions with people having no clue how every sub-section is connected.***</u> I was laughing with him, because at this point I think I will laugh at any living sentences.
 
 ![VIP](/img/palm_tree/me_w_hat.jpeg)
-<small>VIP?</small>
+<small>VIP?
+It’s Froggie’s hat. He said that the caption “No Rules, just Techno” is analogous to the lyrics “Don’t call just text me.” Sassy frog!
+It’s a cap that says no cap.</small>
+
 
 We got to the VIP area. ***<u>Froggie carried. I was just following him***</u> because I forgot my brain in the paper bag, and ***<u>now the alc is jingling in my head.***</u> Oops.
 
