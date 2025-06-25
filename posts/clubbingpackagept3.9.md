@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 I knew I would bring my laptop with me just in case, and in this case, ***<u>missing the 8:30 bus like a champ.***</u> I was sitting on my suitcase in a NY street corner with the drizzle occasionally slipping on my face and calling WTEN for a good 30 minutes.
 
-When I was walking with Froggie, I trust the New Yorker instinct so much ***<u>I was barely thinking.***</u> Now I need to reboot my brain… I got another bus at 1pm and went to a nearby coffee shop, and figured I would write everything down before they fade away.
+When I was walking with Froggie, I trust the New Yorker instinct so much that ***<u>I was barely thinking.***</u> Now I need to reboot my brain… I booked another bus at 1pm, went to a nearby coffee shop, and figured I would write everything down before they fade away.
 
 Walking in the light rain sobers me up a lot, although I proudly said that I think I was decent enough at the rave (or not? Tell me). Why is it always after I washed my hair.
 
@@ -25,9 +25,9 @@ Typing on a computer feels oddly satisfying right now. My wristbands are still o
 
 <h3>City Never Sleeps</h3>
 
-Friday, 4pm. I was counting minutes before getting out of the office. I need to dip bro, and I did. I thought the bus was 6:30 but it was 7:30. Fast-forward to when I got off this 5-hour bus, finishing a [Fisher set](https://youtu.be/mzArzdY24wU?si=Q-ndARfVWJ0D3Hdz), a [Mau P set](https://youtu.be/WEcImcXf6C0?si=AvAUg3eGHEHLV8Kn), and a [John Summit & Dom Dolla set](https://youtu.be/9ZqJPIbTme4?si=PIaPy-aklGp31ylg).
+Friday, 4pm. I was counting minutes before getting out of the office. I need to dip bro, and I did. I thought the bus was 6:30 but it was 7:30. Fast-forward to when I got off this 5-hour bus ride, finishing a [Fisher set](https://youtu.be/mzArzdY24wU?si=Q-ndARfVWJ0D3Hdz), a [Mau P set](https://youtu.be/WEcImcXf6C0?si=AvAUg3eGHEHLV8Kn), and a [John Summit & Dom Dolla set](https://youtu.be/9ZqJPIbTme4?si=PIaPy-aklGp31ylg).
 
-I was shocked by what I saw. Forgive me for being overdramatic. I have come to NY a couple times before, but never by myself, never at midnight, never carrying butterflies inside me, never panicking about everything up in the air. It is for real the city that never sleeps. ***<u>12:20 am, mid-town Manhattan, neon lights, gigantic display screens built on building walls, food trucks, girls showing skin, boys showing rizz, crackheads, smokers.***</u> As if anything could happen. By anything, I mean everything. As if nobody gives a fuck and you need to drop a little self esteem to truly be free.
+I was shocked by what I saw. Forgive me for being overdramatic. I have come to NY a couple times before, but never by myself, never at midnight, never carrying butterflies inside me, never panicking about everything up in the air. It is for real the city that never sleeps. ***<u>12:20 am, mid-town Manhattan, neon lights, gigantic display screens built on concrete walls, food trucks, girls showing skin, boys showing rizz, crackheads, smokers.***</u> As if anything could happen. By anything, I mean everything. As if nobody gives a fuck and you need to drop a little self esteem to truly be free.
 
 I don’t know about dropping anything at first, but ***<u>I just dropped the chicken gyro I bought from the food truck.***</u> All over my top and suitcase. And ***<u>I dropped my self-esteem by calmly wiping them off in the middle of the sidewalk.***</u> Of course nobody gave any fuck, except this dude who opened a paper bag at me and rambled something that sounds like English but did not make anysense. ***<u>I think he was trying to sell me crack.***</u> Uhh-uh.
 
@@ -61,7 +61,7 @@ But the bus arrived in the middle of nowhere. I see no DJ booths or anything, be
 
 ***<u>It is like a dream come true. It is like a dream come true.***</u>
 
-The big banners looked exactly like the ticket flyers. I mean, what else are they supposed to look like? But that is my dream for a whole month. Only a month and it is here right in front of my eyes. I was playing Fisher and Mau P sets when I was working, dozing in the office, sending emails, brushing my teeth, running, showering, putting on make-up, being silly in front of the mirror. Now ***<u>they will be right in front of me with hundreds of other ravers.***</u> Man!
+The big banners looked exactly like the ticket flyers. I mean, what else are they supposed to look like? But that has been my dream for a whole month. Only a month and it is here right in front of my eyes. I was playing Fisher and Mau P sets when I was working, dozing in the office, sending emails, brushing my teeth, running, showering, putting on make-up, being silly in front of the mirror. Now ***<u>they will be right in front of me with hundreds of other ravers.***</u> Man!
 
 ![Palm Tree Music Festival Flyer](/img/palm_tree/palm_tree_flyer.jpg)
 <small>IYKYK...</small>
@@ -73,7 +73,7 @@ We are passing bad checks. The board says ***<u>“no outside drinks”,***</u> 
 
 Anyways, while advancing in the line, Froggie and I started chugging the last shooter and splitting a bottle of soju.
 
-***<u>“Yeah girl CHUG CHUG CHUG!”***</u> That was girl behind us when I was finishing the soju. ***<u>LMAFO. Girls hype girls***</u> I guess. I gave a tipsy smile at her. I heard her plus-one asked her what happened. She said, ***<u>“She (referring to me) took a shot already…”***</u>
+***<u>“Yeah girl CHUG CHUG CHUG!”***</u> That was a girl behind us when I was finishing the soju. ***<u>LMAFO. Girls hype girls***</u> I guess. I gave a tipsy smile at her. I heard her plus-one asking her what happened. She said, ***<u>“She (referring to me) took a shot already…”***</u>
 
 Dead, absolutely dead.
 

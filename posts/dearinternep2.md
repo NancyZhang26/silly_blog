@@ -44,7 +44,7 @@ A high-school boy wearing a Red Sox jersey is holding a Gatorade bottle that is 
 
 To a pregnant woman: “Congratulations!”
 
-To the guy on my left: “Yo, dude, where should I get off for Red Sox?”Kenmore. “Thanks man. You’re the best!”
+To the guy on my left: “Yo, dude, where should I get off for Red Sox?” Kenmore. “Thanks man. You’re the best!”
 
 To ***<u>his crew***</u>: “You guys are my people… I choose you guys to talk shit to… Tell me she doesn’t give a fuck… I know she cares, that’s why she did it… Fuck her…”
 
