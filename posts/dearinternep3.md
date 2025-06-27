@@ -55,5 +55,5 @@ Was banging John Summit on the train. [This track](https://open.spotify.com/trac
 
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep4/' | url }}">Dear Intern ep4. TBC.</a>
+<a href="{{ '/posts/dearinternep4/' | url }}">Dear Intern ep4. Fun Facts.</a>
 

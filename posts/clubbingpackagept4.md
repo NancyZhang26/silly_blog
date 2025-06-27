@@ -1,8 +1,8 @@
 ---
 title: Clubbing Package Pt.4. Palm Trees, Mau P, Fisher, and A Frog (Intro)
 description: Raved with a frog
-date: 2025-06-21
-scheduled: 2025-06-21
+date: 2025-05-09
+scheduled: 2025-05-09
 tags:
   - Clubbing
 layout: layouts/post.njk
