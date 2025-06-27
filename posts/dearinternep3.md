@@ -33,9 +33,9 @@ Bill said gracefully - I know there is a ***<u>pig farm***</u> nearby… Might b
 
 Ok, then pig farm it is. We sat down at a more distant picnic table. Bill opened the sun umbrella.
 
-Ok! It is comfortable when the two adults are leading the convo, but ***<u>ykw lemme make some commands this time.***</u> No more dry “where you lived” / “how you worked” / “kids” lines. Adult guys and an intern girl, what could be some overlapping interests? ***<u>Cars??***<u> Thanks, Johnson, for taking me on your fresh AE86…
+Ok! It is comfortable when the two adults are leading the convo, but ***<u>ykw lemme make some commands this time.***</u> No more dry “where you lived” / “how you worked” / “kids” lines. Adult guys and an intern girl, what could be some overlapping interests? ***<u>Cars??***</u> Thanks, Johnson, for taking me on your fresh AE86…
 
-I started a convo about ***<u>manual-style cars and manually rolled windows,***</u> and Bill has loads to say on that. Both Anton and Bill enthusiastically talked about how they love the manual styles better because they ***<u>“give a more sense of control”.***</u>
+I started a convo about ***<u>manual-style cars and manually rolled windows,***</u> and Bill had loads to say on that. Both Anton and Bill enthusiastically talked about how they love the manual styles better because they ***<u>“give a more sense of control.”***</u>
 
 Bill also mentioned that he has been living in 10+ places… Always moving around. Man! What does that feel like? Moving dorms has already stressed me enough. I wonder what those years have given him.
 
@@ -47,7 +47,7 @@ Not much, but I figured that’s funny, and kinda wholesome, don’t you think.
 
 Some other guy who seems to be living on coffee with dozy eyes helped me with some git auth stuff. Before I left, I said, “Have a good day!” He said with some really weak tone: ***<u>“Okay, Nancy.”***</u>
 
-It’s not some normal “ok bet”. It is “okay, Nancy” with loads of “um not sure about that”. What has life done to you bro??
+It’s not some normal “ok bet”. It is “okay, Nancy” with loads of “um not sure about that.” What has life done to you bro??
 
 Shared a ride w someone from ***<u>Amazon Robotics.***</u> I just felt intimidated. I’m sometimes nervous around hella smart guys.
 

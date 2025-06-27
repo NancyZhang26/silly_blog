@@ -86,13 +86,6 @@ I will miss him in the same way that I miss all my other friends. That’s all.
 ![Drunk Selfie](/img/blog2.0/back-drunk.jpg)
 <small>01:44 AM. Just me drunk talking. I guess.</small>
 
-<h3>Check My Final Week Struggles:</h3>
-<a href="{{ '/posts/spring2025finalweekpt1/' | url }}">Final Week Pt.1. On the Edge.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt2/' | url }}">Final Week Pt.2. Give Me A Moment.</a>
-
-<a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
-
-<h3>Recap of Last Time:</h3>
-<a href="{{ '/posts/clubbingpackagept1/' | url }}">Clubbing Package Pt.1. Watty in a Club (???)</a>
+<h3>Next Up:</h3>
+<a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's.</a>
 

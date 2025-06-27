@@ -1,5 +1,5 @@
 ---
-title: Clubbing Package Pt.4. Palm Trees, Mau P, Fisher, and A Frog (Final)
+title: Clubbing Package Pt.4. Palm Trees, Mau P, Fisher, and A Frog (Intro)
 description: Raved with a frog
 date: 2025-06-21
 scheduled: 2025-06-21
@@ -8,106 +8,91 @@ tags:
 layout: layouts/post.njk
 ---
 
-<h3>Previous Context:</h3>
-<a href="{{ '/posts/clubbingpackagept3.9/' | url }}">Palm Trees, Mau P, Fisher, and A Frog (Intro)</a>
+<h3>Last Clubbing Post:</h3>
+<a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's.</a>
 
 <h3>Main Plot Starts Here</h3>
 
-Out in the-, out in the-, out in the-, out in the-. Out in the street, they call it mer...ther!!
+I knew I would bring my laptop with me just in case, and in this case, ***<u>missing the 8:30 bus like a champ.***</u> I was sitting on my suitcase in a NY street corner with the drizzle occasionally slipping on my face and calling WTEN for a good 30 minutes.
 
-<h3>Mau P</h3>
+When I was walking with Froggie, I trust the New Yorker instinct so much that ***<u>I was barely thinking.***</u> Now I need to reboot my brain… I booked another bus at 1pm, went to a nearby coffee shop, and figured I would write everything down before they fade away.
 
-[Merther](https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD?si=69a7ed8e900845a4). [Mau P](https://en.wikipedia.org/wiki/Mau_P) is here. That man was wearing a black shirt, top buttons off. He was just there. ***<u>Mau P was just there.***</u> Alone, with a cameraman, in front of the DJ deck. ***<u>Just a Mau P DJing.***</u>
+Walking in the light rain sobered me up a lot, although I proudly said that I think I was decent enough at the rave (or not? Tell me). Why is it always after I washed my hair.
 
-![Mau Papi](/img/palm_tree/mau_papi.jpeg)
-<small>Just a Mau P DJing.</small>
+Typing on a computer feels oddly satisfying right now. My wristbands are still on because I would need a pair of scissors to get them off. They just soaked in the rain and are tied hard to my skin, proving that ***<u>yesterday was not a dream.***</u> Aight, I got 3 hours before hopping on the right bus (hopefully) to pull all my memories out.
 
-The big screens were zooming in on his post covers and logo. There were no words. I kept thinking why ravers include people of all ages coming from every possible background. It was just some sheer freedom where you jump without identities.
+***<u>It is like a dream come true.***</u> I confidently say that I will remember and maybe shed some lame tears for this day 1 year from now. ***<u>My first music festival and outdoor rave in Long Island.***</u>
 
-![Get 'em Mau P!](/img/palm_tree/ayo_maup.jpeg)
-<small>It's the cover for BEATS FOR THE UNDERGROUND. Ayo Get 'em Mau P!</small>
+<h3>City Never Sleeps</h3>
 
-Froggie said, ***<u>how can someone be good-looking, smart, and successful at the same time?***</u> Something is wrong. Yes, Maurice West is a beautiful man with some beautiful styles. I think maybe he is just a little bit freaky. ***<u>Tell me who the fuck samples from PornHub in [Your Mind Is Dirty](https://open.spotify.com/track/7B69sTCwpJdVtoe6WwMc5q?si=0346c99d74d647c6)?***</u> And why are the goods drugs from Amsterdam but not sketchy places in New York? Tell me and nobody will be guilty. ***<u>Isn’t raving just a big group of freaks celebrating existence by wearing fine attire and throwing dollar bills?***</u> I think Mau P built a great stage personality. I kept telling Froggie that Mau P should start shaving because I want that rebellious, teenage-looking face back. Froggie just laughed.
+Friday, 4pm. I was counting minutes before getting out of the office. I need to dip bro, and I did. I thought the bus was 6:30 but it was 7:30. Fast-forward to when I got off this 5-hour bus ride, finishing a [Fisher set](https://youtu.be/mzArzdY24wU?si=Q-ndARfVWJ0D3Hdz), a [Mau P set](https://youtu.be/WEcImcXf6C0?si=AvAUg3eGHEHLV8Kn), and a [John Summit & Dom Dolla set](https://youtu.be/9ZqJPIbTme4?si=PIaPy-aklGp31ylg).
 
-Back to the question of ***<u>how the mighty creator distributes perfect packages for a jack of all trades.***</u> The world setting might be buggy. Something is wrong. Wrong indeed, because I could not feel my heart anymore. The kids around us were smoking. ***<u>The minty burnt cigarette smells so familiar.***</u> So many people are vaping. Smoke coming from joints, rolled cigs, and electric tubes blended in and disappeared with numerous inhales. ***<u>Quitting vapes is one of the best decisions I have ever made.***</u>
+I was shocked by what I saw. Forgive me for being overdramatic. I have come to NY a couple times before, but never by myself, never at midnight, never carrying butterflies inside me, never panicking about everything up in the air. It is for real the city that never sleeps. ***<u>12:20 am, mid-town Manhattan, neon lights, gigantic display screens built on concrete walls, food trucks, girls showing skin, boys showing rizz, crackheads, smokers.***</u> As if anything could happen. By anything, I mean everything. As if nobody gives a fuck and you need to drop a little self esteem to truly be free.
 
-[Merther](https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD?si=1da39d491cf44bd3), [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp?si=25d553cce1f84379) — ayo get it Mau P!! SexyBack remix, [Gimme that Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko?si=784318d1579145b7), [People Talk People Sing](https://open.spotify.com/track/1HAflwKirsoDsun2cOIBvx?si=e039130c5b3142ed) — People talk and people sing and in the end it's just a game, [Drugs from Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv?si=c42be388207f4514), Sexy Chick mix, [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY?si=842d2cc517a443ec). God, Mau P. Alumni David told me, ***<u>to be a well-known DJ, you need to produce bangers.***</u> Now the bangers are banging. ***<u>The lyrics are coming from flesh built in different heights, races, genders, and sobriety.***</u> But one thing in common, ***<u>we all surely know some Mau P, and we know you got your drugs from Amsterdam.***</u>
+I don’t know about dropping anything at first, but ***<u>I just dropped the chicken gyro I bought from the food truck.***</u> All over my top and suitcase. And ***<u>I dropped my self-esteem by calmly wiping them off in the middle of the sidewalk.***</u> Of course nobody gave any fuck, except this dude who opened a paper bag at me and rambled something that sounds like English but did not make anysense. ***<u>I think he was trying to sell me crack.***</u> Uhh-uh.
 
-Thank you Mau P. I will willingly do a lot of overtime and drop some dollar bills to see you pull some rizz above a gigantic crowd again.
+I told Steven I would be there in 20 minutes, but I actually took 40 minutes. I felt insanely bad. But… Can someone tell me why there are so many crosswalks to go through, and people never follow the light signal? I finally settled down. So this is what Xinpeng’s room looks like. I saw a lot of memories with Jiayi. That’s cute. Nighty. Can’t wait for tomorrow.
 
-<h3>Girls Help Girls</h3>
+<h3>Pregame on a Shuttle, Chug Chug Chug</h3>
 
-***<u>My top kept falling off.***</u> I was jumping up and down like a monkey while trying to hold the girls from popping out. God. Mau P finished his set. Froggie and I went out of the plaza to cool down from the heat. But I heard [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz?si=ca2138ca69d64255). My Shaylas. ***<u>It was the hand-flicking visuals. It is THE FISH. FISHER IS HERE.***</u>
+Woke up at 8 am, showered because I need my hair to give a little. 20 minutes before meeting up with Froggie, ***<u>I could not find my press-on nails.***</u> Girl. Wtf.
 
-![Hand Flicking Visuals](/img/palm_tree/hand_flick.jpeg)
-<small>See those hands!</small>
+Found them under the blanket. Tried to put them on. ***<u>Said “fuck” for about 10 times, other miscellanous words for 20 times.***</u> Nails look ok, but nobody told me they would disable my hand from functioning normally. Spare me. I can’t even put on my shoes or tie my hair. Later, one of the nails fell off during the shuttle ride, and all of them fell off during the rave. It was worth it though.
 
-My whole house addiction started when Jack played [Danielle(Smile On My Face)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv?si=3955469d27954436) outside of Rosie. I was triple-crossed, and [Fred Again](https://en.wikipedia.org/wiki/Fred_Again) opened a new door. And Ken introduced me to [Somebody](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO?si=f5776ecbefee4888), and there started my whole mixing journey and a fanatic passion for House music. Everything is so seductive and pure at some point. ***<u>Fisher, Chris Lake, Dom Dolla, John Summit, Odd Mob, MEDUZA, Mau P.***</u>  They played as my daylight saviors and filled up my midnight dreams. ***<u>I think humans live on addictions. Being either substance, other people, or personal endeavors. Just pleasure in its transpositions.***</u> I don’t know how to classify House music. I feel it deeply. I wanna dance to it while dreaming. It is the best reality escaper, while also being so real and down-to-earth.
+![Nails](/img/palm_tree/nails.jpg)
+<small>It needs a feature!</small>
 
-I deviated. Apologies. I saw Fisher, and ***<u>Froggie and I were running towards the plaza again,***</u> just as we were running in the Grand Central under the clear blue dome, running to find the VIP area, and running towards Mau P. Dunno about Froggie, but ***<u>I felt like we were 2 free birds.***</u> I felt so free when we were running. ***<u>We were running like 2 kids in async.***</u>
+I stormed out of the building carrying a paper bag full of shooters and soju. Didn't wanna keep Froggie waiting! I tried not to make it jingle. But again, nobody cares, but being dramatic is fun.
 
-Yes, we were running. I was running. ***<u>My jeans tube top was dropping like a broken elevator.***</u> I was definitely showing my bra. I would say sorry, but I figured maybe this is what people like to see. Either way, I was pretty embarrassed but I had no room for girly thoughts because Fisher is here.
+Froggie and I got Onigiris before getting on the shuttle. We ate them while standing on the sidewalk and facing each other. We got a shuttle of ravers cruising towards Long Island. As I heard the song [People Talk People Sing](https://open.spotify.com/track/1HAflwKirsoDsun2cOIBvx?si=a7fc8c7136e542f9) banging through the speakers, ***<u>I knew I was on the right shuttle.***</u> Froggie said, “They know their audience!”
 
-In a short distant, ***<u>a girl yelled at me with eyes full of unbelieveness: “Girl FIX YOUR BOOBS!”***</u>
+There was a girl wearing shawty shorts that said “WAP” on her ___. I couldn’t stop staring.
 
-<h3>Fisher</h3>
+The shooters started shooting on the shuttle. Tequila and Whiskey are cheaper than therapy. I think I caught the liquor store owner looking at my ___ the other day.
 
-![The Fish](/img/palm_tree/the_fish.jpg)
-<small>The Fish is fishing</small>
+![Shooters](/img/palm_tree/shooters.jpeg)
+<small>Shooters are shooting. Wouldn't you like to know.</small>
 
-That is me seeing this man for the second time. The first time was in [Roadrunner](https://roadrunnerboston.com) in Boston in November 2024. I was with Mandy and Becca, and it was when [this](https://drive.google.com/file/d/1TvrpSSP5bBAmwhA9gZCapdpAe9sZH1wW/view?usp=drivesdk) marvelous documentation got released.
+We talked about many things, so the ride felt short. 2 shots inside me. That was nothing. Or was it anything? Why did we start talking about distributed systems, concurrency, and 131 (again?!). I got the top 11 grades in the class?! ***<u>Bro, rizz me UP.***</u> Second-best news behind this rave this summer. I started talking about my internship and throwing technical jargon. ***<u>I was trying too hard to be sophisticated.***</u> Froggie was yawning. The two girls in the front looked back from time to time. It was hilarious in retrospect. I think I need to take more OS classes.
 
-But this time, I assume I know him more. I played every single one of his sets that I can find on YouTube. I am well aware of all of his transitions, his preference for playing what songs after the next, his dance moves, his famous flicks, his silly-boooo visuals, his crazy charisma. Now he has dropped the new bangers [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII?si=d6e28aec9ad64e49) in November 2024 (time flies!) and [Stay](https://open.spotify.com/track/74y1VgzL668hynrvA59WQB?si=87d75f42b8ae40b6) this March. If anything can hype me up more than [Somebody](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO?si=f5776ecbefee4888), I would dance to [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII?si=d6e28aec9ad64e49) all day.
+But the bus arrived in the middle of nowhere. I see no DJ booths or anything, because they are 5 minutes walk away silly. So we walked towards the main entrance with the remaining goods jingling in the paper bag. ***<u>More CS content and the socio-economic state of the world.***</u> I think Froggie knows good stuff, and I could only participate by providing emotional values through giving puppy eyes. The contrast provides top-tier entertainment, and I think laughing > tequila > therapy. And we were there. ***<u>Hamptons, Palm Tree Music Festival.***</u>
 
-And he did play Ocean. ***<u>That ID was so pure.***</u> At some moments I felt like me, Froggie, the kid sucking a joint, the girl passing vapes with her girlie group, the 6'6" possibly finance guy, have all known each other forever. [It’s That Time](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ?si=8f4c7f47b8e94968)! ***<u>Within a seeable range, people went bonkers.***</u> I went bonkers. I was looking at videos from last night. Bro why do I look like that. Did I just rave with that melting eye shadow and messy hair and chapped lips? No. That is the vibe.
+<h3>Girls Hype Girls. Where is the VIP.</h3>
 
-[Atmosphere](https://open.spotify.com/track/63HwAAXuSV2tzIUPoHOwZa?si=507d8a90a6764622), [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi?si=e7223a743ee948d0), [Somebody](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO?si=f5776ecbefee4888) (of course). All the well-known bangers.
+***<u>It is like a dream come true. It is like a dream come true.***</u>
 
-[Take It Off](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB?si=3a1e5cb5c54b4e03)! In the video I recorded, ***<u>Froggie and I are vibing back to back like 2 decent ravers,***</u> and a girl shouted ***<u>“take your mtrfking clothes off!”***</u> Woah, chill, not right here! But I guess if you do, people will only cheer.
+The big banners looked exactly like the ticket flyers. I mean, what else are they supposed to look like? But that has been my dream for a whole month. Only a month and it is here right in front of my eyes. I was playing Fisher and Mau P sets when I was working, dozing in the office, sending emails, brushing my teeth, running, showering, putting on make-up, being silly in front of the mirror. Now ***<u>they will be right in front of me with hundreds of other ravers.***</u> Man!
 
-[World, Hold On](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1?si=2e66cf41af004d44)! I knew Fisher is going to do the same [low-frequency cut](https://youtu.be/PNPpSPS1nok?si=NiQs5oHYaiwUBxbg&t=3661) that he has been doing in every single set. He did it. ***<u>World, hold the fuck on!***</u> The crowd went nuts.
+![Palm Tree Music Festival Flyer](/img/palm_tree/palm_tree_flyer.jpg)
+<small>IYKYK...</small>
 
-Just Dance remix? This is so fratty. I wonder what the Fish was like in college. His whole thing is so silly. ***<u>It was an alpha silly.***</u> Froggie asked me, ***<u>do you think Fisher would annoy you if you were friends in real life?***</u> Yes I think he will. I think a person is not truly funny if he is not annoying. I read on Reddit that someone said Fisher copied other people’s homework in school. No proof. Just saying. Not slandering! ***<u>But who cares?***</u> I am so drawn by his tracks and rizz that I was almost thinking of buying those crazy over-priced merch on his site.
+![Palm Tree Music Festival Flyer](/img/palm_tree/me_w_flyer.jpeg)
+<small>Got too excited and lost my face.</small>
 
-Fisher ended the set with an ID that I wasn’t familiar with. ***<u>I was almost holding a grudge if I couldn’t tell the upcoming song within the first 3 seconds after he started mixing the low bass.***</u> I can transcribe every single bass line in his every single song. I am proud to say that I think I know Fisher’s art pretty well. I knew he is going to play something similar to [his 2025 EDC set](https://www.youtube.com/watch?v=PNPpSPS1nok), and he is. I try to read his stage personality, and I love how in some set videos, ***<u>he got blown away by the unbelievable crowd energy, the so-called collective consciousness?***</u> In such a way people are connected by flows and mutual appreciations. ***<u>So was Fisher holding crowd control power through his flicks?***</u> I think so, and I think it is so powerful. I could only touch upon a millionth of it by playing 2010 top hits in AEPi. I hope, and I will, produce some better tracks. I hope to go B2B with Fisher. In my dreams. Who knows.
+We were passing bag checks. The board said ***<u>“no outside drinks”,***</u> but the bag check was so silly. We could have just hidden shooters in our shoes, or my top, if anybody dares to question whether I am fully natural.
 
-![Palm Tree Music Festival Plaza](/img/palm_tree/palm_tree_plaza.jpg)
-<small>Crowd control.</small>
+Anyways, while advancing in the line, Froggie and I started chugging the last shooter and splitting a bottle of soju.
 
-One more song. One more song. Nope. Fisher left, and the stage was playing [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR?si=414e545eae9240c3). Froggie and I sat on the grass by the fence in a venue corner, with [Kygo](https://en.wikipedia.org/wiki/Kygo) banging some groovy bass in the background as the closing set. Kygo played Gimme Gimme! remix and some more melodic-based traditional EDM, I would say. Did he even play Avicci? [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2?si=a92fdff92d0b4f60), if I remembered correctly. We spent a short while leaning against each other in silence because we were both so exhausted. ***<u>It was ~30k steps plus a 3-hour ride with some alc and some screaming and jumping, and 3 hours coming ahead to take us back to Manhattan.***</u> City never sleeps, but I do need to sleep on the shuttle.
+***<u>“Yeah girl CHUG CHUG CHUG!”***</u> That was a girl behind us when I was finishing the soju. ***<u>LMAFO. Girls hype girls***</u> I guess. I gave a tipsy smile at her. I heard her plus-one asking her what happened. She said, ***<u>“She (referring to me) took a shot already…”***</u>
 
-<h3>I Survived My Trip To NYC</h3>
+Dead, absolutely dead.
 
-Some drunk people were talking BS in the back. It was all very fratty. One guy said ***<u>the last time he showered was this Thursday.***</u> Good for you?
+And here we are, Froggie and I, and probably thousands of people in this large summer-vibe area. Palm Tree Music Festival. Please explain to me ***<u>why everybody is like 6'6" and wearing an old-money shirt with the top buttons open.***</u> So fratty! The drunk thoughts start kicking in. It was around 2:30 pm, 3-4 hours before Mau P and Fisher start performing. We visited a couple of booths, took some drinks, drank some drinks, and ate some food.
 
-Didn’t talk much on our way back. ***<u>My throat is burning, and I could barely open my eyes.***</u> We took the subway back. American history reveals itself a little in the subway. The subway station smelled like bathrooms. In this sense, ***<u>does history smell like bathrooms?***</u> Physical histories are histories too. This is gross, but silly-funny.
+We wanted to go to the VIP area to chill for a bit. But ***<u>this***</u> guard we asked pointed at ***<u>that***</u> guard, and ***<u>that***</u> guard pointed at ***<u>another***</u> guard. Froggie was laughing, saying ***<u>it is funny how the system functions with people having no clue how every sub-section is connected.***</u> I was laughing with him, because at this point I think I will laugh at any living sentences.
 
-My stop arrived first. So I said bye to Froggie. As the subway door closed, I could only see him through the glass. I walked towards the opposite direction of the subway, and I caught him looking at me through the crowd. I think I was both tired and scared of leaving those peak memories in Long Island that I might look confused or extra quiet. Or not. I bent over to sneak a peek at Froggie one last time. Caught you!
+![VIP](/img/palm_tree/me_w_hat.jpeg)
+<small>VIP?
+It’s Froggie’s hat. He said that the caption “No Rules, just Techno” is analogous to the lyrics “Don’t call just text me.” Sassy frog!
+It’s a cap that says no cap.</small>
 
-I went back to Avalon. Spent 30 minutes sitting on the ground, checking videos, and zoning out. ***<u>Everything was too good be true.***</u> The sparkling moments in which I thought people are connected and got each other. ***<u>The rides. The bass. The fire. The blinding ferris wheel. The Hamptons.***</u>
 
-![Ferris Wheel](/img/palm_tree/ferris_wheel.jpeg)
-<small>Dreamy.</small>
+We got to the VIP area. ***<u>Froggie carried. I was just following him***</u> because I forgot my brain in the paper bag, and ***<u>now the alc is jingling in my head.***</u> Oops.
 
-The peak was so peak that the normal feels low. I think I would need a few days to cool down. Those after-party disappointment feels so real, and ***<u>it reminds me that I am alive.***</u> All the moments of contrast reminds me that I am living a non-simulated life. Streets in NY are like ***<u>LEGO puzzles being stacked together just to fit all the spaces, both horizontally and vertically, and somehow they carry some aesthetics,***</u> which could potentially be confusing, I guess. But I am seeing everything real.
+Please, 4-5 shots are like nothing.
 
-I took a shower and passed out on the bed.
+More drinks, pizza, and ice cream. Just chilling.
 
-I woke up, packed up, ordered a Uber share to the bus station because my lame ass was lazy. Got there late for 8 minutes and ***<u>there were no buses.***</u> Just an empty road under the highway pillars. I have no one else to blame but me. ***<u>I walked around randomly under the drizzle.***</u> I left the keys in Avalon, so ***<u>I have no place to go to.***</u> I was suddenly thinking about Brandeis. I miss my dorm. ***<u>I sat down on my suitcase in a street corner under the roof and had the WTEN team call.***</u> I tried to be serious, ***<u>but everything coming out of my mouth turned into jokes.***</u> I was telling my teammates about how that girl reminded me to ***<u>“fix my boobs”***</u> instead of showing everybody my bra. I said the word “bra” and “boobs” loud and clear in front of ***<u>3 strangers***</u> who walked passed my face. Again, no body cares, but I like being dramatic.
-
-I went to a cafe to sober up a bit and wrote this post before it sank deep down into my subconscious. I then walked ~30 mintues to the new bus station for the 1pm bus that I just booked. I got on the bus safely this time, sitting with a stranger because it was a fully-booked bus. I was typing in my notes app right now to wrap up the final traces as the stranger on my right was sipping something like chocolate milk. I wanna have a sip of that so bad, but I left in a hurry, and I forgot my water bottle at Avalon.
-
-![Me In NY...](/img/palm_tree/me_in_ny.jpg)
-<small>See you in Boston.</small>
-
-But ***<u>at least I am not walking on bare streets in the rain and calling my teammates in street corners anymore.***</u> So peace out NY. Thanks for having me.
-
-![I Survived My Trip To NYC](/img/palm_tree/shirt.jpeg)
-![I Survived My Trip To NYC2.0](/img/palm_tree/survive_ny.jpg)
-<small>Btw, if I see this shirt one more time, I might really need to buy it.</small>
-
-What happened in NY stays in NY.
-
-<h3>Filling in Some Blanks:</h3>
-<a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's.</a>
+<h3>Next Up:</h3>
+<a href="{{ '/posts/clubbingpackagept5/' | url }}">Clubbing Package Pt.5. Palm Trees, Mau P, Fisher, and A Frog (Final)</a>
 

@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 <a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
-<h4>If you wanna skip to episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">(The REAL) Watty in a Club</a>
+<h4>If you wanna skip to episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">Clubbing Package Pt.2. (The REAL) Watty in a Club</a>
 
 <h3>Main Plot Goes Here:</h3>
 
@@ -93,4 +93,4 @@ And there were ***<u>Bella and Edward smudging each other in the ocean and rocki
 
 We did not finish the movie because we were heading out to this random a*s club by then. Watty was the one who turned this awkward experience into a comedy, and I so appreciate that.
 
-<h4>And here is episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">(The REAL) Watty in a Club</a>
+<h4>And here is episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">Clubbing Package Pt.2. (The REAL) Watty in a Club</a>
