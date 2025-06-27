@@ -1,6 +1,6 @@
 ---
 title: Clubbing Package Pt.6. Boston Cruise & D.O.D.
-description: We cruising.
+description: I want to make sure you see this but scared to text you directly I guess I'm an idiot.
 date: 2025-06-28
 scheduled: 2025-06-28
 tags:
