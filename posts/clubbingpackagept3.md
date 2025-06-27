@@ -1,8 +1,8 @@
 ---
 title: Clubbing Package Pt.3. Featuring Nikki's.
 description: Regular girls night.
-date: 2025-06-21
-scheduled: 2025-06-21
+date: 2025-05-09
+scheduled: 2025-05-09
 tags:
   - Clubbing
 layout: layouts/post.njk
