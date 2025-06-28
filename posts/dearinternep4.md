@@ -50,6 +50,14 @@ Bill: Somehow the timestamp on the docker image got set to 0.
 
 Long story short, that is why this timestamp was set to the beginning of an epoch.
 
+***<u>Unix time / Epoch time:***</u> a way computers measure time. It counts the number of seconds since January 1, 1970 at 00:00:00 UTC (Coordinated Universal Time).
+
+-	Example:
+	- Unix time 0 = Jan 1, 1970
+	- Unix time 1720000000 = some point in 2024
+
+If interested: ***<u>[Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem?utm_source=chatgpt.com)***</u> - See you in 292 billion years!
+
 <h3>Progress</h3>
 
 Context: Daily Standup on a Monday. ***<u>Bill returned from his weekend hiking trip.***</u>
