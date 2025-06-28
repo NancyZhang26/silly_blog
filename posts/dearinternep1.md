@@ -1,6 +1,6 @@
 ---
 title: Dear Intern ep1. LATE!
-description: Internship day 1.
+description: Internship pt. 1.
 date: 2025-06-09
 scheduled: 2025-06-09
 tags:

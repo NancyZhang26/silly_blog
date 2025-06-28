@@ -1,6 +1,6 @@
 ---
 title: Dear Intern ep2. And Lads, This Is How I Met My Boss
-description: Internship day 2.
+description: Internship pt. 2.
 date: 2025-06-10
 scheduled: 2025-06-10
 tags:

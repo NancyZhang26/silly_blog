@@ -1,6 +1,6 @@
 ---
 title: Dear Intern ep3. Smell of Pigs
-description: Internship day 3.
+description: Internship pt. 3.
 date: 2025-06-11
 scheduled: 2025-06-11
 tags:
