@@ -1,8 +1,8 @@
 ---
-title: Clubbing Package Pt.6. Boston Cruise & D.O.D.
-description: We cruising.
-date: 2025-06-28
-scheduled: 2025-06-28
+title: U
+description: I want to make sure you see this but scared to text you directly I guess I'm an idiot.
+date: 2025-06-29
+scheduled: 2025-06-29
 tags:
   - Clubbing
 layout: layouts/post.njk
@@ -14,9 +14,7 @@ draft: true
 
 <h3>Main Plot Starts Here</h3>
 
-Next time I will remember to take a look at the ocean.
-
-<h3>I Was Chased By A DAWG</h3>
+You made me cry in the office today. You dumbass. Certified romantic. Don’t lie to me ever again.
 
 <h3>Next Up:</h3>
 <a href="{{ '/posts/clubbingpackagept7/' | url }}">Clubbing Package Pt.7. TBC.</a>
