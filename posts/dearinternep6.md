@@ -61,7 +61,7 @@ Chirag’s birthday is on ***<u>3/9!***</u> Holy god. I instantly developed ***<
 
 One of the best things I learned from this internship: ***<u>I got to talk to so many people who are older, wiser, and smarter than me.***</u> Every day, I learned something new about not only CS but also the industry trends, US culture, and just life in general. I am truly, truly grateful.
 
-Before leaving Treehouse, I connected with a colleague, Z. ***<u>Z is from Shanghai too!***</u> He started talking to me directly in Shanghainese… I stuttered, and he immediately bantered that I am a ***<u>洋泾浜 (speaks bad Shanghainese).***</u> We added each other’s ***<u>WeChat.***</u> Not Slack or iMessage of WhatsApp. ***<u>WeChat!***</u> I am crying after that little green icon. It really felt heart-warming connecting with a homie, who, according to his ***<u>WeChat posts***</u>, is lecturing in some schools about ***<u>Machine Learning?!***</u> Hello?! Professor Cashman, are you proud of me?
+Before leaving Treehouse, I connected with a colleague, Z. ***<u>Z is from Shanghai too!***</u> He started talking to me directly in Shanghainese… I stuttered, and he immediately bantered that I am a ***<u>洋泾浜 (speaks bad Shanghainese).***</u> We added each other’s ***<u>WeChat.***</u> Not Slack or iMessage or WhatsApp. ***<u>WeChat!***</u> I am crying after that little green icon. It really felt heart-warming connecting with a homie, who, according to his ***<u>WeChat posts***</u>, is lecturing in some schools about ***<u>Machine Learning?!***</u> Hello?! Professor Cashman, are you proud of me?
 
 <h3>Touch Some Fish</h3>
 
@@ -77,7 +77,7 @@ I need to quote from this dude:
 
 …
 
->Me: 0/50 applications went into dead ends.
+>Me: 50/50 applications went into dead ends.
 
 >Z: ***<u>It’s their loss!***</u>
 

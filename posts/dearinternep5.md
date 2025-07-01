@@ -31,12 +31,12 @@ We waved goodbye to Q. The Tesla sent an electric vroom vroom.
 
 Context: the Software Group Meeting
 
-Speaker: Do ***<u>NOT***</u> ask the copilot to give you code that you don’t understand! There will be bugs that you don’t know how to fix, and more issues.
+>Speaker: Do ***<u>NOT***</u> ask the copilot to give you code that you don’t understand! There will be bugs that you don’t know how to fix, and more issues.
 
 ![Use ChatGPT to debug.](/img/blog5.0/ai_fix_bug_pls.jpeg)
 <small>This comes from my Shanghai colleague, whom I will introduce in the next post.</small>
 
-Speaker: Vibe coding.. ***<u>DON’T DO IT!***</u> If you do… I will ***<u>CHASE, YOU, DOWN!***</u>
+>Speaker: Vibe coding.. ***<u>DON’T DO IT!***</u> If you do… I will ***<u>CHASE, YOU, DOWN!***</u>
 
 His half-joking / half-furious gaze is penetrating through the monitor screen. I had goose bumps.
 
@@ -84,7 +84,7 @@ The next day, I greeted her on my way up to the office, and she said, by the way
 
 That was my daily high!
 
-Jocelyn is going to New York for her vacation. I fake-cried to her: Who am I going to reach out to for bagels?
+Jocelyn was going to New York for her vacation. I fake-cried to her: Who am I going to reach out to for bagels?
 
 She said, sorry dear...
 

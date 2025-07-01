@@ -38,13 +38,13 @@ But I am his intern, and ***<u>I am sitting right here.***</u> Fellas?
 
 A Docker image that was created ***<u>55 years ago.***</u>
 
-Anton: Oh boy, that’s interesting 🤔
+>Anton: Oh boy, that’s interesting 🤔
 
-Bertrand: We noticed it with Bill some weeks ago
+>Bertrand: We noticed it with Bill some weeks ago
 
-Anton: Some ***<u>time travel***</u> involved
+>Anton: Some ***<u>time travel***</u> involved
 
-Bill: Somehow the timestamp on the docker image got set to 0.
+>Bill: Somehow the timestamp on the docker image got set to 0.
 
 …
 
@@ -64,11 +64,11 @@ Context: Daily Standup on a Monday. ***<u>Bill returned from his weekend hiking 
 
 [People discussing their progress.]
 
-Bill: I made a lot of progress.
+>Bill: I made a lot of progress.
 
-Anton: Oh, nice. Tell us about it.
+>Anton: Oh, nice. Tell us about it.
 
-Bill: ***<u>…Climbing 5000 ft.***</u>
+>Bill: ***<u>…Climbing 5000 ft.***</u>
 
 <h3>Way Back</h3>
 
