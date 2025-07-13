@@ -87,5 +87,5 @@ I will miss him in the same way that I miss all my other friends. That’s all.
 <small>01:44 AM. Just me drunk talking. I guess.</small>
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's.</a>
+<a href="{{ '/posts/clubbingpackagept3/' | url }}">Clubbing Package Pt.3. Featuring Nikki's</a>
 

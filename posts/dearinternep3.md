@@ -17,11 +17,11 @@ layout: layouts/post.njk
 
 <h3>Smell of pigs</h3>
 
-I had lunch with my two colleagues — Anton, my mentor, and ***<u>Bill, a 60+ year-old guy who spits out terminal commands like his phone number.***</u>
+I had lunch with my two colleagues — AB, my mentor, and ***<u>BK, a 60+ year-old guy who spits out terminal commands like his phone number.***</u>
 
-Anton said we should go to the picnic tables, as the weather is finally neither dark nor gloomy anymore. We went to the tables, and the warm breeze from the South brought us a wave of early summer noons that smells like leaves, fresh grass, and, something WEIRD.
+AB said we should go to the picnic tables, as the weather is finally neither dark nor gloomy anymore. We went to the tables, and the warm breeze from the South brought us a wave of early summer noons that smells like leaves, fresh grass, and, something WEIRD.
 
-It smelled like some wild animal shie bro. It was quite invasive, and I wasn’t the only one noticing that. Bill and Anton both got that as well. They gave out some frowns and were like ***<u>what is that smell?***</u>
+It smelled like some wild animal shie bro. It was quite invasive, and I wasn’t the only one noticing that. BK and AB both got that as well. They gave out some frowns and were like ***<u>what is that smell?***</u>
 
 Bro it’s definitely some wild animal shits.
 
@@ -29,15 +29,15 @@ I didn’t say that. I said, ***<u>it smells like horses to me!***</u>
 
 Horses, ***<u>ketamine.***</u> WTEN, are you seeing this?
 
-Bill said gracefully - I know there is a ***<u>pig farm***</u> nearby… Might be coming from the same direction as the wind…
+BK said gracefully - I know there is a ***<u>pig farm***</u> nearby… Might be coming from the same direction as the wind…
 
-Ok, then pig farm it is. We sat down at a more distant picnic table. Bill opened the sun umbrella.
+Ok, then pig farm it is. We sat down at a more distant picnic table. BK opened the sun umbrella.
 
 Ok! It is comfortable when the two adults are leading the convo, but ***<u>ykw lemme make some commands this time.***</u> No more dry “where you lived” / “how you worked” / “kids” lines. Adult guys and an intern girl, what could be some overlapping interests? ***<u>Cars??***</u> Thanks, Johnson, for taking me on your fresh AE86…
 
-I started a convo about ***<u>manual-style cars and manually rolled windows,***</u> and Bill had loads to say on that. Both Anton and Bill enthusiastically talked about how they love the manual styles better because they ***<u>“give a more sense of control.”***</u>
+I started a convo about ***<u>manual-style cars and manually rolled windows,***</u> and BK had loads to say on that. Both AB and BK enthusiastically talked about how they love the manual styles better because they ***<u>“give a more sense of control.”***</u>
 
-Bill also mentioned that he has been living in 10+ places… Always moving around. Man! What does that feel like? Moving dorms has already stressed me enough. I wonder what those years have given him.
+BK also mentioned that he has been living in 10+ places… Always moving around. Man! What does that feel like? Moving dorms has already stressed me enough. I wonder what those years have given him.
 
 ***<u>The smell of pigs was a good company.***</u> The frownings got a bit intense, so we dipped.
 

@@ -23,7 +23,7 @@ So that’s what it is — In Chinese, we say we ***<u>touch a fish,***</u> and 
 
 <h3>Yapper</h3>
 
-After we got off the Zoom meeting, two of the colleagues said — in front of my face — Yeah, ***<u>Anton was a yapper.***</u> He loses track of time quite often.
+After we got off the Zoom meeting, two of the colleagues said — in front of my face — Yeah, ***<u>AB was a yapper.***</u> He loses track of time quite often.
 
 But I am his intern, and ***<u>I am sitting right here.***</u> Fellas?
 
@@ -38,13 +38,13 @@ But I am his intern, and ***<u>I am sitting right here.***</u> Fellas?
 
 A Docker image that was created ***<u>55 years ago.***</u>
 
->Anton: Oh boy, that’s interesting 🤔
+>AB: Oh boy, that’s interesting 🤔
 
->Bertrand: We noticed it with Bill some weeks ago
+>BP: We noticed it with BK some weeks ago
 
->Anton: Some ***<u>time travel***</u> involved
+>AB: Some ***<u>time travel***</u> involved
 
->Bill: Somehow the timestamp on the docker image got set to 0.
+>BK: Somehow the timestamp on the docker image got set to 0.
 
 …
 
@@ -60,21 +60,21 @@ If interested: ***<u>[Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038
 
 <h3>Progress</h3>
 
-Context: Daily Standup on a Monday. ***<u>Bill returned from his weekend hiking trip.***</u>
+Context: Daily Standup on a Monday. ***<u>BK returned from his weekend hiking trip.***</u>
 
 [People discussing their progress.]
 
->Bill: I made a lot of progress.
+>BK: I made a lot of progress.
 
->Anton: Oh, nice. Tell us about it.
+>AB: Oh, nice. Tell us about it.
 
->Bill: ***<u>…Climbing 5000 ft.***</u>
+>BK: ***<u>…Climbing 5000 ft.***</u>
 
 <h3>Way Back</h3>
 
 Docker! Why is it Docker again.
 
-Bill was demonstrating the Docker commands for me.
+BK was demonstrating the Docker commands for me.
 
 He clicked on the terminal. I ctr + v the commands. He hit Enter. ***<u>All on the same set of keyboard, without saying a word.***</u>
 

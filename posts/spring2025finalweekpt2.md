@@ -50,7 +50,7 @@ Went to a journalism senior event with Chaser, only to leave my wallet in Skylin
 
 My mind is all over the place. I found out that to be eligible for [CPT](https://en.wikipedia.org/wiki/Curricular_Practical_Training), I need to register for a summer INT (intership) course, which is just me submitting paragraphs about how I self-developed during the internship and how I can “demonstrate my learning” once every 2 weeks.
 
-You know what I have really learned? I learned that this kind of superficial mascara doesn’t stop after I graduated from high school. I learned that I have to pay 750 dollars for this baddy. ***<u>I learned that I might be poorer after working.***</u> I learned that I still need to stare at VS Code and wonder about my life choices even after OS, Java 12B, and Antonella 21A.
+You know what I have really learned? I learned that this kind of superficial mascara doesn’t stop after I graduated from high school. I learned that I have to pay 750 dollars for this baddy. ***<u>I learned that I might be poorer after working.***</u> I learned that I still need to stare at VS Code and wonder about my life choices even after OS, Java 12B, and ABella 21A.
 
 I might also learn how to kiss sombody’s ass (not literally. ***<u>I am not that freaky***</u>); how to pretend that I am an expert; how to pacakage my poor experiences. Hey, necessary life skills no? You don't see them in textbooks.
 

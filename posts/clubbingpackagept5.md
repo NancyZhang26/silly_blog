@@ -109,5 +109,5 @@ But ***<u>at least I am not walking on bare streets in the rain and calling my t
 What happened in NY stays in NY.
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept6/' | url }}">Clubbing Package Pt.6. Boston Cruise & D.O.D.</a>
+<a href="{{ '/posts/clubbingpackagept6/' | url }}">Clubbing Package Pt.6. Boston Cruise & D.O.D</a>
 

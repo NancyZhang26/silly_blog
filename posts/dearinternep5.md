@@ -44,33 +44,33 @@ His half-joking / half-furious gaze is penetrating through the monitor screen. I
 
 Context: Another daily standup.
 
-I forgot if it was Vineet or Bertrand who complimented Bill’s ***<u>“Hawaiian-style” shirt,***</u> and someone said — in his old company, there was once a tradition that ***<u>everybody needed to wear a Hawaiian-style shirt on Fridays.***</u>
+I forgot if it was VM or BP who complimented BK’s ***<u>“Hawaiian-style” shirt,***</u> and someone said — in his old company, there was once a tradition that ***<u>everybody needed to wear a Hawaiian-style shirt on Fridays.***</u>
 
 I said, can we bring this tradition back into the house?
 
-Anton said, ***<u>maybe…***</u>
+AB said, ***<u>maybe…***</u>
 
 <h3>If You Invite Me…</h3>
 
 Context: Another daily standup.
 
-Anton was not here yet, so I tried to bond with my teammates. I mean, I am just an intern, so ***<u>whatever I said could be forgiven.***</u> Yes or no.
+AB was not here yet, so I tried to bond with my teammates. I mean, I am just an intern, so ***<u>whatever I said could be forgiven.***</u> Yes or no.
 
-Someone said, Bill, you have a nice attic! I like your wood-aligned ceiling in the background.
+Someone said, BK, you have a nice attic! I like your wood-aligned ceiling in the background.
 
 FYI, among the 5 of us, I was the only one working inside the office. ***<u>Give me the company VPN.***</u> Look in my eyes!
 
-Bill said, nah, it is not my attic, just a room — a room where ***<u>my wife and I used to dance.***</u> My wife was once ***<u>a semi-professional dancer!***</u> We used to have those dancing sessions at ***<u>the Christmas parties we threw…***</u>
+BK said, nah, it is not my attic, just a room — a room where ***<u>my wife and I used to dance.***</u> My wife was once ***<u>a semi-professional dancer!***</u> We used to have those dancing sessions at ***<u>the Christmas parties we threw…***</u>
 
-FYI, ***<u>Bill is over 60 years old.***</u> I don’t know how or why he is still in this high-intensity work environment. Not really fast-paced, but relatively draining. Sometimes when Bill is trying to debug something, he does that hair massaging thing that Pauri does... Just like your old boss as you once told me Archer. Iykyk...
+FYI, ***<u>BK is over 60 years old.***</u> I don’t know how or why he is still in this high-intensity work environment. Not really fast-paced, but relatively draining. Sometimes when BK is trying to debug something, he does that hair massaging thing that Pauri does... Just like your old boss as you once told me Archer. Iykyk...
 
 I had to say something.
 
-I said, ***<u>Bill, if you invite me to your Christmas party this year, I will make sure to record all the dancing.***</u> Serious face for 1 second. Bursted into inappropriate laughter for the next 10.
+I said, ***<u>BK, if you invite me to your Christmas party this year, I will make sure to record all the dancing.***</u> Serious face for 1 second. Bursted into inappropriate laughter for the next 10.
 
-Fortunately, I think Bill caught my joke. Everybody gave out a light laugh.
+Fortunately, I think BK caught my joke. Everybody gave out a light laugh.
 
-Anton finally joined the meeting. He smoothly blended in the conversation by saying he and his wife were once into ***<u>cha-cha and salsa dancing.***</u>
+AB finally joined the meeting. He smoothly blended in the conversation by saying he and his wife were once into ***<u>cha-cha and salsa dancing.***</u>
 
 <h3>Bagels</h3>
 
