@@ -1,5 +1,5 @@
 ---
-title: Clubbing Package Pt.7. Boston Cruise & Goldfish
+title: Clubbing Package Pt.7. Boston Cruise & GoldFish
 description: Cruising w/ Goldfish
 date: 2025-07-03
 scheduled: 2025-07-03

@@ -58,7 +58,7 @@ She also mixed [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCng
 
 D.O.D was up! He started with [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL?si=56f98f3e8b544077), [Every Step](https://open.spotify.com/track/7me5d5XmtCCfbDk3SsyXqM?si=0cb4f314126c4ff3) … All his bangers in his top 10 discographies on Spotify, along with other famous house tracks and fun remixes. I think his style was very similar to [Calvin Harris’s](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY?si=_ViykT7SRwuEGaV7HQizPA). Both are less techno and more melody-focused, often blending in a bunch of ***MIDI pianos*** or other catchy lead instruments in ***syncopated beats.*** D.O.D mixed in and out very smoothly. Professionals! It was a chill-hype vibe.
 
-If there was one thing that I noticed, ***there were so many frat bros.*** By frat bros, I mean ***finance-looking guys wearing buttoned-up short-sleeve shirts with sunglasses and a drink in their hands.*** The way they raved was similar as well. ***The sway!*** I can’t stop chuckling. I swear I saw a Brandeis bro. Small city, small cruise.
+If there was one thing that I noticed, ***there were so many frat bros.*** By frat bros, I mean ***finance-looking guys wearing buttoned-up short-sleeve shirts with sunglasses and a drink in their hands.*** The way they raved was similar as well. ***The sway!*** I couldn't stop chuckling. I swear I saw a Brandeis bro. Small city, small cruise.
 
 There was also this friend group besides me, busy taking group pictures with a camera. A dude with a baseball cap asked if I could ***help them take a picture,*** and I did. In their next picture, the cap bro asked if I wanted to get in, and I got in.
 
@@ -94,7 +94,7 @@ I often panic before I write because I’m scared that I cannot capture the best
 
 I don’t think I should give too much dame about it. ***The more I care, the less free I am,*** and the blog will not be a safe space anymore.
 
-Little did I know that the cruise with D.O.D would lift the curtains of my magical summer rave experience. Or should I say the Hamptons has already told me that House was more than my passion. The charm of EDM gets me mesmerized every time. I think I should thank Jack for introducing me to [Danielle (smile on my face)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv?si=7f814017bf9a4f9f) that night in 2023 in front of Rosie. It was when everything happened.
+Little did I know that this cruise with D.O.D would lift the curtains of my magical summer rave experience. Or should I say the Hamptons has already told me that House was more than my passion. The charm of EDM gets me mesmerized every time. I think I should thank Jack for introducing me to [Danielle (smile on my face)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv?si=7f814017bf9a4f9f) that night in 2023 in front of Rosie. It was when everything started.
 
 Thank you D.O.D. See you again Boston cruise.
 
@@ -102,4 +102,4 @@ Thank you D.O.D. See you again Boston cruise.
 <small>Thank you D.O.D!</small>
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept7/' | url }}">Clubbing Package Pt.7. Boston Cruise & Goldfish</a>
+<a href="{{ '/posts/clubbingpackagept7/' | url }}">Clubbing Package Pt.7. Boston Cruise & GoldFish</a>
