@@ -23,7 +23,9 @@ The email said, “All work should be done by 3 pm… I hope to see everyone the
 
 ***<u>Happy Birthday Emma!***</u>
 
-Emma drove Chirag and me to the Treehouse. Big club space! I suddenly felt rich. It was very Gatsby. Emma laughed out loud when I said “Gatsby.”
+Emma drove Chirag and me to the Treehouse. On our way, we tried merging into a line that was totally packed because none of us realized how sus it was that we were on a lane that was way too empty. I reached my right arm out of the window, and the driver behind was kind enough to let us squeeze in. No on honked!
+
+We reached. Big club space! I suddenly felt rich. It was very Gatsby. Emma laughed out loud when I said “Gatsby.”
 
 ![Balcony View](/img/blog5.0/gatsby.jpg)
 <small>View from the Treehouse balcony. Is it giving Gatsby?</small>

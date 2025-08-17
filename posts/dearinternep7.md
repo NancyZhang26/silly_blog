@@ -2,11 +2,10 @@
 title: Dear Intern ep7. TBC
 description: Internship pt. 6.
 date: 2025-06-30
-scheduled: 2025-06-3o
+scheduled: 2025-06-30
 tags:
   - Intern
 layout: layouts/post.njk
-draft: true
 ---
 
 <h3>Last Internship Post:</h3>

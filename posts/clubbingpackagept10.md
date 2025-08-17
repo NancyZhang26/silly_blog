@@ -45,7 +45,7 @@ A lady was singing Britney Spears’s go-to hits. That guitarist was jamming in 
 
 I had to cue a song and show off ***how one can leverage some drunkness for auditory disaster.***
 
-Interestingly, I was not socially awkward at all this time because I stopped caring. I asked if I could sing [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?si=0eccc4b05a8840c7). The guitarist nodded. ***His eyes were cloudy blue.*** I smell ***loneliness,*** or is that just me trying to build a character?
+Interestingly, I was not socially awkward at all this time because I stopped caring. I asked if I could sing [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?si=0eccc4b05a8840c7). The guitarist nodded. ***His eyes were cloudy blue.*** I smelled ***loneliness,*** or is that just me trying to build a character?
 
 I asked the guitarist to take some short videos for me… And he took ***a whole 3 minutes of me screaming and singing in my drunk ass…*** It was not until I got home that I realized ***how killa-drunk I looked.*** There were strangers taking videos of me, too. Jesus Christ! Cringe alert.
 
@@ -82,11 +82,11 @@ I started chatting with the guitarist. What’s your name? How long have you bee
 
 ….
 
-His name is ***Maddy.*** Maddy thinks hosting the street karaoke ***freed him from doing mass job applications.*** Maddy was super into rock n’ roll and bands, but now he was forced to know all the pop songs cuz of this karaoke thing. Maddy’s dream job would involve ***interacting with animals.*** He said one of his favorite past jobs was being a dog walker. Sometimes, he sends quick voice messages saying, ***“Baby, I love you…”*** probably to his significant other, in a ***soft tone*** I never imagined could come from such a chaotic street artist.
+His name is ***Maddy.*** Maddy thinks hosting the street karaoke ***freed him from doing mass job applications.*** Maddy was super into rock n’ roll and bands, but now he was forced to know all the pop songs cuz of this karaoke thing. Maddy’s dream job would involve ***interacting with animals.*** He said one of his favorite past jobs was being a dog walker. Sometimes, he sends quick voice messages saying, ***“Baby, I love you,”*** probably to his significant other, in a ***soft tone*** I never imagined could come from such a chaotic street artist.
 
-Maddy was frequently ***smokin***g with a tiny green bong as people went on and off between songs. He said, well I need to take a hit, and he took a hit, and I would smell burnt weed, and I started having ***flashbacks of my Brandeis shenanigans.***
+Maddy was frequently ***smokin***g with a tiny green bong as people went on and off between songs. He said, ***well I need to take a hit,*** and he took a hit, and I would smell burnt weed, and I started having ***flashbacks of my Brandeis shenanigans.***
 
-I started wondering what is going on inside his head, and ***I want to read him.*** I hung out with him since then, going on in front of the mic when nobody is around. We would sing songs together: ***me being the dramatic lead singer, he the sneaky chorus.***
+I started wondering what is going on inside his head, and ***I wanted to read him.*** I hung out with him since then, going on in front of the mic when nobody is around. We would sing songs together: ***me being the dramatic lead singer, he the sneaky chorus.***
 
 We sang [Shape of you](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3?si=493407916dd64c0e) and [Beggin’](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz?si=2a0ecef85ef14d91), in which we were definitely tripping!
 
@@ -98,7 +98,8 @@ Thank you girl. I hope one day in different parts of the world, when people rand
 
 Another guy passed by and asked if he can play Maddy’s guitar.
 
-***“My thousand-dollar guitar?”*** Maddy seemed slightly offended, but he quickly hid it behind a harmless joke, “Are you gonna tip me?”
+***“My thousand-dollar guitar?”*** Maddy seemed slightly offended, but he quickly hid it behind a harmless joke, ***“Are you gonna tip me?”***
+
 The guy said, of course. Then he put some wrinkled dollar bills inside Maddy’s guitar case. He took the colorful, shiny guitar and started singing softly. Maddy was, again, smoking in the background.
 
 …

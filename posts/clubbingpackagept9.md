@@ -64,7 +64,7 @@ His girlfriend said she likes my top — oof, SHEIN goods, iykyk. ***Fake black 
 
 Excuse my dry description — I really don’t know how to tell the joy in words. ***There are no words.*** When you sync up with other people to the same track, the connection is real and magical. A girl passed me a pair of ***paper sunglasses…*** It was the kind of glasses that filter the world with a ***kaleidoscope.*** My head was spinning again. Not because of the 3 shots I had. It’s from the chaotic blend of that ***late evening, blinding lights, strangers’ friendship, fire bass,*** and all other people doing all sorts of shits. ***I was living in a real world that was slightly distorted on a Friday night,*** and I was so fortunate to get to perceive everything in its raw form by myself. Distancing from the shore once again put my head into a ***trance.*** San Pacho was still cooking, and thanks to the ocean waves, my hair was all over my face. I could barely see, so ***I just twerked.***
 
-The guy said — ***you can only join if u got good dance moves!*** So I just twerked, as in randomly moving in my drunk ass, and that passed the vibe check.
+The guy said — ***you can only join if u got good dance moves!*** So I just ***twerked,*** as in randomly moving in my drunk ass, and that passed the vibe check.
 
 A tall girl said, you look so cute! I started blushing on the dark boat deck —  No ***YOU*** look so cute! She said, you are so adorable… For some reason, they like seeing me dancing without any human-like manner. Woo-hoo alcohol!
 
@@ -78,7 +78,9 @@ But when a girl pulled out a whole package of zyns and handed me one, I got it u
 
 Of course San Pacho is going to play [Baby Got Back](https://open.spotify.com/track/2DC888t0oMQlVOyda1QNn9?si=269a616459134519). The guy said, ***the dance floor is yours!*** Is it mine? My last bit of sobriety made sure I was humble enough to leave the crowd center empty. But BABY GOT BACK?!?! Oh girl, shake that ass. So we were shaking our asses — Oh, my, god. ***Look at, her, butt.***
 
-It was that, followed by [Sweet Dreams](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS?si=69f8abacee0e495c) remix. San Pacho ended the set with [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ?si=766d95d207974966). I was shocked when he played that, because ***I was literally banging it for the last whole week.*** Man! I was dizzy again. I added one of the girls’ Instagram accounts, said goodbye to the friend group, and left the cruise.I went on a walk that ***lasted until 2 am.*** Little did I know that ***the cruise is just a pregame.*** Stay tuned.😮‍💨
+It was that, followed by [Sweet Dreams](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS?si=69f8abacee0e495c) remix. San Pacho ended the set with [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ?si=766d95d207974966). I was shocked when he played that, because ***I was literally banging it for the last whole week.*** Man! I was dizzy again. I added one of the girls’ Instagram accounts, said goodbye to the friend group, and left the cruise.
+
+I went on a walk that ***lasted until 2 am.*** Little did I know that ***the cruise is just a pregame.*** Stay tuned.😮‍💨
 
 ![Sunset](/img/blog5.0/sun_set.jpeg)
 <small>Gorgeous.</small>
