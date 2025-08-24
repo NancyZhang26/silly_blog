@@ -1,5 +1,5 @@
 ---
-title: Clubbing Package Pt.10. Boston Cruise & San Pacho (City - till 2 AM)
+title: Clubbing Package Pt.11. Boston Cruise & San Pacho (City - till 2 AM)
 description: Vibing with Strangers 2.0
 date: 2025-07-12
 scheduled: 2025-07-12

@@ -15,6 +15,9 @@ layout: layouts/post.njk
 
 FYI, I took a look at the ocean this time.
 
+![Ocean](/img/blog6.0/ocean.jpg)
+<small>Ocean is eye-opening.</small>
+
 I need a reason to storm out of the office on a Friday night, so there was Goldfish and the boat again. I listened to their set on Instagram, and the mixing of house and Saxophone is interesting. Almost ***country-house.*** So I got the tickets.
 
 <h3>Pregame</h3>
@@ -95,5 +98,5 @@ I kept roaming on the street until it started feeling spooky. The subway was emp
 I mean, I really should, but it is literally Boston. I think I am way too naive in this cruel world, but I will live. And I did live. I reached home. Good night! Till next time, and many many more.
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept8/' | url }}">Clubbing Package Pt.8. A Yacht Club Is Still a Club</a>
+<a href="{{ '/posts/clubbingpackagept8/' | url }}">Clubbing Package Pt.8. A Sailboat Club Is Still a Club</a>
 

@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Last Clubbing Post:</h3>
-<a href="{{ '/posts/clubbingpackagept8/' | url }}">Clubbing Package Pt.8. A Yacht Club Is Still a Club</a>
+<a href="{{ '/posts/clubbingpackagept8/' | url }}">Clubbing Package Pt.8. A Sailboat Club Is Still a Club</a>
 
 <h3>Main Plot Starts Here</h3>
 

@@ -1,8 +1,8 @@
 ---
-title: Clubbing Package Pt.10. Boston Cruise & San Pacho (City - till 2 AM)
-description: Vibing with Strangers 2.0
-date: 2025-07-12
-scheduled: 2025-07-12
+title: Clubbing Package Pt.12. Club Cafe + Bsmt
+description: Clubbing w/ a frog
+date: 2025-07-18
+scheduled: 2025-07-18
 tags:
   - Clubbing
 layout: layouts/post.njk
@@ -10,7 +10,7 @@ draft: true
 ---
 
 <h3>Last Clubbing Post:</h3>
-<a href="{{ '/posts/clubbingpackagept10/' | url }}">Clubbing Package Pt.10. Clubbing Package Pt.10. Boston Cruise & San Pacho (City - till 12 AM)</a>
+<a href="{{ '/posts/clubbingpackagept11/' | url }}">Clubbing Package Pt.11. Clubbing Package Pt.10. Boston Cruise & San Pacho (City - till 2 AM)</a>
 
 <h3>Main Plot Starts Here</h3>
 
