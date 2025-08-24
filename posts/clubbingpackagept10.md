@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 <h3>Last Clubbing Post:</h3>
-<a href="{{ '/posts/clubbingpackagept9/' | url }}">Clubbing Package Pt.8. Boston Cruise & San Pacho (Ocean)</a>
+<a href="{{ '/posts/clubbingpackagept9/' | url }}">Clubbing Package Pt.9. Boston Cruise & San Pacho (Ocean)</a>
 
 <h3>Main Plot Starts Here</h3>
 

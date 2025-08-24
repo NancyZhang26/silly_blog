@@ -1,6 +1,6 @@
 ---
-title: Dear Intern ep7. TBC
-description: Internship pt. 6.
+title: Dear Intern ep8. TBC
+description: Internship pt. 8.
 date: 2025-08-14
 scheduled: 2025-08-14
 tags:
@@ -17,5 +17,5 @@ draft: true
 //
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep8/' | url }}">Dear Intern ep8. TBC...</a>
+<a href="{{ '/posts/dearinternep9/' | url }}">Dear Intern ep9. TBC...</a>
 

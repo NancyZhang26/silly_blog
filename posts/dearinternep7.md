@@ -1,6 +1,6 @@
 ---
 title: Dear Intern ep7. TBC
-description: Internship pt. 6.
+description: Internship pt. 7.
 date: 2025-06-30
 scheduled: 2025-06-30
 tags:
