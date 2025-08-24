@@ -6,7 +6,6 @@ scheduled: 2025-07-03
 tags:
   - Clubbing
 layout: layouts/post.njk
-draft: true
 ---
 
 <h3>Last Clubbing Post:</h3>
