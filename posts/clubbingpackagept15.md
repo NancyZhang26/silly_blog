@@ -61,7 +61,8 @@ It was great timing. I started going to the bathroom 4-5 times in a row, and ***
 
 Holy god. ***I was seeing everything, hearing all the bass, smelling everything.*** Some people were taking edibles. Some vaping. Some smoking. The 420 went directly into my nose. Give me a hit! It was a mixture of ***heightened senses, over-the-bench low frequencies, and so many bodies.*** By bodies, I mean bodies. People’s bodies are bumping into one another. Some bros were not wearing a shirt, and still they bumped. I was swaying with the crowd because at some point, I could NOT stand on my own. I can smell people’s breath, sweat, perfume, and cologne. I can feel the heat coming from a collection of all the human flesh radiation. I can see their eyes, either red, cloudy, clear, maniacal, or hidden behind shades. The crowd was going up and down as a whole. ***Difficult to navigate, so might as well join the army.*** I don’t even need to move. I just need to lean on the flow and let the people carry me.
 
-(JK! I was able to stand still.)
+![Selfie proving soberiety](/img/blog7.0/lolla_selfie.jpeg)
+<small>JK! I was able to stand still.</small>
 
 The tracklist was tailored to us maniacs. I stood way too in the front that the bass was hitting my fucking face, ***I couldn’t hear all other mid/high frequencies.*** I could only identify a song by hearing snippets of the chorus and the chanting from the crowd. But I love it. Isn’t it just the point of a rave?
 
@@ -114,17 +115,26 @@ Anyways, Mau P was on and playing. I knew it. I knew his club playlist was going
 
 I managed to sneak into the front row again. The speakers were on full volume, so full that ***I could only hear the kicks.*** But that was enough. To be honest, I haven’t eaten anything since the lonely pregame in the hotel room. ***My stomach started twisting,*** and my back and ankles are shaking. For a few moments, ***I thought I was going to actually faint,*** but then Mau P would raise a famous track that brought me back to life. The alcohol died away, and my throat was burning. ***I trusted my adrenaline and my passion.*** I knew I was going to get sick afterwards. ***Who cares.***
 
-White boy of the year truly earned his unofficial award. He ended with a Flo Rida remix. Fun. ***The crowd started spreading like a fallen jar of sand.*** Cans, cups, trash. Everywhere. The club, even under max-power bright lights, looked like a limbo. The first thing I did after getting out was look for Mexican food trucks. Oooof that smell! Apparently, street food at 3 am became overpriced, just as anything else. I got some tacos and grilled beef, and inhaled them sitting beside a tree. The street was not dangerous at all. The stream of post-club people spread like creeks on the streets of Chicago. The sun does not need to rise to create a dome.
+![Street food](/img/blog7.0/street_food.jpg)
+<small>Family who knows. Do you get how good this food is.</small>
+
+White boy of the year truly earned his unofficial award. He ended with a Flo Rida remix. Fun. ***The crowd started spreading like a fallen jar of sand.*** Cans, cups, trash. Everywhere. The club, even under max-power bright lights, looked like a limbo. The first thing I did after getting out was look for Mexican food trucks. Oooof that smell! Apparently, ***street food at 3 am became overpriced,*** just as anything else. I got some tacos and grilled beef, and inhaled them sitting beside a tree. The street was not dangerous at all. The stream of post-club people spread like creeks on the streets of Chicago. The sun does not need to rise to create a dome.
+
+![Street me](/img/blog7.0/street_me.jpg)
+<small>I am crying on the inside.</small>
 
 <h3>Windy City Treated Me Well</h3>
 
 I Ubered back to the Hyatt. Started packing because ***the flight to El Paso is in a few hours.***
 
 ![Wristbands](/img/blog7.0/wristbands.jpeg)
-<small>I was packing with those wristbands. The truth is, it turns out, being over 21 can give you so much benefits. Wh-ahhh!! Eye opening.</small>
+<small>I was packing with those wristbands on. The truth is, it turns out, being over 21 can give you so much benefits. Wh-ahhh!! Eye opening.</small>
 
 I started remembering all the people I met and talked to before / during /after Lolla and Radius. ***The opener DJ*** for a Lolla artist called Boy Next Door (???iykyk). ***The salesperson*** who helped hold my purse. ***The girls*** with big fans. All the crazy, weird things were happening, and nothing paused for them. ***I was obviously overwhelmed, but not blown away.*** I know things are better ahead. Hotel breaky was refreshing. See you in El Paso.
 
+![The Holy Bible](/img/blog7.0/bible.jpg)
+<small>I found this inside the hotel drawer. Is somebody trying to send me a message?</small>
+
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept16/' | url }}">Clubbing Package Pt.16. ...</a>
+<a href="{{ '/posts/clubbingpackagept16/' | url }}">Clubbing Package Pt.16. Odd Mob @ 11:11 EP TX, El Paso</a>
 
