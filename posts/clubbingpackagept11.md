@@ -148,5 +148,5 @@ Earning money is tough. That’s why you gotta be nice to your parents. He said.
 Till next time, and many many more.
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept12/' | url }}">Clubbing Package Pt.12. Club Cafe + Bsmt</a>
+<a href="{{ '/posts/clubbingpackagept12/' | url }}">Clubbing Package Pt.12. Club Cafe*2 + Bsmt</a>
 
