@@ -21,7 +21,7 @@ Near the center of the parking lot, we see ***a happy friendly Chandler*** wavin
 
 <h3>Motorboat</h3>
 
-First stop is the ***motorboat.*** Chandlar was driving. We were all wearing ***safety vests like good elementary kids.*** The motorboat was sprinting on the sea. Snow-white waves splashing on the brim of the boat. The engine was roaring like a beast. I smelled gasoline. Chandlar was steadily navigating the directions. At some moment I thought he looked like ***Posaidon.***
+First stop is the ***motorboat.*** Chandlar was driving. We were all wearing ***safety vests like good elementary kids.*** The motorboat was sprinting on the sea. Snow-white waves splashing on the brim of the boat. The engine was roaring like a beast. I smelled gasoline. Chandlar was steadily navigating the directions. At some moment I thought he looked like ***Poseidon.***
 
 ![Motorboat](/img/blog6.0/waves.jpeg)
 <small>Chill.</small>

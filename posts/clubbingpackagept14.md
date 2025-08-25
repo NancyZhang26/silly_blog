@@ -73,5 +73,5 @@ to Nancy Zhang
 Very nice to hear from you and your marvelous stories, especially with the software engineering intern signature after your name by the end.
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept15/' | url }}">Clubbing Package Pt.15. ...</a>
+<a href="{{ '/posts/clubbingpackagept15/' | url }}">Clubbing Package Pt.15. Lollapalooza @ The Grant Park, Chicago</a>
 
