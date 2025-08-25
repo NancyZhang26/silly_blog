@@ -39,7 +39,7 @@ This is the moment when I know I should be a moderate drinker.
 
 ***Bsmnt*** was just around the block. After walking around the area for a bit, we decided to go inside Bsmnt as it was known for some good ***underground EDM.*** The DJ was doing his thing, edging us and dropping some good beats. Excuse me for not keeping a tracklist, because I don’t know almost any of the songs! Frequencies. How do they make sense?
 
-We were having some good times too. Hehe.
+We were having some good times. Hehe.
 
 We went back after about 2 hours of vibing to underground house. I’d say it’s chill. The ***subway shenanigans*** happened again. The subway service stopped after 1 AM. I thought we were the chosen ones, having an entire station empty just to ourselves. Silly me. Froggies was carrying my shoulder bag. Kate Spade looks so good on you!
 
@@ -58,12 +58,12 @@ I learned my lesson, sir. We were drinking that shit up a block away from the cl
 
 Again, not much happened in the club. I don’t even remember the tracks played because, hehe, ***I guess I wasn’t being moderate at all.*** That’s why I don’t trust what people say when they are drunk. ***They were being real, but there is a bandwidth, which is usually insanely short.***
 
-Anyways, the vibe was chill. I was drunk. I got back safely. I passed out. I woke up early. I felt like shit. It was like somebody banged my head against the wall. I asked Chirag to ***please voluntarily forget whatever random shit I said about life being doomed or me being delulu during the pregame and the postgame.*** He said, uhh, did you say anything? Doesn’t ring a bell.
+Anyways, the vibe was chill. I was drunk. I got back safely. I passed out. I woke up early. I felt like shit. It was as if somebody banged my head against the wall. I asked Chirag to ***please voluntarily forget whatever random shit I said about life being doomed or me being delulu during the pregame and the postgame.*** He said, uhh, did you say anything? Doesn’t ring a bell.
 
 Good friend. 🙂‍↕️
 
 Till next time, and many many more.
 
 <h3>Next Up:</h3>
-<a href="{{ '/posts/clubbingpackagept13/' | url }}">Clubbing Package Pt.13. Keinemusik + Blackpink @ New York</a>
+<a href="{{ '/posts/clubbingpackagept13/' | url }}">Clubbing Package Pt.13. Keinemusik @ Corona Park, NY & Riff Raff</a>
 

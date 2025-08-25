@@ -60,7 +60,7 @@ I had a new set of press-on nails ready, but they kept falling. Can’t complain
 ![Nails](/img/blog6.0/nails.jpg)
 <small>Which one would you choose.</small>
 
-I kept checking my nail. A dude asked me, ***Did you break your nail? My friend likes your nail!*** Later, he called his friend over to specifically check on my nails. She said, ***Those are gorgeous!*** Hehe.
+I kept checking my fragile press-on nails. A dude asked me, ***Did you break your nails? My friend likes your nails!*** Later, he called his friend over to specifically check on my nails. She said, ***Those are gorgeous!*** Hehe.
 
 The dude also said, ***I like your top! Is it leather?***
 

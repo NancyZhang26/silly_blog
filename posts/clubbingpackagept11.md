@@ -109,7 +109,7 @@ FISHER. I knew it. It is FISHER. ***The one and only FISHER.*** I almost started
 
 We talked about cars. Thank you Johnson, for letting me be the passenger princess in your AE86 again. This is something I will FOREVER use to flex in front of people when I don’t know what to talk about. While I was flexng my photo with the AE86, I accidentally scrolled to my feed page, and ***it was full of fit guys half-naked.*** BRO.
 
-***<u>People please hear me out. I have no clue why is it like that. I know Instagram runs on algorithms, but I don't even scroll that much. Check my screen time if you want to. I am not obsessed with fitness models. I geniunely have no clue why they just show up like that.***</u>
+***<u>People please hear me out. I have no clue why is it like that. I know Instagram runs on algorithms, but I don't even scroll that much. Check my screen time if you want to. I am not obsessed with fitness models. I geniunely have no clue why they just showed up like that.***</u>
 
 They laughed, so that is what you usually scroll on? Abs?
 
@@ -135,7 +135,7 @@ I really learned a lot, I think. The eye contacts and ***"businessy" manners*** 
 
 They asked if I wanted to have another drink. No. I refused kindly. Alex read between the lines and said, ***get home safe.*** It was 2 am. The bar played FISHER’s [It’s That Time.](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ?si=e5a8eadf3b6c44e9)
 
-<h3>It Was Always Uber Drivers Who Know Best</h3>
+<h3>It Was Always The Uber Drivers Who Know Best</h3>
 
 The Uber driver looks very Chinese, and before I made the assumption, the Chinese navigation voice spilled everything. A Chinese with another Chinese in the far-far-away USA. ***Of course we started a decent conversation.*** The driver said he is from 山东烟台. He reminded me of my mom. He said, ***people there are pure.*** So pure that there wasn’t much ***plotting*** going on. He said, ***isn’t life just about being through the “process?”*** Tasting all flavors.
 

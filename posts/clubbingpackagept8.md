@@ -39,7 +39,7 @@ I also found all elements related to sea adventure somehow attractive. A boat; a
 
 <h3>Lunch</h3>
 
-Now we are talking about a club. A club that is somehow similar to the one in [The Summer I Turned Pretty.](https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series)) Young waitor and waitresses wearing white uniforms decorated with light blue. Everything seems so fresh. So was the food. Simple and fresh. Jiayi got lobster roll, and I got a shrimp salad. There was only 1 chef today, who put a sign in the parking lot saying, ***“No chef, no food!”*** So we waited for a while, during which we had some really intellectual conversations with Chandler and his beautiful family.
+Now let's talk about "clubs". A club that is somehow similar to the one in [The Summer I Turned Pretty.](https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(TV_series)) Young waitor and waitresses wearing white uniforms decorated with light blue. Everything seems so fresh. So was the food. Simple and fresh. Jiayi got lobster roll, and I got a shrimp salad. There was only 1 chef today, who put a sign in the parking lot saying, ***“No chef, no food!”*** So we waited for a while, during which we had some really intellectual conversations with Chandler and his beautiful family.
 
 His son Silas in Junior high school is going to apply for college soon. Me and Jiayi both agreed that ***he is going to break a lot of hearts*** in the future. His daughter is still in 9th grade, but quote from Silas, “can’t wait to go to college and be away from her parents.”
 
@@ -60,7 +60,7 @@ A cinema with handwritten signs. The next movie coming up is F1. Intimidating!
 ![Cinema](/img/blog6.0/cinema.jpg)
 <small>Cape cinema.</small>
 
-I say the most impressive scenary was the beach. Us tree trio had to walked over a long beachy area on bare feet. It wasn’t purely beach, but ***a mixture of sandy piles, clear shallow water filtering spiky seaweeds laying on the shore, and cages for trapping oysters.*** Don’t touch them. You would get shot! Seriously.
+I say the most impressive scenary was the beach. Us three had to walked over a long beachy area on bare feet. It wasn’t purely beach, but ***a mixture of sandy piles, clear shallow water filtering spiky seaweeds laying on the shore, and cages for trapping oysters.*** Don’t touch them. You would get shot! Seriously.
 
 ![Oyster traps](/img/blog6.0/oyster_trap.jpg)
 <small>Oyster traps.</small>
