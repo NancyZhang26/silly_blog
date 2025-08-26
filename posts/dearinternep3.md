@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Internship Post:</h3>
 <a href="{{ '/posts/dearinternep2/' | url }}">Dear Intern ep2. And Lads, This Is How I Met My Boss</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 ***<u>We ate.***</u>
 

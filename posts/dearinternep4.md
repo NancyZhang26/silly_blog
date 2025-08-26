@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Internship Post:</h3>
 <a href="{{ '/posts/dearinternep3/' | url }}">Dear Intern ep3. Smell of Pigs</a>
 
-<h3>Main Plots Start Here</h3>
+<h3>Main Plot Starts Here</h3>
 
 A compilation of moments, 1.0.
 
@@ -88,5 +88,5 @@ Legend said that the VP cannot get over this “alarm pig” that he saw in one 
 
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep5/' | url }}">Dear Intern ep5. Fun Facts 2.0.</a>
+<a href="{{ '/posts/dearinternep5/' | url }}">Dear Intern ep5. Silly Mails, Flow of Mind.</a>
 

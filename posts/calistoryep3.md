@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Cali Post:</h3>
 <a href="{{ '/posts/calistoryep2/' | url }}">The Zhangs in Cali ep2. 今天讲下中文。</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 我永远记得2017年的那个暑假，微风习习，酷热难挡。上海市比赛还是在奉贤没修好的室内大棚打得面红耳赤。
 

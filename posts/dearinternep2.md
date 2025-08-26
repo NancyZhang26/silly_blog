@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Internship Post:</h3>
 <a href="{{ '/posts/dearinternep1/' | url }}">Dear Intern ep1. LATE!</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 ***<u>If I use ChatGPT in college, and people use ChatGPT in this company, I think I am meant to be here.***</u>
 

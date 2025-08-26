@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Previous Cali Post:</h3>
 <a href="{{ '/posts/calistoryep5/' | url }}">The Zhangs in Cali ep5. 落日飞车</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 Don't run GIT commands unless you know what you're doing...
 

@@ -18,7 +18,7 @@ layout: layouts/post.njk
 <h3>Check My Cali Stories:</h3>
 <a href="{{ '/posts/calistoryep1/' | url }}">The Zhangs in Cali ep1. I’m a NARP.</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 Finished this piece a while ago, but took me a moment to post it here.
 

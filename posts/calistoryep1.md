@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 <a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 Woke up by my alarm and jumped right up from bed. Any seconds of hesitation would be a disrespect to my summer.
 

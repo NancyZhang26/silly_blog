@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Cali Post:</h3>
 <a href="{{ '/posts/calistoryep3/' | url }}">The Zhangs in Cali ep3. 碎碎念，还我青春！</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 Not a lightweight...
 

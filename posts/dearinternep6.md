@@ -1,125 +1,106 @@
 ---
-title: Dear Intern ep6. All Hands, No Beer.
+title: Dear Intern ep6. Fun Facts 2.0.
 description: Internship pt. 6.
-date: 2025-06-25
-scheduled: 2025-06-25
+date: 2025-06-24
+scheduled: 2025-06-24
 tags:
   - Intern
 layout: layouts/post.njk
 ---
 
 <h3>Last Internship Post:</h3>
-<a href="{{ '/posts/dearinternep5/' | url }}">Dear Intern ep5. Fun Facts 2.0.</a>
+<a href="{{ '/posts/dearinternep5/' | url }}">Dear Intern ep5. Silly Mails, Flow of Mind</a>
 
-<h3>Main Plots Start Here</h3>
+<h3>Main Plot Starts Here</h3>
 
-I hope everyone becomes a billionaire.
+A compilation of moments, 2.0.
 
-Context: The company had an “All Hands: Beer with the Boss” event in a place called Treehouse.
+<h3>Your Uber-Car is Here</h3>
 
-The email said, “All work should be done by 3 pm… I hope to see everyone there ***<u>with a drink,***</u> or ***<u>waiting for a drink…”***</u>
+During lunch break, one of the interns said, we are going to see Q’s car! It was ***<u>just delivered to the company.***</u>
 
-<h3>Tom in a Corner</h3>
+There are simply ***<u>too many questions***</u> that I decided to ***<u>ask none.***</u> Say less, just join.
 
-***<u>Happy Birthday Emma!***</u>
+Q’s ***<u>silver Tesla***</u> was sitting quietly in the sun. ***<u>Its polished skin reflected my astonishment in 1048p.***</u>
 
-Emma drove Chirag and me to the Treehouse. On our way, we tried merging into a line that was totally packed because none of us realized how sus it was that we were on a lane that was way too empty. I reached my right arm out of the window, and the driver behind was kind enough to let us squeeze in. No on honked!
+The inner design was pretty modern + techy. A screen, and another screen. Q gently ***<u>tapped a card***</u> above the car door — that is how you unlock a car?! Like ***<u>a hotel room?!***</u>
 
-We reached. Big club space! I suddenly felt rich. It was very Gatsby. Emma laughed out loud when I said “Gatsby.”
+We waved goodbye to Q. The Tesla sent an electric vroom vroom.
 
-![Balcony View](/img/blog5.0/gatsby.jpg)
-<small>View from the Treehouse balcony. Is it giving Gatsby?</small>
+<h3>Vibe Coding Once More</h3>
 
-Emma gave me ***<u>2 extra beer tickets***</u> because she was driving. Thank you Emma!
+Context: the Software Group Meeting
 
-We wandered around doing nothing. This one dude on the golf field will never know that he was eyed by 5 innocent interns. ***<u>The vodka Seltzer tastes just like sugary water.***</u> Boring.
+>Speaker: Do ***<u>NOT***</u> ask the copilot to give you code that you don’t understand! There will be bugs that you don’t know how to fix, and more issues.
 
-![Fake Vodca](/img/blog5.0/fake_vodca.jpg)
-<small>Boring.</small>
+![Use ChatGPT to debug.](/img/blog5.0/ai_fix_bug_pls.jpeg)
+<small>This comes from my Shanghai colleague, whom I will introduce in the next post.</small>
 
-The CEO started an enthusiastic speech!
+>Speaker: Vibe coding.. ***<u>DON’T DO IT!***</u> If you do… I will ***<u>CHASE, YOU, DOWN!***</u>
 
-The interns were all standing in a corner beside the stove, eyeing the CEO through the shoulders of a mid-size crowd.
+His half-joking / half-furious gaze is penetrating through the monitor screen. I had goose bumps.
 
-An old guy, ***<u>Tom,***</u> squeezed into the corner. He’s got snow-white hair and a mildly hoarse voice. I introduced myself and offered a handshake. He said, ***<u>oh… my hands are greasy… Let’s just do an air handshake.***</u> So we did an air handshake. (???)
+<h3>Hawaiian Shirts</h3>
 
-We started a conversation about… ***<u>dogs.***</u> I told him I have a dog in China. He told me he always wanted a small poodle, but his landlord won’t allow him. He was living in the same house with his landlord for over 25 years. At this point, is he still a landlord?
+Context: Another daily standup.
 
-All the interns were standing like trees in a forest, but Tom was sitting down like a tree stump. He told me that he wants to be in a position where ***<u>he can see others, but others cannot see him.***</u>
+I forgot if it was VM or BP who complimented BK’s ***<u>“Hawaiian-style” shirt,***</u> and someone said — in his old company, there was once a tradition that ***<u>everybody needed to wear a Hawaiian-style shirt on Fridays.***</u>
 
-In this perfectly safe corner that he found, ***<u>Tom’s head almost dropped between his knees.***</u> He was ***<u>dozing off***</u> when the CEO said that our company is slaying faster than ever.
+I said, can we bring this tradition back into the house?
 
-I was standing for 1.5 hours.
+AB said, ***<u>maybe…***</u>
 
-A spider was crawling on Liam’s back.
+<h3>If You Invite Me…</h3>
 
-<h3>I Made Friends/Connections</h3>
+Context: Another daily standup.
 
-50% of the crowd dipped right away after the CEO’s speech. Emma was gone within a blink. Tom disappeared ***<u>faster than my self-esteem.***</u> I stuck around with Chirag, just talking, munching pizza, and sipping on sugary water.
+AB was not here yet, so I tried to bond with my teammates. I mean, I am just an intern, so ***<u>whatever I said could be forgiven.***</u> Yes or no.
 
-We talked quite a lot about Masters, Asian systems, shares, future life… Chirag seems very enthusiastic about planning out a good life, regardless of it being late-night library sessions in college, or a regular 9-5 in an office. He is 3 years older than me, and I think he’s got his shit figured out. I gained quite some insights from him. We even ***<u>developed a handshake?!***</u>
+Someone said, BK, you have a nice attic! I like your wood-aligned ceiling in the background.
 
-Chirag’s birthday is on ***<u>3/9!***</u> Holy god. I instantly developed ***<u>a master plan:***</u> the party starts with a tequila shot on ***<u>Bhakti’s birthday (3/8),***</u> peaks for ***<u>3 consecutive midnights,***</u> and closes with some ***<u>high-class champagne on Chahana’s big day (3/12).***</u>
+FYI, among the 5 of us, I was the only one working inside the office. ***<u>Give me the company VPN.***</u> Look in my eyes!
 
-One of the best things I learned from this internship: ***<u>I got to talk to so many people who are older, wiser, and smarter than me.***</u> Every day, I learned something new about not only CS but also the industry trends, US culture, and just life in general. I am truly, truly grateful.
+BK said, nah, it is not my attic, just a room — a room where ***<u>my wife and I used to dance.***</u> My wife was once ***<u>a semi-professional dancer!***</u> We used to have those dancing sessions at ***<u>the Christmas parties we threw…***</u>
 
-Before leaving Treehouse, I connected with a colleague, Z. ***<u>Z is from Shanghai too!***</u> He started talking to me directly in Shanghainese… I stuttered, and he immediately bantered that I am a ***<u>洋泾浜 (speaks bad Shanghainese).***</u> We added each other’s ***<u>WeChat.***</u> Not Slack or iMessage or WhatsApp. ***<u>WeChat!***</u> I am crying after that little green icon. It really felt heart-warming connecting with a homie, who, according to his ***<u>WeChat posts***</u>, is lecturing in some schools about ***<u>Machine Learning?!***</u> Hello?! Professor Cashman, are you proud of me?
+FYI, ***<u>BK is over 60 years old.***</u> I don’t know how or why he is still in this high-intensity work environment. Not really fast-paced, but relatively draining. Sometimes when BK is trying to debug something, he does that hair massaging thing that Pauri does... Just like your old boss as you once told me Archer. Iykyk...
 
-<h3>Touch Some Fish</h3>
+I had to say something.
 
-The next day, I was trying to pretend as if I were working while ***<u>“multitasking”***</u> — talking to Z on WeChat. I asked him, how did you know I am from Shanghai too? He said, it’s on your LinkedIn!
+I said, ***<u>BK, if you invite me to your Christmas party this year, I will make sure to record all the dancing.***</u> Serious face for 1 second. Bursted into inappropriate laughter for the next 10.
 
-My LinkedIn?! No, please don’t expose ***<u>my most hypocritical social media account.***</u>
+Fortunately, I think BK caught my joke. Everybody gave out a light laugh.
 
-I need to quote from this dude:
+AB finally joined the meeting. He smoothly blended in the conversation by saying he and his wife were once into ***<u>cha-cha and salsa dancing.***</u>
 
->Me: I did all my work on the Juneteenth Holiday, so I could chill in the office the day after.
+<h3>Bagels</h3>
 
->Z: Classic ***<u>码农(Coding Peasants)***</u> behavior.
+Jocelyn is the nice lady who takes charge of all the food / resources / logistics... Every now and then I would get a ping mail from her saying: Food in 2xx! Get food before 4pm! Food...
 
-…
+There is one time I asked her, can I have the frozen bagels in the fridge?
 
->Me: 50/50 applications went into dead ends.
+She said, absolutely!
 
->Z: ***<u>It’s their loss!***</u>
+The next day, I greeted her on my way up to the office, and she said, by the way, just put some more bagels over there!
 
->Me: Nah, I know where I am at.
+That was my daily high!
 
->Z: You’ve got some ***<u>fake humbleness.***</u> Classic Shanghainese.
+Jocelyn was going to New York for her vacation. I fake-cried to her: Who am I going to reach out to for bagels?
 
->Me: No I sleep in all my classes.
+She said, sorry dear...
 
->Z: At least you go to classes.
+<h3>Indian Subways</h3>
 
->Me: AI does all my work.
+Rishi was a buddy I connected with through Uber share. He is from a nearby company, and we always see each other at train stations or accidentally get into the same Uber. We car pooled a couple of times and are now chill buds.
 
->Z: ChatGPT should get your degree then.
+He said, once he was in an Uber share to his office in the morning, and there were ***<u>2 big drunk dudes stuffed with him in the back row.***</u> It was in the morning!
 
->Me: No, I was simply ***<u>training LLM.***</u> I was sacrificing my own learning curve for a better model, aka ***<u>benefiting the human race.***</u>
+He also said, in India, some subways/trains are wild… There were so many people inside a section that some of them ***<u>hung outside of the carriage by holding on to the ladder?!***</u> Bhakti, is this true?!
 
-…
+He also said, Ronaldo is the goat. Not Messi. Ronaldo!
 
->Me: Why did you come to this company?
-
->Z: ***<u>The VP sold me some dreams.***</u>
-
-<small>Is that even sayable...</small>
-
-…
-
->Z: You guys are on summer holidays, right? I would be jealous, but less jealous seeing y'all being here.
-
->Me: Lol, I got my first internship quite late. Should have done more things in Sophomore year.
-
->Z: Enjoy the holidays while you can!
-
->Me: Might as well just go lie in my parents’ bank accounts, aka, ***<u>take a few gap years.***</u>
-
->Z: ***<u>GAP year - Getting Allowances from Parents.***</u>
-
-It hits differently when cracking BS jokes ***<u>in my mother tongue.***</u> Jiayi, I am sure you can relate. I was laughing in silent mode, or should I say vibration mode. Emma's desk was on my left. At this point, I think we are good pals with some tacit understandings: if one of us started doing something weird… Just let it be…
+I said, I am a dumbass in soccer (💀)... But, if people ask, I will forward them your opinion... And there is the opinion ⬆️.
 
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep7/' | url }}">Dear Intern ep7. TBC...</a>
+<a href="{{ '/posts/dearinternep7/' | url }}">Dear Intern ep7. All Hands, No Beer.</a>
 

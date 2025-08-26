@@ -1,8 +1,8 @@
 ---
-title: Dear Intern ep5. Fun Facts 2.0.
+title: Dear Intern ep5. Silly Mails, Flow of Mind
 description: Internship pt. 5.
-date: 2025-06-24
-scheduled: 2025-06-24
+date: 2025-06-23
+scheduled: 2025-06-23
 tags:
   - Intern
 layout: layouts/post.njk
@@ -11,96 +11,150 @@ layout: layouts/post.njk
 <h3>Last Internship Post:</h3>
 <a href="{{ '/posts/dearinternep4/' | url }}">Dear Intern ep4. Fun Facts 1.0.</a>
 
-<h3>Main Plots Start Here</h3>
+<h3>1st mail</h3>
 
-A compilation of moments, 2.0.
+From: Nancy Zhang <xxx@seurat.com>
+Date: Mon, Jun 23, 2025 at 2:07 PM
+Subject: Dear Intern ep-1. Hidden Post, Flow of Mind.
+To: JIAYI ZHANG <xxx@g.ucla.edu>
 
-<h3>Your Uber-Car is Here</h3>
+Dear Jiayi,
 
-During lunch break, one of the interns said, we are going to see Q’s car! It was ***<u>just delivered to the company.***</u>
+Hope all is well. It is freaking burning today, and the mornings feel like one of those Shanghai summers. Tender, no? 
 
-There are simply ***<u>too many questions***</u> that I decided to ***<u>ask none.***</u> Say less, just join.
+I was feeling like a serious mess. ***When I say information overload, I mean all the thoughts about civilization, state dynamics, history patterns, and Nancy's personal jargon.*** They've been flowing with me from the fountain outside of Prudentials to Seurat in North Wilmington. Occasionally, I would zone out in front of the screen. I mean, I wasn't doing anything anyway. I was doing what you told me -- talking to people, forming connections, yadayada. I was also doing what Xinpeng told me -- stay sharp in the circle, and homies will show up.
 
-Q’s ***<u>silver Tesla***</u> was sitting quietly in the sun. ***<u>Its polished skin reflected my astonishment in 1048p.***</u>
+***The kids near the fountain were so pure, like crystals.*** They were just running around half-naked, and there was no shame about it. There was this 10-year-old kid holding up his younger brother / friend and giving the most liberating smile I have ever seen in a while. Kids and animals! No holding back on anything. They were just cool like that.
 
-The inner design was pretty modern + techy. A screen, and another screen. Q gently ***<u>tapped a card***</u> above the car door — that is how you unlock a car?! Like ***<u>a hotel room?!***</u>
+![]()
+<small>Kids are pure.</small>
 
-We waved goodbye to Q. The Tesla sent an electric vroom vroom.
+I met Anton (my boss/mentor) on the sidewalk. Small talks. He asked about my weekend. Somehow, ***I guess in moments of fragility, anyone will become your bestie.*** I said, I will tell you all about it...at lunch or something.
 
-<h3>Vibe Coding Once More</h3>
+He seemed a bit stunned and said Sure! So, ***somehow I initiated a lunch. With my boss.***
 
-Context: the Software Group Meeting
+During lunch hours, I don't know if I should reach out. Anton messaged in the group chat to confirm, and we sat down at a table in the lobby. Bill, the SWE who is over 60 years old and has sharp blue eyes, joined later as well.
 
->Speaker: Do ***<u>NOT***</u> ask the copilot to give you code that you don’t understand! There will be bugs that you don’t know how to fix, and more issues.
+I was telling them about my trip to NY, sparing all the unbelievable details, of course. I only told them I missed the bus, had a team call at the street corner at 9 am, and spent 14 hours on rides as a whole. When hearing me say ***"I was sitting on my suitcase in a street corner..."*** Anton said ***"aww".*** Did I just remind him of the daughter that he's never had? Jkkk.
 
-![Use ChatGPT to debug.](/img/blog5.0/ai_fix_bug_pls.jpeg)
-<small>This comes from my Shanghai colleague, whom I will introduce in the next post.</small>
+Somehow, ***everyone could resonate with a bit of crazy times in their life.*** I said, ***I arrived at Times Square at 12 am, and there was heavy traffic. What are people doing at 12 am?*** Anton said, city never sleeps! Bill said, ***12 am?! That is when life just started! Try 12 pm at noon!***
 
->Speaker: Vibe coding.. ***<u>DON’T DO IT!***</u> If you do… I will ***<u>CHASE, YOU, DOWN!***</u>
+That just came from my senior colleague!
 
-His half-joking / half-furious gaze is penetrating through the monitor screen. I had goose bumps.
+I said, Isn't that a European thing, where you go to the club at 12 am, and leave at 4/5 am? Anton said ***he did it once. Went in at 1, went out at 4.*** He said it with his husky, gentle voice.
 
-<h3>Hawaiian Shirts</h3>
+I mean...
 
-Context: Another daily standup.
+Circling back to some more normal conversations, Bill and Anton were talking about weekend things and their past lives. Bill was a hardware engineer?
 
-I forgot if it was VM or BP who complimented BK’s ***<u>“Hawaiian-style” shirt,***</u> and someone said — in his old company, there was once a tradition that ***<u>everybody needed to wear a Hawaiian-style shirt on Fridays.***</u>
+>”I thought you were... Computer Science?"
 
-I said, can we bring this tradition back into the house?
+Now both Anton and Bill laughed. Anton said Bill became a software engineer from a hardware engineer. Bill had also done something related to ... explosives?
 
-AB said, ***<u>maybe…***</u>
+>”So do you know like government secrets?"
 
-<h3>If You Invite Me…</h3>
+Inappropriate question. Got laughed off. But ***what harm could I do?*** I'm just a 21-year-old intern who couldn't figure her own shit out!
 
-Context: Another daily standup.
+Apparently, Bill was a pretty crazy-cool guy. He goes hiking, mountain climbing, parachute jumping, etc... But isn't parachute jumping super dangerous? It's your life, my bro. 
 
-AB was not here yet, so I tried to bond with my teammates. I mean, I am just an intern, so ***<u>whatever I said could be forgiven.***</u> Yes or no.
+No, you have to cross it off your bucket list! Bill said. 
 
-Someone said, BK, you have a nice attic! I like your wood-aligned ceiling in the background.
+>So do you still have your bucket list?
 
-FYI, among the 5 of us, I was the only one working inside the office. ***<u>Give me the company VPN.***</u> Look in my eyes!
+>It is all in my head.
 
-BK said, nah, it is not my attic, just a room — a room where ***<u>my wife and I used to dance.***</u> My wife was once ***<u>a semi-professional dancer!***</u> We used to have those dancing sessions at ***<u>the Christmas parties we threw…***</u>
+Bill pointed at his white hair / head.
 
-FYI, ***<u>BK is over 60 years old.***</u> I don’t know how or why he is still in this high-intensity work environment. Not really fast-paced, but relatively draining. Sometimes when BK is trying to debug something, he does that hair massaging thing that Pauri does... Just like your old boss as you once told me Archer. Iykyk...
+>So, have you crossed off most things / some of the things on your list?
 
-I had to say something.
+I don't know if I phrased the question correctly or not, but I don't mean to imply he is old or something.
 
-I said, ***<u>BK, if you invite me to your Christmas party this year, I will make sure to record all the dancing.***</u> Serious face for 1 second. Bursted into inappropriate laughter for the next 10.
+>I have done a lot of things.
 
-Fortunately, I think BK caught my joke. Everybody gave out a light laugh.
+Bill laughed. He said he once went mountain climbing in winter, in which he used ice axes. 
 
-AB finally joined the meeting. He smoothly blended in the conversation by saying he and his wife were once into ***<u>cha-cha and salsa dancing.***</u>
+>”That was so cool!!"
 
-<h3>Bagels</h3>
+>It was pretty "cool". Maybe a little bit "too cool". Bill said.
 
-Jocelyn is the nice lady who takes charge of all the food / resources / logistics... Every now and then I would get a ping mail from her saying: Food in 2xx! Get food before 4pm! Food...
+Bro's got humor.
 
-There is one time I asked her, can I have the frozen bagels in the fridge?
+In most to all cases, ***I assume age = wisdom & insights, at least experience.*** I asked Anton and Bill ***if they would feel the void from going out, to back being a screenager in the office?*** Phrased better, of course. I said I guess I am still too young to balance out the dopamine drop. Why am I here! (I didn't say this one.)
 
-She said, absolutely!
+Bill was looking at me with his clear blue eyes behind the glasses. He just nodded.
 
-The next day, I greeted her on my way up to the office, and she said, by the way, just put some more bagels over there!
+He also asked about Shanghai: ***What is the population?***
 
-That was my daily high!
+>Let me do the number translation...
 
-Jocelyn was going to New York for her vacation. I fake-cried to her: Who am I going to reach out to for bagels?
+Light chuckles from Anton and Bill.
 
-She said, sorry dear...
+I asked innocently, What is it called in English, ***3 with 7 zeros? (30,000,000)***
 
-<h3>Indian Subways</h3>
+>30 million.
 
-Rishi was a buddy I connected with through Uber share. He is from a nearby company, and we always see each other at train stations or accidentally get into the same Uber. We car pooled a couple of times and are now chill buds.
+Bill started confirming the population in Shanghai on Google. I panicked. I said, ***I could be dramatically wrong!*** But it turned out I wasn't that wrong. It was precisely around that. Bill said, ***She knows her town!***
 
-He said, once he was in an Uber share to his office in the morning, and there were ***<u>2 big drunk dudes stuffed with him in the back row.***</u> It was in the morning!
+I said, ***I always call Shanghai the cleaner version of NY without all the illegal activities.*** That gave Anton a laugh.
 
-He also said, in India, some subways/trains are wild… There were so many people inside a section that some of them ***<u>hung outside of the carriage by holding on to the ladder?!***</u> Bhakti, is this true?!
+Anton's meeting was coming up, so we headed back. Bill asked if I was from Brandeis.
 
-He also said, Ronaldo is the goat. Not Messi. Ronaldo!
+>Yes.
 
-I said, I am a dumbass in soccer (💀)... But, if people ask, I will forward them your opinion... And there is the opinion ⬆️.
+>Do you like your college?
 
+>Yes! I am already having emotional attachments to my school.
+
+>Woah. Emotional attachments already?
+
+>I mean, we always complain about our school, but deep down cling to it. I always say my dorm is shit, but I still love it.
+
+...
+
+>You know, I think Brandeis is quite nice. I once dated a woman from Brandeis. decades ago. That was before you were born.
+
+...
+
+>We [him and some Brandeis kids] used to plan for biking in Ireland.
+
+>Like you ***bike*** from the US to Ireland?!
+
+>No. We carry our bikes to the plane and go biking in Ireland. But that would be a good idea. Also, we had this biking trip from Boston to New York. We biked from Boston to New York. We had parents from Brandeis helping us organize places to stay along the routes. So we were basically biking for 60 miles per day. It was for something in 1982...(Shh!)
+
+>Legs must be dead.
+
+>Haha... You play tennis, right? It should be ok for you.
+
+>No! My mind is fragile.
+
+>You will be fine!
+
+>I guess! I think I will survive if it were for a good cause.
+
+...
+
+Thank you, Bill.
+
+All the best,
+Nancy Zhang
+Software Engineer Intern
+Seurat Technologies, Inc.
+617-678-4891
+xxx@seurat.com
+
+<h3>2nd Mail</h3>
+
+JIAYI ZHANG <xxx@g.ucla.edu>
+Tue, Jun 24, 12:20 PM
+to Nancy Zhang
+
+What’s up Nancy,
+
+Hope you are doing well and your start of the week is smoother than ever. I’m on my way to universal now. Today’s gonna be a fantastic day. So does yours. 
+
+Best regards,
+Jiayi
 
 <h3>Next Up Internship Shenanigans:</h3>
-<a href="{{ '/posts/dearinternep6/' | url }}">Dear Intern ep6. All Hands, No Beer.</a>
+<a href="{{ '/posts/dearinternep6/' | url }}">Dear Intern ep6. Fun Facts 2.0.</a>
 

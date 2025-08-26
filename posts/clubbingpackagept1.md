@@ -17,7 +17,7 @@ layout: layouts/post.njk
 
 <h4>If you wanna skip to episode 2</h4> —> <a href="{{ '/posts/clubbingpackagept2/' | url }}">Clubbing Package Pt.2. (The REAL) Watty in a Club</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 🚨 ***<u>ALARM: THIS IS A GIRLY POST IN ACTION.***</u> 🚨
 No more cocktails for me — although that bartender is… kind of hot.

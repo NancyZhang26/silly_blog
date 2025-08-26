@@ -123,6 +123,10 @@ I don’t know what to talk about. I feel silly, so I asked a lot about career a
 
 >Yes, you should definitely reach out and apply for as many jobs as possible. Apply for jobs that you are overqualified, underqualified. Apply for 100 positions before Halloween. Put yourself out there. ***Don’t stay comfortable — whenever you feel like you are getting comfortable, something is wrong.***  Stay outside of ur comfort zone, always.
 
+>***Make them like you!*** What makes you stand out from thousands of people with identical skills? EDM! Music! Among all the other CS people, do you think you would hire someone who fits the category description, or someone who can party, DJ, and have loads of fun while being professional?
+
+But I don’t want to be a people pleaser, or attention ho*. I do enjoy attention. Guilty as charged. But I feel bad using my passion for an impure purpose. But I know they are right.
+
 Alex said ***he didn’t know what a GPA was until his sophomore year.*** Man, how is it possible?!
 
 They asked me what is my dream company. I said — ***Spotify?*** He said, do you know where is Spotify based? I shook my head. ***Stockholm, Sweden,*** he said. You should do your research!

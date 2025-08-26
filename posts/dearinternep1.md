@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Last Cali Post:</h3>
 <a href="{{ '/posts/calistoryep8/' | url }}">The Zhangs in Cali ep8. Adios Jiayi.</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 [Dear intern](https://dearintern.net), you're fine...
 

@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 <a href="{{ '/posts/spring2025finalweekpt3/' | url }}">Final Week Pt.3. Before I Leave.</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 🚨 ***<u>ALARM: THIS IS A GIRLY POST IN ACTION.***</u> 🚨
 <h4>Recap:</h4> Watty and I went to Brookline for dinner, bumped into Daniel Shemesh, and came back to his apartment for pregaming while watching Twilight: Breaking Dawn. (<a href="{{ '/posts/clubbingpackagept1/' | url }}">Clubbing Package Pt.1. Watty in a Club (???)</a>)

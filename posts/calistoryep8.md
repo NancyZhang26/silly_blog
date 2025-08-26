@@ -11,7 +11,7 @@ layout: layouts/post.njk
 <h3>Previous Cali Post:</h3>
 <a href="{{ '/posts/calistoryep7/' | url }}">The Zhangs in Cali ep7. Random Thoughts.</a>
 
-<h3>Main Plot Goes Here:</h3>
+<h3>Main Plot Starts Here:</h3>
 
 I’m on the plane. How did 3 weeks in Cali just pass like that?
 
