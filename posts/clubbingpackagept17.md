@@ -27,7 +27,7 @@ Chugged some coffee. Goofed around. Called a frog, and how did it become ***3 pm
 
 Eventually went outside around 4 pm. Roamed around Downtown El Paso. On the highway, distant mountains looked religious. I could hear cowboys playing guitars on the hill.
 
-![El Paso on the high way.]()
+![El Paso on the high way.](/img/blog7.0/el_paso.jpg)
 <small>El Paso, TX. It’s so easy to fall in love.</small>
 
 Reached downtown! I saw the fences near the event venue — it was San Jacinto Square. Couldn’t remember. But there were fences, tents, …, things getting set up. Cool.
@@ -36,21 +36,27 @@ One of the best ways to get to know a city is to ***spend some time with the raw
 
 I checked out ***the El Paso Museum of Art.*** Yo. I can’t believe I am checking out modern art museums. I am doing it for ***my beloved sister.*** It was a free entrance! The AC brought me back to life, and the paintings are vibrant. Mexican culture feels vibrant. The contrast and high saturation were yelling at me. My eyes were dazzled. ***Every stroke seemed so brave and expressive.*** Jiayi would have liked it.
 
-![]()
-<small>This one is my fav.</small>
+![Featuring a cowboi](/img/blog7.0/cowboi.jpg)
+<small>This painting is my fav.</small>
 
 I spent quite a while walking down ***Bienvenidos, Downtown El Paso.*** It looks like ***a local commercial street.*** I walked from one end to another, went to the other side ot the street, and walked back to the entrance. Saturday evening. Not many tourists. It was just chains of local commercial shops, reminding me of 江南古镇 actually. Many shop owners either do not speak English or have heavy Spanish accents. It does feel familiar to my home in that I swear 80% of the goods are made in China, except for some artsy shops. Too obvious! They even have ***fake labubus…***
 
+![Street Entrance](/img/blog7.0/market_entrance.jpg)
+<small>Outdoor market.</small>
+
 I wanted to buy a cowgirl hat, because I was wearing a jean fit specifically for this. Didn’t buy anything because I ***grabbed my own hand*** after checking my bank balance. Also, because all the shops ***closed at 6 pm.***
 
-![]()
-<small>Didn't get it.</small>
+![Cowgirl?](/img/blog7.0/nancy_zhang.jpeg)
+<small>Didn't get the hat.</small>
 
 <h3>Pregame Was Too Early… Again</h3>
 
 The event flyer says that the event starts at 8 pm. I should have known better after all the heavy pregame and sober main plots. But this time they were playing [Sticky](https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H?si=5496d1e6d52846d2)! As the plaza speakers banged one of my summer go-to tracks, I was like fine, I am going for another 4 hours of solo pregaming.
 
 I walked inside the plaza, and ***the bartender at the bar started waving at me and inviting me for a drink.*** I said no thanks! But only after 30 minutes of roaming around and taking free stickers, I went for a drink. Tequila + redbull again. It is the same drink I have been chugging from Lollapalooza.
+
+![Me](/img/blog7.0/me_el_paso.jpg)
+<small>That's me fam.</small>
 
 I was chewing the ice, and then somebody came over. No way, it was the guy who helped take my picture from 11:11 EP TX. Ok, now I am sure he just wants to hook up. He was talking to girls after girls, and I am pretty surprised that he remembers my face. Bro’s got Chinese tattoos on his forearms that say “change” or something. Couldn’t remember. Conversations flowed quite… normally. But I was eyeing the security, who was kind enough to take pictures for me, and the security was eying us as well. Thank you, dear sir. The guy asks me, Do I find his friend attractive? Do I find anyone here attractive?
 
@@ -78,7 +84,7 @@ So this is what it feels like.
 
 I heard someone ask me, “Are you from Boston”? I thought I was tripping. But then I turned my head left and saw ***a guy with eyes like black crystal holding hands with a European-looking girl.*** I don’t recognize that face well, but the voice is too familiar.Dame it, it was the Uber driver ***Leny** who sent me to 11:11 EPTX! What are the chances? I started straight-up laughing. We greeted each other. I insisted that we take a selfie together. We did. Life! Always surprising you.
 
-![]()
+![Us](/img/blog7.0/maup_us.jpg)
 <small>Leny and his girl!</small>
 
 …It was almost 12 am, and I figured I would join the crowd one last time till the show ended. I joined at the right moment. ***Mau P was up. On time.***
@@ -86,6 +92,9 @@ I heard someone ask me, “Are you from Boston”? I thought I was tripping. But
 <h3>Mau Papi</h3>
 
 Until this moment, ***I have seen Mau P in the Hamptons, in Lollapalooza, in Radius, and here in Downtown El Paso.*** I listened to his sets on repeat and repeat. I knew his tricks. I knew he would insert a motif of [Drugs from Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv?si=6a2ac211e25444ce) during [Merther](https://open.spotify.com/track/3WBeUXMYcRePMS2DwaNwUD?si=4aeff938e08e45eb). Interestingly, this time he didn’t do it. But he played [Dress Code](https://open.spotify.com/track/00kiqMQGZQFH8YSiyrN8Ew?si=c8ec592b97664003). He played some Anaconda remix. He played his half-hype, half-chill club playlist. What surprises me is that he ended his set with an encore on [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP?si=e5d8658f2d904184)! Incredible. I am so glad that I clicked into the bio of [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E?si=BlwTSAlURSOKV4gIKR88Ig) and discovered this treasure. Mixed feelings! ***I spearheaded through the crowd towards the main stage*** — super close to the DJ deck. I could see Mau P’s beanie and his cigarettes. [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP?si=e5d8658f2d904184) was fading away… ***So did the alc and the joint, and the process bar of my interstate tour.***
+
+![Mau P](/img/blog7.0/maup_el_paso.jpeg)
+<small>Maurice West @ El Paso</small>
 
 Mau P played for about 1.5-2 hours. Similarly, ***the crowd was doing its own thing.*** People were pushing each other, shouting, spilling drinks, throwing pick-up lines… Some guys carry girls on their shoulders; some homies were fanning… It was a much smaller and chillier crowd than Lollapalooza. I enjoyed it. I had enough room to sway against the beat and breathe in some fresh breeze. ***It was a tender summer night screaming to show its tenderness through heavy techno EDM.*** It was nice for me. It has always been.
 

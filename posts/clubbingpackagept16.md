@@ -21,7 +21,7 @@ I called the hotel to send a shuttle to pick me up. Life hack!
 
 I got on the shuttle. Distant mountains said hi to me on the highway, along with the pieces of housing and architecture scattered upon the distant hills. ***Evidence of human residence is everywhere.*** I mean, of course...? But they seemed to be ***less robot-like*** than concrete. It's life everywhere. I believe Mexico is pretty nearby. Tacos anyone??
 
-![Texas view](/img/blog7.0/el_paso.jpg)
+![Texas view](/img/blog7.0/el_paso_morning.jpg)
 <small>Almost like a fairy tale.</small>
 
 I guess I am in Texas now.

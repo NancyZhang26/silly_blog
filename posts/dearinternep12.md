@@ -95,7 +95,9 @@ Lastly, big shout-out to the SLICE team! Thank you, everyone, for being amazing 
 
 Lastly, questions…??
 
-Thank you so much!I typed the presentation down just to get it down. I got bored on the train so why not.
+Thank you so much!
+
+I typed the presentation down just to get it down. I got bored on the train so why not.
 
 <h3>Next Up Internship Shenanigans:</h3>
 <a href="{{ '/posts/dearinternep13/' | url }}">Dear Intern ep13. Thank You Seurat.</a>

@@ -19,7 +19,7 @@ Nancy Zhang <xxx@seurat.com>
 To: JIAYI ZHANG <xxx@g.ucla.edu>
 Tue, Jul 29, 2025 at 4:45 PM
 
-<a href="{{ '/posts/clubbingpackagept13/' | url }}">...</a>
+<a href="{{ '/posts/clubbingpackagept13/' | url }}">...Previous Part...</a>
 
 ![Manifesting](/img/blog7.0/bp_wish.jpg)
 <small>After 158 days, my wish came true.</small>

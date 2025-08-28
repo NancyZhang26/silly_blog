@@ -92,4 +92,5 @@ Thank you loads to whoever and whatever that made all of those happen. I have a 
 What happened in NY has happened way outside of NY, but Vegas though?? Just kidding!
 
 <h3>Next Up Internship Shenanigans:</h3>
+
 This is the end of my ***Dear Intern*** series! Thank you for reading all the way till here. Appreciate you. 🤍🩵💙
