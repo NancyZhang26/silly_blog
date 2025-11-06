@@ -49,5 +49,5 @@ It was not until 10 minutes after my neighbor girl, who wants to be a surgeon, f
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep2/' | url }}">Senior @ Deis. ep2. TBC.</a>
+<a href="{{ '/posts/senior@deisep2/' | url }}">Senior @ Deis. ep2. Octoberfest.</a>
 
