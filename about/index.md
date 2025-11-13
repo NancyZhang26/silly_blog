@@ -8,7 +8,9 @@ eleventyNavigation:
 ---
 
 ![Me](/img/nz-bio.jpeg)
-<small>A ziv 128 production. (to-be-updated)</small>
+<small>A ziv 128 production.
+       Updated in August 2025: A ziv 127 production.
+       (to-be-updated) </small>
 
 Full-time slacker. Part-time tennis student-athlete & CS Student & Music Student. 🎾💻🎵
 Part-part-time DJ & pianist & guitarist. 🎧🎹🎸
