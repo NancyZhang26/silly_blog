@@ -1,5 +1,5 @@
 ---
-title: Senior @ Deis. ep2. 十月金秋
+title: Senior @ Deis. ep2. 十月
 description: Funny!!!
 date: 2025-11-05
 scheduled: 2025-11-05
@@ -39,4 +39,4 @@ layout: layouts/post.njk
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep3/' | url }}">Senior @ Deis. ep3. The Past 3 Weeks.</a>
+<a href="{{ '/posts/senior@deisep3/' | url }}">Senior @ Deis. ep3. Back at Boston</a>
