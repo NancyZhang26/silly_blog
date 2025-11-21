@@ -1,6 +1,6 @@
 ---
 title: Senior @ Deis. ep6. 什么样的人
-description: :)
+description: 一些思考1.9
 date: 2025-11-19
 scheduled: 2025-11-19
 tags: Senior-Deis-Life
@@ -43,4 +43,4 @@ Pros and cons are pretty obvious. 你的棱角有没有被磨平。你有没有�
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep7/' | url }}">Senior @ Deis. ep7. TBC</a>
+<a href="{{ '/posts/senior@deisep7/' | url }}">Senior @ Deis. ep7. Ego</a>

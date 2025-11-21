@@ -37,4 +37,4 @@ layout: layouts/post.njk
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep5/' | url }}">Senior @ Deis. ep5. 微博</a>
+<a href="{{ '/posts/senior@deisep5/' | url }}">Senior @ Deis. ep5. Stream of Thoughts</a>
