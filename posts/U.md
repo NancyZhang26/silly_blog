@@ -21,9 +21,9 @@ Flashbacks seem pretty often to me. Every time I hear back from you, the night b
 
 The green sheets in Malden center, the white walls in Olivia, the million-dollar night view, Hell’s Kitchen across the street. From the tanks and jeans season to the 4 most unbearable months in North America. I didn’t like NY, but I never knew I could get attached to a city because of a person.
 
-The only thing that did not change is those DJ sets that I always loop as I work. Mau P John Summit Fisher Max Styler Odd Mob. It’s just now I  get tired of them too. It’s actually not been that long. A mere 6.5 months, but so much has happened. So much! When I look back, I feel proud that I managed to keep my life full. I could have lain back, but I didn’t, and I thank you for it.
+The only thing that did not change is those DJ sets that I always loop as I work. Mau P John Summit Fisher Max Styler Odd Mob. It’s just now I get tired of them too. It’s actually not been that long. A mere 6.5 months, but so much has happened. So much! When I look back, I feel proud that I managed to keep my life full. I could have lain back, but I didn’t, and I thank you for it.
 
-You said you thought you were broken but so was I, can you believe it? I always thought I could meet some kind of savior, but there isn’t any sort of messiah but the person himself. I believe a good relationship is one in which two whole circles collide, not two halves trying to be compatible. I don’t know what I mean by that but, can you get drunk in front ot me? I want to see you being vulnerable.
+You said you thought you were broken but so was I, can you believe it? I always thought I could meet some kind of savior, but there isn’t any sort of messiah but the person himself. I believe a good relationship is one in which two whole circles collide, not two halves trying to be compatible. I don’t know what I mean by that but, can you get drunk in front of me? I want to see you being vulnerable.
 
 I do feel like I am being a better self after I met you. A whole different life. How would I ever know? Not a tennis maniac, just a bit bitter. Maybe not a nerd, but I never spent this much time on my laptop before.
 
