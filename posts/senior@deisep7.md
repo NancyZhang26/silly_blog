@@ -31,4 +31,4 @@ layout: layouts/post.njk
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep8/' | url }}">Senior @ Deis. ep8. 又看我跟祯哥狗嘴里吐出什么象牙</a>
+<a href="{{ '/posts/senior@deisep8/' | url }}">Senior @ Deis. ep8. So Stressed</a>

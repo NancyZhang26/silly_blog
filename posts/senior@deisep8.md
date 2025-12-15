@@ -51,4 +51,4 @@ Like all the good things are happening and I shouldn’t ignore them. Like I thi
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep9/' | url }}">Senior @ Deis. ep9. 又看我狗嘴里吐出什么象牙</a>
+<a href="{{ '/posts/senior@deisep9/' | url }}">Senior @ Deis. ep9. The Last Week</a>
