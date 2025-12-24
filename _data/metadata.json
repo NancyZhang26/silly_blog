@@ -1,7 +1,7 @@
 {
   "title": "Back to Home",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "url": "https://nz-silly-blog.vercel.app",
+  "domain": "nz-silly-blog.vercel.app",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
@@ -10,17 +10,17 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://nz-silly-blog.vercel.app"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://nz-silly-blog.vercel.app/feed/feed.json"
   },
   "author": {
     "name": "Nance Z. Click to see some bio.",
     "twitterHandle": "update_me"
   },
   "publisher": {
-    "name": "A Ziv 128 Production."
+    "name": "A Ziv 127 Production."
   }
 }
