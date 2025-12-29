@@ -65,15 +65,21 @@ The chatter died down.
 
 >I just said it. I drink coffee and occasionally smoke. I skateboard.
 
->Is that all you do?>What do you mean? What do you do?
+>Is that all you do?
+
+>What do you mean? What do you do?
 
 >I am a janitor. I make sure that no malicious people enter the neighborhood. I make my community a better place. I get paid minimum wage.
 
->Sounds like a Robocop.>What is a Robocop?
+>Sounds like a Robocop.
+
+>What is a Robocop?
 
 >If you mean the specific mechanism behind it, I don’t know. What I know is they are half living machines that make us safe.
 
->Cool — like they catch thieves and robbers and stuff?>What are thieves and robbers?
+>Cool — like they catch thieves and robbers and stuff?
+
+>What are thieves and robbers?
 
 >People who take away your property, like money, without asking you.
 
