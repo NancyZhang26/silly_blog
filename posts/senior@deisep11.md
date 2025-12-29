@@ -44,7 +44,10 @@ I pushed my cup of coffee in front of her.
 “Smoke?” I pulled out a cigarette from my purse and reached into my pocket for a lighter. Again, Sally was giving me the look of hesitation. “Headache again?” I asked her as her lips were half open. She shook her head.
 
 “Fine.” I lit up. Inhaled. Exhaled. Sally was trying to breathe in the smoke like a man in a desert.
-The chatter died down.“What do you do?”Sally asked me aggressively.
+
+The chatter died down.
+
+“What do you do?” Sally asked me aggressively.
 
 <h3>What Do You Do?</h3>
 
@@ -158,7 +161,9 @@ Sally’s eyes started drifting away again.
 
 >What do they do?
 
->They don’t do or say anything, because I don’t belong with them. They talk about terms that I don’t understand and think low of me for not understanding them.>Did they tell you that?
+>They don’t do or say anything, because I don’t belong with them. They talk about terms that I don’t understand and think low of me for not understanding them.
+
+>Did they tell you that?
 
 >No, I just figured.
 
