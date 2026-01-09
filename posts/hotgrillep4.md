@@ -40,6 +40,6 @@ Btw, listening to the [Dollapalooza](https://www.bilibili.com/opus/1096438677502
 
 Today is Sep 29th. Happy birthday Mom.
 
-<h3>Check How I Grill Myself:</h3>
-<a href="{{ '/posts/hotgrillep1/' | url }}">Hot Grill ep1. C₁₀H₁₄N₂ -- 1.0.</a>
+<h3>Next Up:</h3>
+<a href="{{ '/posts/hotgrillep5/' | url }}">Hot Grill ep5. Sally</a>
 

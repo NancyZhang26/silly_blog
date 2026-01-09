@@ -1,15 +1,16 @@
 ---
-title: Senior @ Deis. ep11. I Had a Conversation with Sally
+title: Hot Grill ep6. I Had a Conversation with Sally
 description: Random rant
 date: 2025-12-28
 scheduled: 2025-12-28
-tags: Senior-Deis-Life
+tags:
+  - Hot-Grill
 layout: layouts/post.njk
 ---
 
 <h3>Check My Other Posts!</h3>
 
-<a href="{{ '/posts/senior@deisep10/' | url }}">Senior @ Deis. ep10. Sally</a>
+<a href="{{ '/posts/hotgrillep5/' | url }}">Hot Grill ep5. Sally</a>
 
 <h3>Main Plot Starts Here</h3>
 
@@ -198,4 +199,4 @@ I nodded at her and continued going.
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep12/' | url }}">Senior @ Deis. ep12. TBC.</a>
+<a href="{{ '/posts/hotgrillep7/' | url }}">Hot Grill ep7. I Had a Conversation with Sally - Chinese Version - 我跟翠花聊了会儿天 </a>

@@ -1,15 +1,16 @@
 ---
-title: Senior @ Deis. ep10. Sally
+title: Hot Grill ep5. Sally
 description: Random rant
 date: 2025-12-25
 scheduled: 2025-12-25
-tags: Senior-Deis-Life
+tags:
+  - Hot-Grill
 layout: layouts/post.njk
 ---
 
 <h3>Check My Other Posts!</h3>
 
-<a href="{{ '/posts/senior@deisep9/' | url }}">Senior @ Deis. ep9. The Last Week</a>
+<a href="{{ '/posts/hotgrillep4/' | url }}">Hot Grill ep4. Confession</a>
 
 <h3>Main Plot Starts Here</h3>
 
@@ -34,4 +35,4 @@ Sally should wait, and Sally should chill.
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep11/' | url }}">Senior @ Deis. ep11. I Had a Conversation with Sally</a>
+<a href="{{ '/posts/hotgrillep6/' | url }}">Hot Grill ep6. I Had a Conversation with Sally</a>
