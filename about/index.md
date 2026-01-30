@@ -22,4 +22,4 @@ Part-part-part-part-time just a chill girl iykyk. 😮‍💨
 Can't be deported after school: [Connect w me on Linkedln!](https://www.linkedin.com/in/nancy-zhang-973a7b301/)
 If you wanna hear me cringe rap: [My Spotify](https://open.spotify.com/artist/0kgvKUVU7MCVauTP6YNXTy?si=OzL7YgMVQXuzqWneW-gjDw)
 If you wanna hear me DJ with the most basic bangers: [My SoundCloud](https://on.soundcloud.com/6ac7MNaLCsDZz9vN8)
-A mix that I am most proud of: [The ULTIMATE House Mix](https://on.soundcloud.com/JNxhWwGJ73D5tsqB8)
+A mix that I am most proud of: [Daddy's Mix](https://on.soundcloud.com/kiUe9pIbBsCl8aPfx6)
