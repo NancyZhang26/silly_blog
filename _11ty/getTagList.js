@@ -2,7 +2,7 @@ module.exports = function(collection) {
   let tagSet = new Set();
   collection.getAll().forEach(function(item) {
     if( "tags" in item.data ) {
-      let tags = item.data.tags;
+      let tags = item.data.tags; // Careful with renaming
 
       tags = tags.filter(function(item) {
         switch(item) {

@@ -3,7 +3,7 @@ title: Senior @ Deis. ep4. Stream of Thoughts
 description: :)
 date: 2025-11-12
 scheduled: 2025-11-12
-tags: Senior-Deis-Life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 

@@ -3,8 +3,6 @@ title: U
 description: :3
 date: 2025-12-02
 scheduled: 2025-12-02
-tags:
-  - Frog
 layout: layouts/post.njk
 draft: true
 ---

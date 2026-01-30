@@ -1,5 +1,5 @@
 ---
-title: Final Week Pt.3. Before I Leave.
+title: (Junior) Final Week Pt.3. Before I Leave.
 description: Junior count down -- done.
 date: 2025-05-14
 scheduled: 2025-05-14

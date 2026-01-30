@@ -2,9 +2,17 @@
 permalink: /tags/
 layout: layouts/home.njk
 ---
-<h1>Tags</h1>
+<h1>Tags:<br>Posts Sorted by Themes!</h1>
 
-{% for tag in collections.tagList %}
+{# {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  <a></a>
+{% endfor %} #}
+
+{% for tag in collections.tagList %}
+    {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+    - {{ tagDescription[tag] }}
+    <div></div>
 {% endfor %}

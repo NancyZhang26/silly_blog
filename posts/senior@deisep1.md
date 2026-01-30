@@ -3,7 +3,7 @@ title: Senior @ Deis. ep1. Dropping Sum
 description: Random thoughts in GoldFarb
 date: 2025-09-09
 scheduled: 2025-09-09
-tags: Senior-Deis-Life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 

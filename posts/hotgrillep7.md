@@ -5,6 +5,7 @@ date: 2025-12-28
 scheduled: 2025-12-28
 tags:
   - Hot-Grill
+  - Chinese
 layout: layouts/post.njk
 ---
 
@@ -198,4 +199,4 @@ layout: layouts/post.njk
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/hotgrillep8/' | url }}">Hot Grill ep8. TBC.</a>
+<a href="{{ '/posts/hotgrillep8/' | url }}">Hot Grill ep8. 酒国 - 读后感</a>

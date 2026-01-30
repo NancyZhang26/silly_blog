@@ -3,7 +3,7 @@ title: Senior @ Deis. ep8. So Stressed
 description: Random rant
 date: 2025-11-26
 scheduled: 2025-11-26
-tags: Senior-Deis-Life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 

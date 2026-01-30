@@ -3,7 +3,9 @@ title: Senior @ Deis. ep2. 十月
 description: Funny!!!
 date: 2025-11-05
 scheduled: 2025-11-05
-tags: Senior-Deis-Life
+tags:
+  - Deis-Life
+  - Chinese
 layout: layouts/post.njk
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Final Week Pt.1. On the Edge.
+title: (Junior) Final Week Pt.1. On the Edge.
 description: Junior count down -- almost there.
 date: 2025-05-04
 scheduled: 2025-05-04

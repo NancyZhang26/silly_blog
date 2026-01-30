@@ -3,7 +3,7 @@ title: Senior @ Deis. ep3. Back at Boston
 description: Funny!!!
 date: 2025-11-10
 scheduled: 2025-11-10
-tags: Senior-Deis-Life
+tags: Deis-Life
 layout: layouts/post.njk
 ---
 

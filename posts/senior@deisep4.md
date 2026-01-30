@@ -3,7 +3,9 @@ title: Senior @ Deis. ep4. 微博
 description: Sinaweibo
 date: 2025-11-11
 scheduled: 2025-11-11
-tags: Senior-Deis-Life
+tags:
+  - Deis-Life
+  - Chinese
 layout: layouts/post.njk
 ---
 

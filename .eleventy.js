@@ -173,7 +173,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collectionApi) {
     // Enable draft mode locally, disable in production
     const isDevelopmentMode = process.env.ELEVENTY_ENV !== "production";
-    
+
     return collectionApi.getFilteredByTag("posts")
       .filter(item => {
         // In development, show drafts. In production, hide them.
@@ -184,6 +184,13 @@ module.exports = function (eleventyConfig) {
         return isDevelopmentMode || new Date(item.date) <= new Date();
       });
   });
+
+  // Nance
+
+
+
+  // Nance
+
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");

@@ -1,5 +1,5 @@
 ---
-title: Final Week Pt.2. Give Me A Moment.
+title: (Junior) Final Week Pt.2. Give Me A Moment.
 description: Junior count down -- a week and a bit more.
 date: 2025-05-09
 scheduled: 2025-05-09

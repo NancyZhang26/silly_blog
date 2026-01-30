@@ -3,7 +3,9 @@ title: Senior @ Deis. ep9. The Last Week
 description: Random rant
 date: 2025-12-15
 scheduled: 2025-12-15
-tags: Senior-Deis-Life
+tags:
+  - Deis-Life
+  - Chinese
 layout: layouts/post.njk
 ---
 
@@ -22,4 +24,4 @@ It’s ugly --
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep9/' | url }}">Senior @ Deis. ep10. TBC!</a>
+<a href="{{ '/posts/senior@deisep10/' | url }}">Senior @ Deis. ep10. TBC!</a>
