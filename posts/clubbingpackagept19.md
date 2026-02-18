@@ -11,8 +11,6 @@ layout: layouts/post.njk
 <h3>Last Clubbing Post:</h3>
 <a href="{{ '/posts/clubbingpackagept18/' | url }}">Clubbing Package Pt.18. Clubbing Package Pt.18. Tao Beach w/ Fisher @ Vegas</a>
 
-Clubbing Package Pt.19. Last Dance @ Nebula, NY
-
 <h3>Main Plot Starts Here</h3>
 
 I don’t particularly like this clubbing experience, but I need to write about it to clear it out of my head.
