@@ -36,4 +36,4 @@ layout: layouts/post.njk
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/hotgrillep9/' | url }}">Hot Grill ep9. TBC.</a>
+<a href="{{ '/posts/hotgrillep9/' | url }}">Hot Grill ep9. Amusing Ourselves to Death.</a>
