@@ -36,4 +36,4 @@ I know that all unpathological pain is merely a result of values. It is all in m
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/hotgrillep10/' | url }}">Hot Grill ep10. TBC.</a>
+<a href="{{ '/posts/hotgrillep10/' | url }}">Hot Grill ep10. Coven Brunch Award Speech!?!</a>
