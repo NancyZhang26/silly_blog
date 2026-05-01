@@ -56,4 +56,4 @@ I have not set foot inside Slosberg for a long time.
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep13/' | url }}">Senior @ Deis. ep13. TBC!</a>
+<a href="{{ '/posts/senior@deisep13/' | url }}">Senior @ Deis. ep13. Did I Win?<a>
