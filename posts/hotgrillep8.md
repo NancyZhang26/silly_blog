@@ -5,6 +5,7 @@ date: 2026-01-26
 scheduled: 2026-01-26
 tags:
   - Hot-Grill
+  - Chinese
 layout: layouts/post.njk
 ---
 
