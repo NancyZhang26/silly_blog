@@ -41,4 +41,4 @@ I miss Jiayi, Xinpeng, and a7cher. :,(
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep11/' | url }}">Senior @ Deis. ep11. TBC!</a>
+<a href="{{ '/posts/senior@deisep11/' | url }}">Senior @ Deis. ep11. I Literally Cannot</a>

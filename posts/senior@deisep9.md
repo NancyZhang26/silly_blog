@@ -24,4 +24,4 @@ It’s ugly --
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep10/' | url }}">Senior @ Deis. ep10. TBC!</a>
+<a href="{{ '/posts/senior@deisep10/' | url }}">Senior @ Deis. ep10. A Zhang in Cali</a>

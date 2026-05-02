@@ -40,4 +40,4 @@ You just came into class, as if you know what is going on anyway. You just canâ€
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep12/' | url }}">Senior @ Deis. ep12. TBC!</a>
+<a href="{{ '/posts/senior@deisep12/' | url }}">Senior @ Deis. ep12. Flashback</a>
