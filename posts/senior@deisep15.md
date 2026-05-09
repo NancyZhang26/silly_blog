@@ -32,6 +32,25 @@ I am thinking about that Instagram reel: while the last exam in high school alwa
 
 Thank you Brandeis.
 
+<h3>By The Way...</h3>
+
+Latest updates for the art class:
+
+![Final Essay Feedback](/img/blog7.0/prof_kalb.jpg)
+<small>The update at 11:45 pm is really moving.</small>
+
+While on the other hand, this is the lowest quiz score for system design:
+
+![Final Quiz Distribution](/img/blog7.0/sd_final.png)
+<small>Lowkey 61 isn't that bad -- last time the lowest score was 37.</small>
+
+And this is my score:
+
+![My Final Quiz Score](/img/blog7.0/sd_me_final.png)
+<small>Last time I got a 56. Precise but not accurate ig. Also please don't ignore the 3-point improvement.</small>
+
+???
+
 <h3>Next up:</h3>
 
 <a href="{{ '/posts/senior@deisep16/' | url }}">Senior @ Deis. ep16. Will prolly write about the aquarium & moving out</a>
