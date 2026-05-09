@@ -1,5 +1,5 @@
 ---
-title: Hot Grill ep11. Coven Brunch Award Speech!?!
+title: Hot Grill ep11. Coven Brunch Award Speech!?! (Uneditted cringe long version)
 description: Speech!?!
 date: 2026-04-30
 scheduled: 2026-04-30
@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 <h3>Check My Other Posts!</h3>
 
-<a href="{{ '/posts/hotgrillep10/' | url }}">Hot Grill ep10. Coven Brunch Award Speech!?! (Uneditted cringe long version)</a>
+<a href="{{ '/posts/hotgrillep10/' | url }}">Hot Grill ep10. Coven Brunch Award Speech!?!</a>
 
 <h3>Main Plot Starts Here</h3>
 
