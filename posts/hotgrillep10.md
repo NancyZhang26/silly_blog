@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 <h3>Main Plot Starts Here</h3>
 
-[Video (main parts)](https://drive.google.com/file/d/16cMM44m7Nhi2rLyeX9e1P64LfK5W-_Bt/view?usp=drive_link)
+[Video (main parts)](https://drive.google.com/file/d/1d5VF2mR3hjA604VhVxswOtg1F-5dO6wd/view?usp=drivesdk)
 
 Thank you.
 
