@@ -34,4 +34,4 @@ I kept judging myself, and somehow, people around me are passing judgment left a
 
 <h3>Next up:</h3>
 
-<a href="{{ '/posts/senior@deisep14/' | url }}">Senior @ Deis. ep14. TBC.</a>
+<a href="{{ '/posts/senior@deisep14/' | url }}">Senior @ Deis. ep14. Prelude</a>

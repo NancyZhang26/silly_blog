@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 <h3>Main Plot Starts Here</h3>
 
-HBD to this silly blog. Also finished the Last Exam for My undergrad.
+HBD to this silly blog. Also finished the last exam for my undergrad.
 
 <h3>I thought I would write more things but... Not much to say, I guess</h3>
 
