@@ -94,3 +94,10 @@ What happened in NY has happened way outside of NY, but Vegas though?? Just kidd
 <h3>No More Next Up Here, Actually:</h3>
 
 This is the end of my ***Dear Intern*** series! Thank you for reading all the way till here. Appreciate you. 🤍🩵💙
+
+---
+
+Updating on 06/16/2026: Correction, got another internship @ Werfen, and the frist post is about ↓↓↓
+
+<h3>Next Up Internship Shenanigans:</h3>
+<a href="{{ '/posts/dearinternep14/' | url }}">Dear Intern ep14. FANNG?!</a>
