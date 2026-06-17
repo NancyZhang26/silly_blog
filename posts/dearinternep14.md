@@ -118,11 +118,11 @@ Before we arrived, I told him not to tell Abhi. I said I wanted to keep it lowke
 
 As we are entering the Cafe, I wanted to pay for Ashtray’s entrance fee. It was funny when both of us rushed to tap our phones, but only his got accepted. He paid for me last time when we hung out in F1. He said, I can take him out after I land some big tech jobs. The statement was coming back to me. My bank account was actually seeing blue, but I do want to flex a little bit. Failed attempt, but anyway…
 
-Abhi and his girl Trisha arrived. We got 4 glasses out. Ashtray said, let’s drink! She (me) has been waiting all day! She even brought the tequila to work (teehee). He poured 2 shots for him and me, we clinked the glasses, tapped it on the desk, exchanged a look, and bottoms up. It was a celebration that only us two understand.
+Abhi and his girl Trishna arrived. We got 4 glasses out. Ashtray said, let’s drink! She (me) has been waiting all day! She even brought the tequila to work (teehee). He poured 2 shots for him and me, we clinked the glasses, tapped it on the desk, exchanged a look, and bottoms up. It was a celebration that only us two understand.
 
 I love this. Shots right after that call. I actually think it is perfect.
 
-For the rest of the night, we played some board games, had dominoes, joked, and laughed. When Abee told us he actually plans to stay in Boston till December instead of the end of June and asked me what I am doing afterwards, I was having mixed feelings. I honestly only knew those two dudes for around 10 days, but it feels so much more than that.
+For the rest of the night, we played some board games, had dominoes, joked, and laughed. When Abhi told us he actually plans to stay in Boston till December instead of the end of June and asked me what I am doing afterwards, I was having mixed feelings. I honestly only knew those two dudes for around 10 days, but it feels so much more than that.
 
 I said, I don’t know. Let’s see!
 
