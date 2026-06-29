@@ -15,9 +15,9 @@ eleventyNavigation:
 
 Full-time slacker + incoming  SWE @ Austin, TX. 🍎👩🏻‍💻
 Prev tennis student-athlete & CS & Music Student @ Brandeis. 🎾💻🎵
-Part-part-time DJ & pianist & guitarist. 🎧🎹🎸
-Part-part-part-time blogger & joker. 🖋️🃏
-Part-part-part-part-time just a chill girl iykyk. 😮‍💨
+Part-time DJ & pianist & guitarist. 🎧🎹🎸
+Part-part-time blogger & joker. 🖋️🃏
+Part-part-part-time just a chill girl iykyk. 😮‍💨
 
 <h3>Also, I am dumping my info here:</h3>
 
