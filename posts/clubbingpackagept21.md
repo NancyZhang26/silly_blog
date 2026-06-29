@@ -63,7 +63,7 @@ Froggie and I got some Halal food from the food truck. Finger-licking good. Plat
 
 Knicks in five?! Thanks NYC. That was fun.
 
-![People.](/img/blog8.0/NYC_Knicks.png)
+![People.](/img/blog8.0/NYC_Knicks.jpg)
 <small>Nothing seems surprising after NYC</small>
 
 <h3>PS</h3>
