@@ -17,7 +17,8 @@ Thank you Xinpeng for your kind words. You said such nice things about me. The m
 
 …
 
-.
+![Apple.](/img/blog8.0/.jpg)
+<small>.</small>
 
 <h3>Fashionably Late</h3>
 
@@ -74,7 +75,7 @@ Have you ever wondered about making a first impression?
 
 We all read people, and we label them. It all comes down to “she is a nice girl,” “he is fake af,” “they seem cool.”
 
-How do you read and interpret a person in a short span of 45 minutes of Q&A? A short conversation, less than 30 minutes? And you need to decide whether you would want to work with this person for a possible many years ahead, mentor them, pay them, sponsor them. I talk with Ashtray now more than anyone in my life. More than my sister, Froggie, and my dad. I feel really lucky to meet him, but I didn’t get to choose, but suppose if you could, how do you make a decision like that within such a short amount of time, on Zoom?!
+How do you read and interpret a person in a short span of 45 minutes of Q&A? A short conversation, less than 30 minutes? And you need to decide whether you would want to work with this person for a possible many years ahead, mentor them, pay them, sponsor them. I talk with Ashtray in person now more than anyone in my life. More than my sister, Froggie, and my dad. I feel really lucky to meet him, but I didn’t get to choose, but suppose if you could, how do you make a decision like that within such a short amount of time, on Zoom?!
 
 Lauren said, *we would like to extend you an offer.*
 

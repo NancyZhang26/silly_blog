@@ -18,6 +18,15 @@ Lots of silly stuff. But there's never too much silliness. Everybody is so serio
   {# <h2>Most Recent Posts</h2>
   {% set postslist = collections.posts %}
   {% include "postslist.njk" %} #}
+  <h2>5 Most Recent Posts</h2>
+  <ul>
+  {% for post in collections.posts | reverse | head(5) %}
+    <li>
+      <a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+      <time  datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    </li>
+  {% endfor %}
+  </ul>
 
   <h2>Browse By Tags</h2>
   <ul>
@@ -37,16 +46,6 @@ Lots of silly stuff. But there's never too much silliness. Everybody is so serio
     <li><a href="{{ '/posts/senior@deisep6/' | url }}">Senior @ Deis. ep6. 什么样的人</a></li>
     <li><a href="{{ '/posts/hotgrillep6/' | url }}">Hot Grill ep6. I Had a Conversation with Sally</a></li>
     <li><a href="{{ '/posts/hotgrillep8/' | url }}">Hot Grill ep8. 酒国 - 读后感</a></li>
-  </ul>
-
-  <h2>5 Most Recent Posts</h2>
-  <ul>
-  {% for post in collections.posts | reverse | head(5) %}
-    <li>
-      <a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-      <time  datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-    </li>
-  {% endfor %}
   </ul>
 
   <h2>Click Here for Every Single Post I Have Ever Written</h2>

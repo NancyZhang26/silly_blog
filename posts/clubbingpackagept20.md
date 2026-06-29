@@ -26,7 +26,7 @@ Ever since the Chris Lorenzo concert @ The Grand before the Computer Networking 
     - One of them: I briefly blacked out
     - One of them: the headliner was Valentino!
     - We did not spend a single penny inside the club for drinks
-- MAX STYLER, (idek where it was; Froggie and I were crossed)
+- MAX STYLER Froggie and I were crossed)
     - It was surprisingly not as hyped, but Maxy does know how to do the grooves
 - 2/14 I did not go to San Pacho because I was busy submitting for grad schools…
 
