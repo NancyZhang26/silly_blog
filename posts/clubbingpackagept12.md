@@ -41,7 +41,7 @@ This is the moment when I know I should be a moderate drinker.
 
 We were having some good times. Hehe.
 
-We went back after about 2 hours of vibing to underground house. I’d say it’s chill. The ***subway shenanigans*** happened again. The subway service stopped after 1 AM. I thought we were the chosen ones, having an entire station empty just to ourselves. Silly me. Froggies was carrying my shoulder bag. Kate Spade looks so good on you!
+We went back after about 2 hours of vibing to underground house. I’d say it’s chill. The ***subway shenanigans*** happened again. The subway service stopped after 1 AM. I thought we were the chosen ones, having an entire station empty just to ourselves. Silly me. Froggie was carrying my shoulder bag. Kate Spade looks so good on you!
 
 ![Empty Station](/img/blog6.0/empty_station.jpg)
 <small>Fresh knowledge: a subway station is empty probably because the service stopped.</small>

@@ -89,7 +89,7 @@ She said the official letter will come tomorrow. They were just waiting on the d
 
 “Cameron… who loves you…”
 
-I did not remember how I felt. I did not know how to feel. Froggies told me if the recruiter would go through such a big hassle to call me, it is most definitely an offer. I am chilling. So maybe I already knew the answer a while back, and hence the nonchalance.
+I did not remember how I felt. I did not know how to feel. Froggie told me if the recruiter would go through such a big hassle to call me, it is most definitely an offer. I am chilling. So maybe I already knew the answer a while back, and hence the nonchalance.
 
 I was wishing for something like ecstasy, like, tears? An eventual relief? I was thinking I might cry? But it was just this nonchalant call on the ride, with my mentor/deskmate/peer(?) on my side.
 

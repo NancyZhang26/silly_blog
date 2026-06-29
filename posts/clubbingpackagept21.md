@@ -33,7 +33,7 @@ The shouting, chaos, people pushing front and back, groups trying to get in and 
 
 With some curses, some complaints and some cheers, before I could realize what was going on, it was the last 5 seconds in the game with the Knicks leading 4 points to the Spurs. 94:90.
 
-Foul after another foul. Seconds stretched to minutes, until the air horn rang, urging everyone to go burn the city down! People around me, of all ages, genders, races, style, started jumping up and down. It was like the pre-storm ocean with surges of waves splashing against the shore, and in this case, the bar. Froggies held my hand and stormed out of the bar. Let’s go to Times Square! That’s where everything will happen.
+Foul after another foul. Seconds stretched to minutes, until the air horn rang, urging everyone to go burn the city down! People around me, of all ages, genders, races, style, started jumping up and down. It was like the pre-storm ocean with surges of waves splashing against the shore, and in this case, the bar. Froggie held my hand and stormed out of the bar. Let’s go to Times Square! That’s where everything will happen.
 
 Wait, what about your friends?
 
