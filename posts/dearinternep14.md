@@ -1,8 +1,8 @@
 ---
 title: Dear Intern ep14. FAANG?!
 description: Day 7 of interning at Werfen
-date: 2026-06-14
-scheduled: 2026-06-14
+date: 2026-06-10
+scheduled: 2026-06-10
 tags:
   - Intern
 layout: layouts/post.njk
